@@ -31,8 +31,8 @@ def update_readme(videos):
     now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     with open("README.md", "w", encoding="utf-8") as f:
         f.write("# 🇰🇷 오늘의 유튜브 실시간 인기 영상 Top 5\n\n")
-        f.write("하루에 영상 5개만 보기.. 약속 \\^o^\/ \n\n")
-        f.write("시간은 금이다$¥฿₩€🪙\n\n")
+        f.write(r"하루에 영상 5개만 보기.. 약속 \^o^/ \n\n")
+        f.write("시간은 금이다$¥฿₩€🪙\n")
         f.write("![gold](https://media.tenor.com/your-gif-id.gif)\n\n")
         f.write("\n")
         for i, video in enumerate(videos, 1):
