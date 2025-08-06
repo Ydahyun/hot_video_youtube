@@ -31,6 +31,7 @@ def update_readme(videos):
     now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     with open("README.md", "w", encoding="utf-8") as f:
         f.write("# 🇰🇷 오늘의 유튜브 실시간 인기 영상 Top 5\n\n")
+        f.write("유튜브 그만봐..")
         for i, video in enumerate(videos, 1):
             f.write(f"**{i}.** {video}\n\n")
         f.write(f"\n---\n")
