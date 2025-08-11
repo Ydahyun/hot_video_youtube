@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/-oG30UjnwVA/default.jpg)
-[Snow Flower (눈꽃)](https://youtube.com/watch?v=-oG30UjnwVA) - Jung Joon-Il - Topic (54,219회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/dAcDmbKXw_0/default.jpg)
+[박다혜,마크툽 (MAKTUB) – 시작의 아이 ❍ ハジマリのコ Starting With You : ♡](https://youtube.com/watch?v=dAcDmbKXw_0) - 마크툽 MAKTUB Official (384,021회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/_6Zvxj0s7SE/default.jpg)
-[IVE 아이브 ‘Secret, Cupid’ Trailer](https://youtube.com/watch?v=_6Zvxj0s7SE) - IVE (748,600회)
+[IVE 아이브 ‘Secret, Cupid’ Trailer](https://youtube.com/watch?v=_6Zvxj0s7SE) - IVE (854,374회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/_xgD3lymeTA/default.jpg)
-[DRX vs BRO - NS vs T1 | 2025 LCK](https://youtube.com/watch?v=_xgD3lymeTA) - LCK (2,094,197회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/l8UJ_WqKk30/default.jpg)
+[KT vs GEN - DNF vs DK | 2025 LCK](https://youtube.com/watch?v=l8UJ_WqKk30) - LCK (1,329,291회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/Nh7I78WlDGM/default.jpg)
-[WANTCHU](https://youtube.com/watch?v=Nh7I78WlDGM) - keshi - Topic (468,100회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/RqImBZoOmF8/default.jpg)
+[Starting With You ❍](https://youtube.com/watch?v=RqImBZoOmF8) - Park Da Hye - Topic (152,818회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/9uIi3uCUNOA/default.jpg)
-[skibidi toilet multiverse 047 (part 2) Trailer](https://youtube.com/watch?v=9uIi3uCUNOA) - DOM Studio (848,850회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/XkrsahZKvGo/default.jpg)
+[피할 수 없는 4타](https://youtube.com/watch?v=XkrsahZKvGo) - 괴물쥐 유튜브 (385,252회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-08-10 06:29 UTC
+⏳ 마지막 업데이트: 2025-08-11 06:33 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
