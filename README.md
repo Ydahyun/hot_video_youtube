@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/LuN3siPlSjo/default.jpg)
-[NCT WISH 엔시티 위시 'Surf'｜On the Spot｜온더스팟](https://youtube.com/watch?v=LuN3siPlSjo) - 1theK Originals - 원더케이 오리지널 (211,837회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/f-fcFGLfEBQ/default.jpg)
+[SHUT THAT (SHUT THAT)](https://youtube.com/watch?v=f-fcFGLfEBQ) - JAESSBEE - Topic (94,163회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/kjz69EH3xMg/default.jpg)
-[로맨틱 어나니머스 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=kjz69EH3xMg) - Netflix Korea 넷플릭스 코리아 (400,676회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/fStL35aU840/default.jpg)
+[BRO vs DNF - HLE vs T1 | 2025 LCK](https://youtube.com/watch?v=fStL35aU840) - LCK (2,903,604회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/fStL35aU840/default.jpg)
-[BRO vs DNF - HLE vs T1 | 2025 LCK](https://youtube.com/watch?v=fStL35aU840) - LCK (2,884,549회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/795zA6fwc14/default.jpg)
+['Golden' HUNTR/X (KPop Demon Hunters) - Cover by 윤하](https://youtube.com/watch?v=795zA6fwc14) - YOUNHA OFFICIAL (98,713회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/f-fcFGLfEBQ/default.jpg)
-[SHUT THAT (SHUT THAT)](https://youtube.com/watch?v=f-fcFGLfEBQ) - JAESSBEE - Topic (35,716회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/CvfkhDryoso/default.jpg)
+[인류99%가 멸망한 세상, 사람인척 하는 좀비를 찾아내라.](https://youtube.com/watch?v=CvfkhDryoso) - 혜안 (334,353회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/F6pFpXdeE80/default.jpg)
-[[종합 예고] 인간을 지키는 12천사?! 악의 힘에 맞서 세상을 구하라! [트웰브] | KBS 방송](https://youtube.com/watch?v=F6pFpXdeE80) - KBS Drama (15,075회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/-4pxYrUtoPA/default.jpg)
+[[최신가요 실시간 인기차트] 2025년 8월 16일 2주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트](https://youtube.com/watch?v=-4pxYrUtoPA) - Beautiful Life (27,976회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-08-16 06:28 UTC
+⏳ 마지막 업데이트: 2025-08-17 06:28 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
