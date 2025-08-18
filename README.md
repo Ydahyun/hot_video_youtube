@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/f-fcFGLfEBQ/default.jpg)
-[SHUT THAT (SHUT THAT)](https://youtube.com/watch?v=f-fcFGLfEBQ) - JAESSBEE - Topic (94,163회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/Dbxfo8YBkYE/default.jpg)
+[BOYNEXTDOOR (보이넥스트도어) 'Count To Love' Official MV](https://youtube.com/watch?v=Dbxfo8YBkYE) - HYBE LABELS (1,071,800회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/fStL35aU840/default.jpg)
-[BRO vs DNF - HLE vs T1 | 2025 LCK](https://youtube.com/watch?v=fStL35aU840) - LCK (2,903,604회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/-0ujV07iQdE/default.jpg)
+[블랙컴뱃15 파라벨룸 Official Trailer](https://youtube.com/watch?v=-0ujV07iQdE) - 블랙컴뱃 (57,812회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/795zA6fwc14/default.jpg)
-['Golden' HUNTR/X (KPop Demon Hunters) - Cover by 윤하](https://youtube.com/watch?v=795zA6fwc14) - YOUNHA OFFICIAL (98,713회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/BLsafyzBMBg/default.jpg)
+[HLE vs GEN - BRO vs DK | 2025 LCK](https://youtube.com/watch?v=BLsafyzBMBg) - LCK (1,886,265회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/CvfkhDryoso/default.jpg)
-[인류99%가 멸망한 세상, 사람인척 하는 좀비를 찾아내라.](https://youtube.com/watch?v=CvfkhDryoso) - 혜안 (334,353회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/17mqKMHUxXY/default.jpg)
+[Count To Love](https://youtube.com/watch?v=17mqKMHUxXY) - BOYNEXTDOOR - Topic (85,488회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/-4pxYrUtoPA/default.jpg)
-[[최신가요 실시간 인기차트] 2025년 8월 16일 2주차, 멜론차트 X, 종합차트, 노래모음 KPOP 플레이리스트](https://youtube.com/watch?v=-4pxYrUtoPA) - Beautiful Life (27,976회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/BCcuFvvFbzU/default.jpg)
+[2025-2026 뮤지컬 데스노트 CHARACTER TRAILER Ⅰ](https://youtube.com/watch?v=BCcuFvvFbzU) - OD COMPANY (3,624회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-08-17 06:28 UTC
+⏳ 마지막 업데이트: 2025-08-18 06:33 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
