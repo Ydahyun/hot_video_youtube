@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/Dbxfo8YBkYE/default.jpg)
-[BOYNEXTDOOR (보이넥스트도어) 'Count To Love' Official MV](https://youtube.com/watch?v=Dbxfo8YBkYE) - HYBE LABELS (1,071,800회)
+[BOYNEXTDOOR (보이넥스트도어) 'Count To Love' Official MV](https://youtube.com/watch?v=Dbxfo8YBkYE) - HYBE LABELS (2,051,210회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/-0ujV07iQdE/default.jpg)
-[블랙컴뱃15 파라벨룸 Official Trailer](https://youtube.com/watch?v=-0ujV07iQdE) - 블랙컴뱃 (57,812회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/BCcuFvvFbzU/default.jpg)
+[2025-2026 뮤지컬 데스노트 CHARACTER TRAILER Ⅰ](https://youtube.com/watch?v=BCcuFvvFbzU) - OD COMPANY (23,106회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/BLsafyzBMBg/default.jpg)
-[HLE vs GEN - BRO vs DK | 2025 LCK](https://youtube.com/watch?v=BLsafyzBMBg) - LCK (1,886,265회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/h2kvwxMEkKo/default.jpg)
+[크루 졸업했습니다](https://youtube.com/watch?v=h2kvwxMEkKo) - 괴물쥐 유튜브 (439,456회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/17mqKMHUxXY/default.jpg)
-[Count To Love](https://youtube.com/watch?v=17mqKMHUxXY) - BOYNEXTDOOR - Topic (85,488회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/4PGX1ZYvzvo/default.jpg)
+[MONSTA X 몬스타엑스 'Do What I Want' MV](https://youtube.com/watch?v=4PGX1ZYvzvo) - STARSHIP (292,626회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/BCcuFvvFbzU/default.jpg)
-[2025-2026 뮤지컬 데스노트 CHARACTER TRAILER Ⅰ](https://youtube.com/watch?v=BCcuFvvFbzU) - OD COMPANY (3,624회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/-0ujV07iQdE/default.jpg)
+[블랙컴뱃15 파라벨룸 Official Trailer](https://youtube.com/watch?v=-0ujV07iQdE) - 블랙컴뱃 (67,131회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-08-18 06:33 UTC
+⏳ 마지막 업데이트: 2025-08-19 06:30 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
