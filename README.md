@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/fcaxwAHqT20/default.jpg)
-[aespa 에스파 'Rich Man' MV Teaser](https://youtube.com/watch?v=fcaxwAHqT20) - SMTOWN (391,324회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/5oQVTnq-UKk/default.jpg)
+[aespa 에스파 'Rich Man' MV](https://youtube.com/watch?v=5oQVTnq-UKk) - SMTOWN (549,800회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/veg0i7JoPUU/default.jpg)
-[와.. 드디어 첫 뚜껑 열렸다.. ≪어벤져스: 둠스데이≫ D23 유출 예고편 분석 총정리](https://youtube.com/watch?v=veg0i7JoPUU) - 무비띵크_Movie Think (469,639회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/2nSv7Y_f9uc/default.jpg)
+[스파이더맨도 좀비가 될 수 있는 세계관ㄷㄷ ≪마블 좀비스≫ 공식 예고편 떡밥 총정리](https://youtube.com/watch?v=2nSv7Y_f9uc) - 무비띵크_Movie Think (118,607회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/tjqNwOmijCw/default.jpg)
-[NS vs BRO | 1라운드 | 2025 LCK 플레이-인](https://youtube.com/watch?v=tjqNwOmijCw) - LCK (1,227,721회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/RcCrDvbvgjs/default.jpg)
+[DK vs BFX | 1라운드 | 2025 LCK 플레이-인](https://youtube.com/watch?v=RcCrDvbvgjs) - LCK (1,477,781회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/r4RQR3OHXqg/default.jpg)
-[COLOR](https://youtube.com/watch?v=r4RQR3OHXqg) - NCT WISH - Topic (461,316회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/dVOLIfuWbN0/default.jpg)
+[If I Love Again (다시 사랑한다면)](https://youtube.com/watch?v=dVOLIfuWbN0) - Jung Seung Hwan - Topic (140,087회)
 
 **5.** ![thumbnail](https://i.ytimg.com/vi/NkbjgNh06bQ/default.jpg)
-[에스쿱스X민규 (SEVENTEEN) 1st MINI ALBUM ‘𝙃𝙔𝙋𝙀 𝙑𝙄𝘽𝙀𝙎’ Trailer : JOIN OUR VIBE](https://youtube.com/watch?v=NkbjgNh06bQ) - HYBE LABELS (444,409회)
+[에스쿱스X민규 (SEVENTEEN) 1st MINI ALBUM ‘𝙃𝙔𝙋𝙀 𝙑𝙄𝘽𝙀𝙎’ Trailer : JOIN OUR VIBE](https://youtube.com/watch?v=NkbjgNh06bQ) - HYBE LABELS (488,610회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-09-04 06:27 UTC
+⏳ 마지막 업데이트: 2025-09-05 06:28 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
