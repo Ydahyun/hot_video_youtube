@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/AlNEtjBX1wU/default.jpg)
-[Bye, Summer (바이, 썸머)](https://youtube.com/watch?v=AlNEtjBX1wU) - IU - Topic (807,594회)
+[Bye, Summer (바이, 썸머)](https://youtube.com/watch?v=AlNEtjBX1wU) - IU - Topic (1,504,248회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/14C4mU2KLIQ/default.jpg)
-[크라임씬 제로 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=14C4mU2KLIQ) - Netflix Korea 넷플릭스 코리아 (415,273회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/-0jLQ9sbDJo/default.jpg)
+[사마귀 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=-0jLQ9sbDJo) - Netflix Korea 넷플릭스 코리아 (124,609회)
 
 **3.** ![thumbnail](https://i.ytimg.com/vi/zvursCcwrEQ/default.jpg)
-[T1 vs DK | 1라운드 1경기 | 우리은행 2025 LCK 플레이오프](https://youtube.com/watch?v=zvursCcwrEQ) - LCK (3,332,527회)
+[T1 vs DK | 1라운드 1경기 | 우리은행 2025 LCK 플레이오프](https://youtube.com/watch?v=zvursCcwrEQ) - LCK (3,355,010회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/7wJsfALKRR8/default.jpg)
-[GO!](https://youtube.com/watch?v=7wJsfALKRR8) - CORTIS - Topic (706,072회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/fNfvm3wfeL8/default.jpg)
+[[MV] Noel(노을) - Can you hear me(들리나요)](https://youtube.com/watch?v=fNfvm3wfeL8) - SUPER SOUND Bugs! (18,725회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/1Q7G3ZnDD8I/default.jpg)
-[한 천재가 유행시킬 말자하덱](https://youtube.com/watch?v=1Q7G3ZnDD8I) - 괴물쥐 유튜브 (501,335회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/dOihGQCIw_w/default.jpg)
+[[극장판 체인소 맨: 레제편] 파이널 예고편](https://youtube.com/watch?v=dOihGQCIw_w) - 소니픽쳐스코리아 (21,815회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-09-11 06:28 UTC
+⏳ 마지막 업데이트: 2025-09-12 06:28 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
