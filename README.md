@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/AlNEtjBX1wU/default.jpg)
-[Bye, Summer (바이, 썸머)](https://youtube.com/watch?v=AlNEtjBX1wU) - IU - Topic (1,504,248회)
+[Bye, Summer (바이, 썸머)](https://youtube.com/watch?v=AlNEtjBX1wU) - IU - Topic (2,128,526회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/-0jLQ9sbDJo/default.jpg)
-[사마귀 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=-0jLQ9sbDJo) - Netflix Korea 넷플릭스 코리아 (124,609회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/EG1EKJ3kBBc/default.jpg)
+[[공식]「Pokémon LEGENDS Z-A」 Final Trailer](https://youtube.com/watch?v=EG1EKJ3kBBc) - 포켓몬 공식 채널 Pokémon Korea, Inc. (83,191회)
 
 **3.** ![thumbnail](https://i.ytimg.com/vi/zvursCcwrEQ/default.jpg)
-[T1 vs DK | 1라운드 1경기 | 우리은행 2025 LCK 플레이오프](https://youtube.com/watch?v=zvursCcwrEQ) - LCK (3,355,010회)
+[T1 vs DK | 1라운드 1경기 | 우리은행 2025 LCK 플레이오프](https://youtube.com/watch?v=zvursCcwrEQ) - LCK (3,370,820회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/fNfvm3wfeL8/default.jpg)
-[[MV] Noel(노을) - Can you hear me(들리나요)](https://youtube.com/watch?v=fNfvm3wfeL8) - SUPER SOUND Bugs! (18,725회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/afaBdMRxN-g/default.jpg)
+[Rich Man (feat. Sevdaliza)](https://youtube.com/watch?v=afaBdMRxN-g) - aespa - Topic (252,940회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/dOihGQCIw_w/default.jpg)
-[[극장판 체인소 맨: 레제편] 파이널 예고편](https://youtube.com/watch?v=dOihGQCIw_w) - 소니픽쳐스코리아 (21,815회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/ZytDdozihs0/default.jpg)
+[스틸 볼 런: 죠죠의 기묘한 모험 | 예고편 | 넷플릭스](https://youtube.com/watch?v=ZytDdozihs0) - Netflix Korea 넷플릭스 코리아 (95,877회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-09-12 06:28 UTC
+⏳ 마지막 업데이트: 2025-09-13 06:24 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
