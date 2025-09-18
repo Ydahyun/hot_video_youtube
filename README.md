@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/30hZXHeB85U/default.jpg)
-[임영웅 'ULSSIGU' Official M/V](https://youtube.com/watch?v=30hZXHeB85U) - 임영웅 (481,330회)
+[임영웅 'ULSSIGU' Official M/V](https://youtube.com/watch?v=30hZXHeB85U) - 임영웅 (629,116회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/O3ShxdTGOmw/default.jpg)
-[대홍수 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=O3ShxdTGOmw) - Netflix Korea 넷플릭스 코리아 (1,399,292회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/vHva0Cr5tO0/default.jpg)
+[다 이루어질지니 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=vHva0Cr5tO0) - Netflix Korea 넷플릭스 코리아 (62,693회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/UvxOg97Eqkc/default.jpg)
-[상징은 돌아오는 거야](https://youtube.com/watch?v=UvxOg97Eqkc) - 괴물쥐 유튜브 (369,176회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/_lA23P3x3vY/default.jpg)
+[DK vs BFX | 1라운드 패자조 | 우리은행 2025 LCK 플레이오프](https://youtube.com/watch?v=_lA23P3x3vY) - LCK (2,014,980회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/LmZD-TU96q4/default.jpg)
-[米津玄師  Kenshi Yonezu - IRIS OUT](https://youtube.com/watch?v=LmZD-TU96q4) - Kenshi Yonezu  米津玄師 (4,319,132회)
+[米津玄師  Kenshi Yonezu - IRIS OUT](https://youtube.com/watch?v=LmZD-TU96q4) - Kenshi Yonezu  米津玄師 (6,481,094회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/By-Ny2duSaM/default.jpg)
-[도경수 Doh Kyung Soo ‘DUMB (Feat. PENOMECO)’ Trailer](https://youtube.com/watch?v=By-Ny2duSaM) - 컴퍼니수수 Company Soosoo (62,553회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/c04-4vMZLRk/default.jpg)
+[Alien Earth: Ep 8 - FINALE TRAILER | 4K](https://youtube.com/watch?v=c04-4vMZLRk) - AD_edits (157,064회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-09-17 06:28 UTC
+⏳ 마지막 업데이트: 2025-09-18 06:28 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
