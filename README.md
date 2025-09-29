@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/4ZOY6Bd-ajY/default.jpg)
-[I'll Never Love Again (I'll Never Love Again)](https://youtube.com/watch?v=4ZOY6Bd-ajY) - WOODZ - Topic (885,145회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/U7vLNXWwMbk/default.jpg)
+[GOOD DAY](https://youtube.com/watch?v=U7vLNXWwMbk) - Mrs. GREEN APPLE - Topic (1,227,780회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/11jbQ6FMI4c/default.jpg)
-[[아바타: 불과 재] 메인 예고편](https://youtube.com/watch?v=11jbQ6FMI4c) - 20th Century Studios Korea (918,930회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/TFgsOgFcooE/default.jpg)
+[조각도시 | 티저 예고편 | 디즈니+](https://youtube.com/watch?v=TFgsOgFcooE) - Disney Plus Korea 디즈니 플러스 코리아 (79,292회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/hOP8kjrrm3I/default.jpg)
-[KT vs GEN | 결승 진출전 | 우리은행 2025 LCK 플레이오프](https://youtube.com/watch?v=hOP8kjrrm3I) - LCK (1,972,229회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/UDhayyRQh7o/default.jpg)
+[HLE vs GEN | 우리은행 2025 LCK 결승전](https://youtube.com/watch?v=UDhayyRQh7o) - LCK (3,451,996회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/4sOVtBDPTwM/default.jpg)
-[임영웅 'ULSSIGU' M/V (Performance Ver.)](https://youtube.com/watch?v=4sOVtBDPTwM) - 임영웅 (307,032회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/MYHeH6dlvBc/default.jpg)
+[장민호 - 잊으리오 (폭군의 셰프 OST) [Live Clip]](https://youtube.com/watch?v=MYHeH6dlvBc) - 워너뮤직코리아 (Warner Music Korea) (37,217회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/hFE0v4r8eT4/default.jpg)
-[크리스챤 베일 신작 수준..ㄷㄷ💥 ≪브라이드!≫ | ≪아바타: 불과 재≫ 메인 예고편 속 두 가지 단서 | ≪위키드 포 굿≫ 스토리 미리보기 | 스타워즈 신작떴 | 히트2 캐스팅?](https://youtube.com/watch?v=hFE0v4r8eT4) - 기묘한 케이지 (31,625회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/PeSrrrDSLSc/default.jpg)
+[굿뉴스 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=PeSrrrDSLSc) - Netflix Korea 넷플릭스 코리아 (33,219회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-09-28 06:26 UTC
+⏳ 마지막 업데이트: 2025-09-29 06:30 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
