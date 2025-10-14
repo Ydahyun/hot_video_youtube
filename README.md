@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/4WFsxzp7SBc/default.jpg)
-[걸어줄래](https://youtube.com/watch?v=4WFsxzp7SBc) - 고추잠자리 - Topic (103,596회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/EmeW6li6bbo/default.jpg)
+[NMIXX(엔믹스) “Blue Valentine” M/V](https://youtube.com/watch?v=EmeW6li6bbo) - JYP Entertainment (4,647,092회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/qw_JJRWLnII/default.jpg)
-[운명을 바꿀 최후의 격량🌊 | [탁류] 8-9회 예고편 | 디즈니+](https://youtube.com/watch?v=qw_JJRWLnII) - Disney Plus Korea 디즈니 플러스 코리아 (86,202회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/Uzl25IOfnM8/default.jpg)
+[죄송한데.. 누구세요..? 마블 ≪원더맨≫ 공식 예고편 리뷰 떡밥 총정리](https://youtube.com/watch?v=Uzl25IOfnM8) - 무비띵크_Movie Think (152,734회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/4AFjS2EyfHw/default.jpg)
-[이 독재자의 끝을 아는 사람:](https://youtube.com/watch?v=4AFjS2EyfHw) - 괴물쥐 유튜브 (283,905회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/pzt6SmvGpXk/default.jpg)
+[Sacrifice ft. G.E.M. (鄧紫棋) (Official Music Video) | League of Legends Worlds 2025 Anthem](https://youtube.com/watch?v=pzt6SmvGpXk) - League of Legends (3,125,313회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/aTqchg0BUG4/default.jpg)
-[EYES CLOSED](https://youtube.com/watch?v=aTqchg0BUG4) - JISOO - Topic (6,173,893회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/TLftyCObb_E/default.jpg)
+[Blue Valentine](https://youtube.com/watch?v=TLftyCObb_E) - NMIXX - Topic (241,641회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/5F-UKqRnMpc/default.jpg)
-[≪주토피아 2≫ 예고편 리뷰!💥 |  AI랑 목숨걸고 말싸움 ≪머시≫ | 콘클라베 감독, 도박영화 | ≪분노의 질주≫ 제작 위기!? | ≪라푼젤≫ 실사판..ㄷㄷ | 금주의 묘케픽](https://youtube.com/watch?v=5F-UKqRnMpc) - 기묘한 케이지 (52,865회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/hJni_MNP_tk/default.jpg)
+[피지컬: 아시아 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=hJni_MNP_tk) - Netflix Korea 넷플릭스 코리아 (22,978회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-10-13 06:30 UTC
+⏳ 마지막 업데이트: 2025-10-14 06:28 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
