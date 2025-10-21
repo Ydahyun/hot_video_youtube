@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/aLUvL0mNQmY/default.jpg)
-[TIME CAPSULE](https://youtube.com/watch?v=aLUvL0mNQmY) - DAVICHI - Topic (855,457회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/yAtew9dZX_E/default.jpg)
+[BOYNEXTDOOR (보이넥스트도어) 'Hollywood Action' Official MV](https://youtube.com/watch?v=yAtew9dZX_E) - HYBE LABELS (2,050,513회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/s24NkdR36vM/default.jpg)
-[Stray Kids SKZ IT TAPE "DO IT" Trailer](https://youtube.com/watch?v=s24NkdR36vM) - JYP Entertainment (897,514회)
+[Stray Kids SKZ IT TAPE "DO IT" Trailer](https://youtube.com/watch?v=s24NkdR36vM) - JYP Entertainment (1,230,016회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/0v7WTnB3YTw/default.jpg)
-[스위스 스테이지 Day 5 | 2025 월드 챔피언십](https://youtube.com/watch?v=0v7WTnB3YTw) - LCK (1,535,860회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/44b-wv2WI_o/default.jpg)
+[사실은 나도 중졸이야](https://youtube.com/watch?v=44b-wv2WI_o) - 랄로 (465,929회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/aYN54SrNTpU/default.jpg)
-[Rain Arrives (Prod. JUNGKEY)](https://youtube.com/watch?v=aYN54SrNTpU) - Yang Da Il - Topic (25,754회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/Ur7aK4FvK-U/default.jpg)
+[Hearts2Hearts 하츠투하츠 'FOCUS' MV](https://youtube.com/watch?v=Ur7aK4FvK-U) - SMTOWN (3,028,387회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/u4Q7Rjg4e6Y/default.jpg)
-[빼지 않는 남자](https://youtube.com/watch?v=u4Q7Rjg4e6Y) - 괴물쥐 유튜브 (334,978회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/CRX13nT6ExQ/default.jpg)
+[와.. 잡히는 즉시 죽는다..! ≪더 러닝맨≫ 공식 예고편 떡밥 총정리](https://youtube.com/watch?v=CRX13nT6ExQ) - 무비띵크_Movie Think (69,753회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-10-20 06:30 UTC
+⏳ 마지막 업데이트: 2025-10-21 06:29 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
