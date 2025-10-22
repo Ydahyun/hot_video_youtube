@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/yAtew9dZX_E/default.jpg)
-[BOYNEXTDOOR (보이넥스트도어) 'Hollywood Action' Official MV](https://youtube.com/watch?v=yAtew9dZX_E) - HYBE LABELS (2,050,513회)
+[BOYNEXTDOOR (보이넥스트도어) 'Hollywood Action' Official MV](https://youtube.com/watch?v=yAtew9dZX_E) - HYBE LABELS (5,284,118회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/s24NkdR36vM/default.jpg)
-[Stray Kids SKZ IT TAPE "DO IT" Trailer](https://youtube.com/watch?v=s24NkdR36vM) - JYP Entertainment (1,230,016회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/aCPRBeQwQS0/default.jpg)
+[아이 엠 복서 | 티저 예고편 | 디즈니+](https://youtube.com/watch?v=aCPRBeQwQS0) - Disney Plus Korea 디즈니 플러스 코리아 (3,703회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/44b-wv2WI_o/default.jpg)
-[사실은 나도 중졸이야](https://youtube.com/watch?v=44b-wv2WI_o) - 랄로 (465,929회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/x7BWqfTaXHo/default.jpg)
+[지옥에서 돌아온 김민교의 미드 은퇴빵](https://youtube.com/watch?v=x7BWqfTaXHo) - 튜브김민교 (252,470회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/Ur7aK4FvK-U/default.jpg)
-[Hearts2Hearts 하츠투하츠 'FOCUS' MV](https://youtube.com/watch?v=Ur7aK4FvK-U) - SMTOWN (3,028,387회)
+[Hearts2Hearts 하츠투하츠 'FOCUS' MV](https://youtube.com/watch?v=Ur7aK4FvK-U) - SMTOWN (5,482,006회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/CRX13nT6ExQ/default.jpg)
-[와.. 잡히는 즉시 죽는다..! ≪더 러닝맨≫ 공식 예고편 떡밥 총정리](https://youtube.com/watch?v=CRX13nT6ExQ) - 무비띵크_Movie Think (69,753회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/eZi7YNTQ0EE/default.jpg)
+[[메이킹] 모두가 기다린 ＜경도를 기다리며＞ Trailer Film 📹 | 경도를 기다리며](https://youtube.com/watch?v=eZi7YNTQ0EE) - JTBC Drama (2,210회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-10-21 06:29 UTC
+⏳ 마지막 업데이트: 2025-10-22 06:30 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
