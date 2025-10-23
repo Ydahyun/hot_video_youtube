@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/yAtew9dZX_E/default.jpg)
-[BOYNEXTDOOR (보이넥스트도어) 'Hollywood Action' Official MV](https://youtube.com/watch?v=yAtew9dZX_E) - HYBE LABELS (5,284,118회)
+[BOYNEXTDOOR (보이넥스트도어) 'Hollywood Action' Official MV](https://youtube.com/watch?v=yAtew9dZX_E) - HYBE LABELS (8,616,332회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/aCPRBeQwQS0/default.jpg)
-[아이 엠 복서 | 티저 예고편 | 디즈니+](https://youtube.com/watch?v=aCPRBeQwQS0) - Disney Plus Korea 디즈니 플러스 코리아 (3,703회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/2kdz9rChJYg/default.jpg)
+[스위스 스테이지 Day 6 | 2025 월드 챔피언십](https://youtube.com/watch?v=2kdz9rChJYg) - LCK (1,869,921회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/x7BWqfTaXHo/default.jpg)
-[지옥에서 돌아온 김민교의 미드 은퇴빵](https://youtube.com/watch?v=x7BWqfTaXHo) - 튜브김민교 (252,470회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/noGHbYIYprY/default.jpg)
+[세상 모든 어른이들에게](https://youtube.com/watch?v=noGHbYIYprY) - Boramiyu - Topic (164,347회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/Ur7aK4FvK-U/default.jpg)
-[Hearts2Hearts 하츠투하츠 'FOCUS' MV](https://youtube.com/watch?v=Ur7aK4FvK-U) - SMTOWN (5,482,006회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/qkoxWqckmMY/default.jpg)
+[고수만 오라는 방에 들어가 봤는데 시작부터 X밥 취급하며 무시하는 상대;;](https://youtube.com/watch?v=qkoxWqckmMY) - [ALTUBE] 김성현TV (129,094회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/eZi7YNTQ0EE/default.jpg)
-[[메이킹] 모두가 기다린 ＜경도를 기다리며＞ Trailer Film 📹 | 경도를 기다리며](https://youtube.com/watch?v=eZi7YNTQ0EE) - JTBC Drama (2,210회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/eu3np8dFJDU/default.jpg)
+[Just Kids](https://youtube.com/watch?v=eu3np8dFJDU) - JANNABI - Topic (180,091회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-10-22 06:30 UTC
+⏳ 마지막 업데이트: 2025-10-23 06:29 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
