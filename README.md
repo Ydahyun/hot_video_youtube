@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/yAtew9dZX_E/default.jpg)
-[BOYNEXTDOOR (보이넥스트도어) 'Hollywood Action' Official MV](https://youtube.com/watch?v=yAtew9dZX_E) - HYBE LABELS (8,616,332회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/hnIzXiNT10E/default.jpg)
+[끝사랑](https://youtube.com/watch?v=hnIzXiNT10E) - Kwon Jin-ah - Topic (240,555회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/2kdz9rChJYg/default.jpg)
-[스위스 스테이지 Day 6 | 2025 월드 챔피언십](https://youtube.com/watch?v=2kdz9rChJYg) - LCK (1,869,921회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/mm6w2ufD6ME/default.jpg)
+[Project TAL - Announcement & Gameplay Trailer | PS5 Games](https://youtube.com/watch?v=mm6w2ufD6ME) - PlayStation (298,131회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/noGHbYIYprY/default.jpg)
-[세상 모든 어른이들에게](https://youtube.com/watch?v=noGHbYIYprY) - Boramiyu - Topic (164,347회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/dlW64Lvmhc0/default.jpg)
+[스위스 스테이지 Day 7 | 2025 월드 챔피언십](https://youtube.com/watch?v=dlW64Lvmhc0) - LCK (1,773,706회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/qkoxWqckmMY/default.jpg)
-[고수만 오라는 방에 들어가 봤는데 시작부터 X밥 취급하며 무시하는 상대;;](https://youtube.com/watch?v=qkoxWqckmMY) - [ALTUBE] 김성현TV (129,094회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/TvVtYaqCni8/default.jpg)
+[LE SSERAFIM (르세라핌) 'SPAGHETTI (feat. j-hope of BTS)' OFFICIAL MV](https://youtube.com/watch?v=TvVtYaqCni8) - HYBE LABELS (915,094회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/eu3np8dFJDU/default.jpg)
-[Just Kids](https://youtube.com/watch?v=eu3np8dFJDU) - JANNABI - Topic (180,091회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/CStK0hNcJXM/default.jpg)
+[당신이 죽였다 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=CStK0hNcJXM) - Netflix Korea 넷플릭스 코리아 (23,412회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-10-23 06:29 UTC
+⏳ 마지막 업데이트: 2025-10-24 06:28 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
