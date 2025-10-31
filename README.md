@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/nwksfZMJXXs/default.jpg)
-[No Words Can Say](https://youtube.com/watch?v=nwksfZMJXXs) - Roy Kim - Topic (766,337회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/ewk5MPptBIs/default.jpg)
+[임영웅 '들꽃이 될게요' Official M/V](https://youtube.com/watch?v=ewk5MPptBIs) - 임영웅 (209,971회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/V9RzKHp1Z2w/default.jpg)
-[드디어 울트론이 돌아옵니다.. ≪비전 퀘스트≫ 공식 예고편 유출 내용 총정리](https://youtube.com/watch?v=V9RzKHp1Z2w) - 무비띵크_Movie Think (226,012회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/l-AvJBxqDtI/default.jpg)
+[또봇 : 대도시의 영웅들 시즌3 파트3 트레일러 풀버전 [TOBOT TRAILER] (Full Version) #또봇 #예고](https://youtube.com/watch?v=l-AvJBxqDtI) - 또봇 Tobot (42,402회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/3PtJe7IPsAo/default.jpg)
-[GEN vs HLE | 녹아웃 스테이지 Day1 8강 | 2025 월드 챔피언십](https://youtube.com/watch?v=3PtJe7IPsAo) - LCK (3,456,750회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/LkASQGieQMI/default.jpg)
+[G2 vs TES | 녹아웃 스테이지 Day3 8강 | 2025 월드 챔피언십](https://youtube.com/watch?v=LkASQGieQMI) - LCK (1,841,761회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/g0CVkU1w00M/default.jpg)
-[Just 1 year (Feat. 10CM)](https://youtube.com/watch?v=g0CVkU1w00M) - BIG Naughty - Topic (277,953회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/uq3arUptDcg/default.jpg)
+[Where's Your Love](https://youtube.com/watch?v=uq3arUptDcg) - LUCY - Topic (93,001회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/pfnXiPRPCts/default.jpg)
-[김 부장 이야기 3회 예고편 - 해결하는 놈이 MVP가 되는 거라고](https://youtube.com/watch?v=pfnXiPRPCts) - JTBC Drama (46,909회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/N8CvVBTStXc/default.jpg)
+[기묘한 이야기 5 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=N8CvVBTStXc) - Netflix Korea 넷플릭스 코리아 (44,856회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-10-30 06:29 UTC
+⏳ 마지막 업데이트: 2025-10-31 06:29 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
