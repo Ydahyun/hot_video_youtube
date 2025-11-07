@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/TN4LP7j5cbo/default.jpg)
-[JISOO X ZAYN - EYES CLOSED (OFFICIAL LYRIC VIDEO)](https://youtube.com/watch?v=TN4LP7j5cbo) - JISOO (5,469,196회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/KHG3M3UqHBc/default.jpg)
+[NEWBEAT(뉴비트) [LOUDER THAN EVER] 'Look So Good' Official MV](https://youtube.com/watch?v=KHG3M3UqHBc) - NEWBEAT  (1,150,820회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/0O9rtOolCvw/default.jpg)
-[자백의 대가 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=0O9rtOolCvw) - Netflix Korea 넷플릭스 코리아 (62,339회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/EHmj-1x0kUo/default.jpg)
+[[공식]「Pokémon LEGENDS Z-A 메가 차원 러시」 2nd Trailer](https://youtube.com/watch?v=EHmj-1x0kUo) - 포켓몬 공식 채널 Pokémon Korea, Inc. (82,860회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/npJb16_m9HI/default.jpg)
-[푹 쪄드립니다](https://youtube.com/watch?v=npJb16_m9HI) - 괴물쥐 유튜브 (382,732회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/MEWfQzrxXwU/default.jpg)
+[검정 포르쉐 반드시 뽑고 싶습니다](https://youtube.com/watch?v=MEWfQzrxXwU) - 괴물쥐 유튜브 (329,071회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/j6OqLm0lQ68/default.jpg)
-[KISS OF LIFE (키스오브라이프) 'Lucky' Official Music Video](https://youtube.com/watch?v=j6OqLm0lQ68) - KISS OF LIFE (1,683,937회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/X1EMiojYjdk/default.jpg)
+[Billie Eilish - BIRDS OF A FEATHER (Lyrics Cover) | Pop Mage](https://youtube.com/watch?v=X1EMiojYjdk) - Pop Mage (2,543,629회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/HKsY-JqdgZo/default.jpg)
-[서울 자가에 대기업 다니는 김 부장 이야기 5회 예고편 - 안전보건관리 책임자가 이런 걸 왜 합니까](https://youtube.com/watch?v=HKsY-JqdgZo) - JTBC Drama (145,712회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/0O9rtOolCvw/default.jpg)
+[자백의 대가 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=0O9rtOolCvw) - Netflix Korea 넷플릭스 코리아 (284,682회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-11-06 06:30 UTC
+⏳ 마지막 업데이트: 2025-11-07 06:30 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
