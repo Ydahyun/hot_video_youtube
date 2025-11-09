@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/KHG3M3UqHBc/default.jpg)
-[NEWBEAT(뉴비트) [LOUDER THAN EVER] 'Look So Good' Official MV](https://youtube.com/watch?v=KHG3M3UqHBc) - NEWBEAT  (2,231,243회)
+[NEWBEAT(뉴비트) [LOUDER THAN EVER] 'Look So Good' Official MV](https://youtube.com/watch?v=KHG3M3UqHBc) - NEWBEAT  (2,895,421회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/zvLuljlJVrI/default.jpg)
-[[친애하는 X] 필요한 만큼만 사랑해 보려고 | 5-6화 예고(Blur On)ㅣTVING | Dear X](https://youtube.com/watch?v=zvLuljlJVrI) - TVING (67,685회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/2W7z4SB8Vy8/default.jpg)
+[skibidi toilet: emergence | official trailer](https://youtube.com/watch?v=2W7z4SB8Vy8) - DaFuq!?Boom! (532,873회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/2JxgNMO-po4/default.jpg)
-[2025 T1scord Ep.17 - VS AL](https://youtube.com/watch?v=2JxgNMO-po4) - T1 (957,849회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/crMYn67iEi0/default.jpg)
+[웃으면 안 되는 롤 내전](https://youtube.com/watch?v=crMYn67iEi0) - 괴물쥐 유튜브 (439,738회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/2GPFLanHujM/default.jpg)
-[연준 (YEONJUN) 'NO LABELS: PART 01' Official MV](https://youtube.com/watch?v=2GPFLanHujM) - HYBE LABELS (3,077,850회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/WqtNRnYDZuo/default.jpg)
+[Officially Missing You](https://youtube.com/watch?v=WqtNRnYDZuo) - Geeks - Topic (54,826회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/yVtrfEw-_y8/default.jpg)
-[[마이클] 티저 예고편](https://youtube.com/watch?v=yVtrfEw-_y8) - 유니버설 픽쳐스 (633,380회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/zvLuljlJVrI/default.jpg)
+[[친애하는 X] 필요한 만큼만 사랑해 보려고 | 5-6화 예고(Blur On)ㅣTVING | Dear X](https://youtube.com/watch?v=zvLuljlJVrI) - TVING (101,445회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-11-08 06:27 UTC
+⏳ 마지막 업데이트: 2025-11-09 06:27 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
