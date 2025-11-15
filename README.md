@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/cGrG93v8jpU/default.jpg)
-[[최초공개 신곡M/V] 그래 늦지 않았어(2025)-아샤트리,이예은,전건호 (원곡:녹색지대)](https://youtube.com/watch?v=cGrG93v8jpU) - 아샤트리 AshaTree (60,302회)
+[[최초공개 신곡M/V] 그래 늦지 않았어(2025)-아샤트리,이예은,전건호 (원곡:녹색지대)](https://youtube.com/watch?v=cGrG93v8jpU) - 아샤트리 AshaTree (116,357회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/H0EX9Ygaq7M/default.jpg)
-[[악마는 프라다를 입는다 2] 티저 예고편](https://youtube.com/watch?v=H0EX9Ygaq7M) - 20th Century Studios Korea (261,757회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/8yYaC36GhVs/default.jpg)
+[점차 가까워지는 진실 | [조각도시] 7-8회 예고편 | 디즈니+](https://youtube.com/watch?v=8yYaC36GhVs) - Disney Plus Korea 디즈니 플러스 코리아 (59,913회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/5F-hg0B_BSE/default.jpg)
-[KT vs T1 | 결승전 | 2025 월드 챔피언십](https://youtube.com/watch?v=5F-hg0B_BSE) - LCK (10,799,185회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/3RTBaMpyfak/default.jpg)
+[클템의 미친 드립력에 정신 못차리는 클리드 ㅋㅋㅋ](https://youtube.com/watch?v=3RTBaMpyfak) - 클리드 (136,448회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/u_zMfEh--dI/default.jpg)
-[사랑한 만큼](https://youtube.com/watch?v=u_zMfEh--dI) - Muzie - Topic (53,562회)
+[사랑한 만큼](https://youtube.com/watch?v=u_zMfEh--dI) - Muzie - Topic (97,193회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/8yYaC36GhVs/default.jpg)
-[점차 가까워지는 진실 | [조각도시] 7-8회 예고편 | 디즈니+](https://youtube.com/watch?v=8yYaC36GhVs) - Disney Plus Korea 디즈니 플러스 코리아 (17,013회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/H0EX9Ygaq7M/default.jpg)
+[[악마는 프라다를 입는다 2] 티저 예고편](https://youtube.com/watch?v=H0EX9Ygaq7M) - 20th Century Studios Korea (481,729회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-11-14 06:30 UTC
+⏳ 마지막 업데이트: 2025-11-15 06:27 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
