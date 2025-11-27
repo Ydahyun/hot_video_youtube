@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/TVqEwvbZP30/default.jpg)
-[RIIZE 라이즈 'Fame' MV](https://youtube.com/watch?v=TVqEwvbZP30) - SMTOWN (2,043,071회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/HP8qpxRpIW8/default.jpg)
+[NOT CUTE ANYMORE](https://youtube.com/watch?v=HP8qpxRpIW8) - ILLIT - Topic (852,666회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/7R4aSdnKRFw/default.jpg)
-[[오세이사] 첫 번째 예고편💌](https://youtube.com/watch?v=7R4aSdnKRFw) - 바이포엠스튜디오 BY4M STUDIO (120,722회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/I2umKDZMGcU/default.jpg)
+[공개 하루만에 조회수 9000만..."GTA 6" 트레일러 분석하기](https://youtube.com/watch?v=I2umKDZMGcU) - 혜안 (120,933회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/gEzsF8LYQzA/default.jpg)
-[미드 챔프폭을 늘려보자](https://youtube.com/watch?v=gEzsF8LYQzA) - 랄로 (446,323회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/SNIEMzsP0WE/default.jpg)
+["팀을 후회하게 만드는 정글러에요" 1타 코치 엄티의 일침에 정신 못 차리는 이상호..?【멸망전 Ep. 11】](https://youtube.com/watch?v=SNIEMzsP0WE) - 이상호 (167,802회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/x_RYZsOfpKY/default.jpg)
-[ILLIT (아일릿) 'NOT CUTE ANYMORE’ Official MV](https://youtube.com/watch?v=x_RYZsOfpKY) - HYBE LABELS (7,017,141회)
+[ILLIT (아일릿) 'NOT CUTE ANYMORE’ Official MV](https://youtube.com/watch?v=x_RYZsOfpKY) - HYBE LABELS (8,240,527회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/zkQ37NqD-II/default.jpg)
-[UDT: 우리 동네 특공대 | 5화 예고편 | 쿠팡플레이 | 쿠팡](https://youtube.com/watch?v=zkQ37NqD-II) - 쿠팡플레이 Coupang Play (20,223회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/UmUedQhYuSU/default.jpg)
+[메이드 인 코리아 | 티저 예고편 | 디즈니+](https://youtube.com/watch?v=UmUedQhYuSU) - Disney Plus Korea 디즈니 플러스 코리아 (310,319회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-11-26 06:31 UTC
+⏳ 마지막 업데이트: 2025-11-27 06:32 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
