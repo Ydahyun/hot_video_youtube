@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/aRtoPwe4ado/default.jpg)
-[Sanitizer](https://youtube.com/watch?v=aRtoPwe4ado) - OFFICIAL HIGE DANDISM - Topic (75,935회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/ODRqjBLzjEM/default.jpg)
+[인사 Panorama](https://youtube.com/watch?v=ODRqjBLzjEM) - TAEYEON - Topic (262,749회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/ibiDMYQJc4g/default.jpg)
-[캐셔로 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=ibiDMYQJc4g) - Netflix Korea 넷플릭스 코리아 (23,603회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/aanp-tgA2EE/default.jpg)
+[[6회 예고] 기윤시에 대체 무슨 일이?! 가족을 지키기 위해 눈 뜬 윤계상! 😠 #UDT우리동네특공대](https://youtube.com/watch?v=aanp-tgA2EE) - ENA DRAMA (16,493회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/pnOyKThHY8I/default.jpg)
-[대회에서 자신의 크랙 플레이에 행복함을 감추지 못한 애교용 ㅋㅋㅋ | 멸망전 8강 본선 | 멸망전 EP.19](https://youtube.com/watch?v=pnOyKThHY8I) - 클리드 (257,435회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/NB9GaP2f8FA/default.jpg)
+[자헨 장인을 꿈꾼다](https://youtube.com/watch?v=NB9GaP2f8FA) - PAKA (326,736회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/I1Gs69t_jQ8/default.jpg)
-[The Moments](https://youtube.com/watch?v=I1Gs69t_jQ8) - Roy Kim - Topic (44,568회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/xGhaNqnjgr4/default.jpg)
+[TAEYEON 태연 '인사 (Panorama)' MV](https://youtube.com/watch?v=xGhaNqnjgr4) - SMTOWN (462,571회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/Lkv4W_EJL-c/default.jpg)
-[꿇으라고 했지](https://youtube.com/watch?v=Lkv4W_EJL-c) - 괴물쥐 유튜브 (350,011회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/ibiDMYQJc4g/default.jpg)
+[캐셔로 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=ibiDMYQJc4g) - Netflix Korea 넷플릭스 코리아 (100,383회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-12-01 06:34 UTC
+⏳ 마지막 업데이트: 2025-12-02 06:33 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
