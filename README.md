@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/9nOrPNxjvck/default.jpg)
-[ALLDAY PROJECT - ‘LOOK AT ME’ M/V](https://youtube.com/watch?v=9nOrPNxjvck) - THEBLACKLABEL (7,677,844회)
+[ALLDAY PROJECT - ‘LOOK AT ME’ M/V](https://youtube.com/watch?v=9nOrPNxjvck) - THEBLACKLABEL (8,273,272회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/aNDfYPnF6A8/default.jpg)
-[EXO 엑소 'REVERXE' Trailer](https://youtube.com/watch?v=aNDfYPnF6A8) - EXO (431,305회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/FojHz9RM008/default.jpg)
+[메이드 인 코리아 | 메인 예고편 | 디즈니+](https://youtube.com/watch?v=FojHz9RM008) - Disney Plus Korea 디즈니 플러스 코리아 (247,226회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/I-bxuaovi18/default.jpg)
-[구락스 상대로 방송 알려주는 연기의 신 "이상호" 【SLL EP. 08】](https://youtube.com/watch?v=I-bxuaovi18) - 스맵 (346,909회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/rViSNJ7f5IE/default.jpg)
+[비상사태 발생.. 밥많이퍼와 죄카의 휴방 "웰컴 쿼드 오뀨" 【SLL EP. 10】](https://youtube.com/watch?v=rViSNJ7f5IE) - 스맵 (316,783회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/TETa0j79byM/default.jpg)
-[LOOK AT ME ](https://youtube.com/watch?v=TETa0j79byM) - ALLDAY PROJECT - Topic (356,224회)
+[LOOK AT ME ](https://youtube.com/watch?v=TETa0j79byM) - ALLDAY PROJECT - Topic (489,546회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/KgcpVvdRtC8/default.jpg)
-[UDT: 우리 동네 특공대 | 9화 예고편 | 쿠팡플레이 | 쿠팡](https://youtube.com/watch?v=KgcpVvdRtC8) - 쿠팡플레이 Coupang Play (13,813회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/n2kI-ISB6I0/default.jpg)
+["쇼크웨이브"](https://youtube.com/watch?v=n2kI-ISB6I0) - 랄로 (349,773회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-12-10 06:33 UTC
+⏳ 마지막 업데이트: 2025-12-11 06:34 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
