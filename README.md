@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/9nOrPNxjvck/default.jpg)
-[ALLDAY PROJECT - ‘LOOK AT ME’ M/V](https://youtube.com/watch?v=9nOrPNxjvck) - THEBLACKLABEL (8,273,272회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/CSUE7lufvE4/default.jpg)
+[365 Days](https://youtube.com/watch?v=CSUE7lufvE4) - LEE CHANGSUB - Topic (121,093회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/FojHz9RM008/default.jpg)
-[메이드 인 코리아 | 메인 예고편 | 디즈니+](https://youtube.com/watch?v=FojHz9RM008) - Disney Plus Korea 디즈니 플러스 코리아 (247,226회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/tVAg19hcB1U/default.jpg)
+[[슈퍼걸]1차 예고편](https://youtube.com/watch?v=tVAg19hcB1U) - Warner Bros. Korea (81,065회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/rViSNJ7f5IE/default.jpg)
-[비상사태 발생.. 밥많이퍼와 죄카의 휴방 "웰컴 쿼드 오뀨" 【SLL EP. 10】](https://youtube.com/watch?v=rViSNJ7f5IE) - 스맵 (316,783회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/ZHM3ncovUUw/default.jpg)
+[HLE vs T1 하이라이트 | Final Stage M2 | 2025 LoL KeSPA CUP](https://youtube.com/watch?v=ZHM3ncovUUw) - 한국e스포츠협회 (1,160,638회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/TETa0j79byM/default.jpg)
-[LOOK AT ME ](https://youtube.com/watch?v=TETa0j79byM) - ALLDAY PROJECT - Topic (489,546회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/WisAHyIrjvk/default.jpg)
+[BIG VOID](https://youtube.com/watch?v=WisAHyIrjvk) - Silica Gel - Topic (72,198회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/n2kI-ISB6I0/default.jpg)
-["쇼크웨이브"](https://youtube.com/watch?v=n2kI-ISB6I0) - 랄로 (349,773회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/3oCxn212Bu4/default.jpg)
+[[신비아파트 10주년 극장판: 한 번 더, 소환] 공식 1차 예고편](https://youtube.com/watch?v=3oCxn212Bu4) - 신비아파트 공식채널 - Shinbi House (78,533회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-12-11 06:34 UTC
+⏳ 마지막 업데이트: 2025-12-12 06:33 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
