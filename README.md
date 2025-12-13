@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/CSUE7lufvE4/default.jpg)
-[365 Days](https://youtube.com/watch?v=CSUE7lufvE4) - LEE CHANGSUB - Topic (121,093회)
+[365 Days](https://youtube.com/watch?v=CSUE7lufvE4) - LEE CHANGSUB - Topic (251,711회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/tVAg19hcB1U/default.jpg)
-[[슈퍼걸]1차 예고편](https://youtube.com/watch?v=tVAg19hcB1U) - Warner Bros. Korea (81,065회)
+[[슈퍼걸]1차 예고편](https://youtube.com/watch?v=tVAg19hcB1U) - Warner Bros. Korea (278,619회)
 
 **3.** ![thumbnail](https://i.ytimg.com/vi/ZHM3ncovUUw/default.jpg)
-[HLE vs T1 하이라이트 | Final Stage M2 | 2025 LoL KeSPA CUP](https://youtube.com/watch?v=ZHM3ncovUUw) - 한국e스포츠협회 (1,160,638회)
+[HLE vs T1 하이라이트 | Final Stage M2 | 2025 LoL KeSPA CUP](https://youtube.com/watch?v=ZHM3ncovUUw) - 한국e스포츠협회 (1,458,671회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/WisAHyIrjvk/default.jpg)
-[BIG VOID](https://youtube.com/watch?v=WisAHyIrjvk) - Silica Gel - Topic (72,198회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/7N9dhR_0REc/default.jpg)
+[ALLDAY PROJECT - ‘LOOK AT ME’ PERFORMANCE VIDEO](https://youtube.com/watch?v=7N9dhR_0REc) - THEBLACKLABEL (428,717회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/3oCxn212Bu4/default.jpg)
-[[신비아파트 10주년 극장판: 한 번 더, 소환] 공식 1차 예고편](https://youtube.com/watch?v=3oCxn212Bu4) - 신비아파트 공식채널 - Shinbi House (78,533회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/tx7fWqIu8tE/default.jpg)
+[와.. 간만에 제대로 뽑혔다..  DC ≪슈퍼걸≫ 공식 예고편 떡밥 총정리](https://youtube.com/watch?v=tx7fWqIu8tE) - 무비띵크_Movie Think (403,679회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-12-12 06:33 UTC
+⏳ 마지막 업데이트: 2025-12-13 06:30 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
