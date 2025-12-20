@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/NNf9QhWjG58/default.jpg)
-['사랑한 마음엔 죄가 없다' with 은호 (PLAVE)](https://youtube.com/watch?v=NNf9QhWjG58) - 소란 / SORAN (397,519회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/zfESlU8diD0/default.jpg)
+[DUET](https://youtube.com/watch?v=zfESlU8diD0) - ZICO - Topic (247,365회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/QSnNZ_usotk/default.jpg)
-[결국 스파이더맨도 예고편 유출ㄷㄷㄷ ≪스파이더맨: 브랜드뉴데이≫ 티저 예고편 유출 & 떡밥 분석 총정리](https://youtube.com/watch?v=QSnNZ_usotk) - 무비띵크_Movie Think (282,196회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/37igjIF1YUk/default.jpg)
+[결국 토르도 유출됐습니다.. ≪어벤져스: 둠스데이≫ 2차 예고편 분석 및 떡밥 총정리](https://youtube.com/watch?v=37igjIF1YUk) - 무비띵크_Movie Think (282,728회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/uYQInJxAE5s/default.jpg)
-[배수의 진](https://youtube.com/watch?v=uYQInJxAE5s) - PAKA (329,862회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/n1S4DRjjEJ8/default.jpg)
+[감스트 피파 복귀!! 구단가치 8경 공개합니다!!!](https://youtube.com/watch?v=n1S4DRjjEJ8) - 감스트GAMST (452,528회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/RFwpRB0Ecoo/default.jpg)
-[Lovin' the Christmas](https://youtube.com/watch?v=RFwpRB0Ecoo) - DAY6 - Topic (584,157회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/sssoyDLFPWE/default.jpg)
+[ZICO (지코), Lilas (YOASOBI’s ikura) ‘DUET’ Official MV](https://youtube.com/watch?v=sssoyDLFPWE) - HYBE LABELS (1,353,351회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/_x41v8kaW0w/default.jpg)
-[[디스클로저 데이] 티저 예고편](https://youtube.com/watch?v=_x41v8kaW0w) - 유니버설 픽쳐스 (598,612회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/pFT4JxSEvu0/default.jpg)
+[[프로젝트 RX] 공식 티저 트레일러](https://youtube.com/watch?v=pFT4JxSEvu0) - 넥슨게임즈 YouTube (210,500회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-12-19 06:32 UTC
+⏳ 마지막 업데이트: 2025-12-20 06:31 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
