@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/-gA4IYS0Kco/default.jpg)
-[NCT WISH 엔시티 위시 'TT' @Practice Room](https://youtube.com/watch?v=-gA4IYS0Kco) - NCT WISH (151,784회)
+[NCT WISH 엔시티 위시 'TT' @Practice Room](https://youtube.com/watch?v=-gA4IYS0Kco) - NCT WISH (229,444회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/eLjjrGGEyR8/default.jpg)
-[오래 기다리셨습니다. ≪어벤져스: 둠스데이≫ 공식 예고편 분석 및 리뷰](https://youtube.com/watch?v=eLjjrGGEyR8) - 무비띵크_Movie Think (295,892회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/dsw3KhXnCuE/default.jpg)
+[[12회 예고] “누가 뒤지나 한 번 해보자” 이제훈이 밝혀낸 보이스피싱 조직의 정체?! 그리고 사람 냄새 안 나는 의문의 섬의 비밀🏝️ | 모범택시3 | SBS](https://youtube.com/watch?v=dsw3KhXnCuE) - SBS  (20,063회)
 
 **3.** ![thumbnail](https://i.ytimg.com/vi/2hVWSrz1p-Q/default.jpg)
-[🎅크리스마스 특집🎅 2년만에 돌아온 혜안져스 덕몽어스 근황 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ](https://youtube.com/watch?v=2hVWSrz1p-Q) - 혜안 (455,092회)
+[🎅크리스마스 특집🎅 2년만에 돌아온 혜안져스 덕몽어스 근황 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ](https://youtube.com/watch?v=2hVWSrz1p-Q) - 혜안 (771,885회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/YgHuyxSs3g0/default.jpg)
-[가장 인기있는 크리스마스 캐롤 메들리 캐롤송 연속듣기 🎅 크리스마스에 듣기 좋은 노래 🎄 Merry Christmas 2026 Vol 07](https://youtube.com/watch?v=YgHuyxSs3g0) - 드라마 OST (159,081회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/hd8oTfHG2fg/default.jpg)
+[[응답하라 1988 10주년 OST Part 2] 쌍문동 아이들 - 혜화동 (혹은 쌍문동) (Hyehwadong (or Ssangmundong)) MV](https://youtube.com/watch?v=hd8oTfHG2fg) - Stone Music Entertainment (82,836회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/6CiR3fC1cLM/default.jpg)
-[[어벤져스: 둠스데이] ‘스티브 로저스’ 예고편 최초 공개](https://youtube.com/watch?v=6CiR3fC1cLM) - MarvelKorea (852,780회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/x0JPmS86oGA/default.jpg)
+[브리저튼 시즌 4 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=x0JPmS86oGA) - Netflix Korea 넷플릭스 코리아 (179,667회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-12-26 06:33 UTC
+⏳ 마지막 업데이트: 2025-12-27 06:31 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
