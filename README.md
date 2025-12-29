@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/hd8oTfHG2fg/default.jpg)
-[[응답하라 1988 10주년 OST Part 2] 쌍문동 아이들 - 혜화동 (혹은 쌍문동) (Hyehwadong (or Ssangmundong)) MV](https://youtube.com/watch?v=hd8oTfHG2fg) - Stone Music Entertainment (298,917회)
+[[응답하라 1988 10주년 OST Part 2] 쌍문동 아이들 - 혜화동 (혹은 쌍문동) (Hyehwadong (or Ssangmundong)) MV](https://youtube.com/watch?v=hd8oTfHG2fg) - Stone Music Entertainment (482,638회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/dsw3KhXnCuE/default.jpg)
-[[12회 예고] “누가 뒤지나 한 번 해보자” 이제훈이 밝혀낸 보이스피싱 조직의 정체?! 그리고 사람 냄새 안 나는 의문의 섬의 비밀🏝️ | 모범택시3 | SBS](https://youtube.com/watch?v=dsw3KhXnCuE) - SBS  (30,103회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/9FdiLntO6sE/default.jpg)
+[[신비아파트 10주년 극장판: 한 번 더, 소환] 2차 예고편](https://youtube.com/watch?v=9FdiLntO6sE) - CJ ENM Movie (158,693회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/_-vBPJ5NEUA/default.jpg)
-[에메랄드 손목 꺾기](https://youtube.com/watch?v=_-vBPJ5NEUA) - 랄로 (393,552회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/ll7oM8OHGFc/default.jpg)
+[감스트 본캐 1경 서민스쿼드 공개합니다!! 피파4](https://youtube.com/watch?v=ll7oM8OHGFc) - 감스트GAMST (324,136회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/YsvbN665LZE/default.jpg)
-[HAN "유성우 (Raining stars)" | [Stray Kids : SKZ-RECORD]](https://youtube.com/watch?v=YsvbN665LZE) - Stray Kids (793,328회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/5A9T1vIOKRo/default.jpg)
+[EVE](https://youtube.com/watch?v=5A9T1vIOKRo) - YANGHONGWON - Topic (29,759회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/x0JPmS86oGA/default.jpg)
-[브리저튼 시즌 4 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=x0JPmS86oGA) - Netflix Korea 넷플릭스 코리아 (223,549회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/Bcb1hEmJevE/default.jpg)
+[와.. 엑스맨 예고편 개미쳤다.. ≪어벤져스: 둠스데이≫ 세 번째 예고편 유출 떡밥 총정리](https://youtube.com/watch?v=Bcb1hEmJevE) - 무비띵크_Movie Think (265,250회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-12-28 06:32 UTC
+⏳ 마지막 업데이트: 2025-12-29 06:36 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
