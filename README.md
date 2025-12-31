@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/5A9T1vIOKRo/default.jpg)
-[EVE](https://youtube.com/watch?v=5A9T1vIOKRo) - YANGHONGWON - Topic (54,481회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/Uux5TXOV3CU/default.jpg)
+[[박서진 공식] 첫눈에 반해 버린 사람아](https://youtube.com/watch?v=Uux5TXOV3CU) - 박서진 (51,773회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/9FdiLntO6sE/default.jpg)
-[[신비아파트 10주년 극장판: 한 번 더, 소환] 2차 예고편](https://youtube.com/watch?v=9FdiLntO6sE) - CJ ENM Movie (186,844회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/3F4p3KOH8y0/default.jpg)
+[[어벤져스: 둠스데이] '토르' 예고편 최초 공개](https://youtube.com/watch?v=3F4p3KOH8y0) - MarvelKorea (455,394회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/qgee0I2Oo_k/default.jpg)
-[4코 3성 주제에 1vs 9 가되는 미친 믹서기 등장](https://youtube.com/watch?v=qgee0I2Oo_k) - 잡상싱 (186,623회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/e9bKMJGDrzA/default.jpg)
+[지피지기](https://youtube.com/watch?v=e9bKMJGDrzA) - PAKA (297,482회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/v6y7Z0F1h5g/default.jpg)
-[Make Me Wonder](https://youtube.com/watch?v=v6y7Z0F1h5g) - OFFICIAL HIGE DANDISM - Topic (320,856회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/XoSoSmthMb4/default.jpg)
+[girl, get up.](https://youtube.com/watch?v=XoSoSmthMb4) - Doechii - Topic (96,831회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/Bcb1hEmJevE/default.jpg)
-[와.. 엑스맨 예고편 개미쳤다.. ≪어벤져스: 둠스데이≫ 세 번째 예고편 유출 떡밥 총정리](https://youtube.com/watch?v=Bcb1hEmJevE) - 무비띵크_Movie Think (371,874회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/9C973g8hrXQ/default.jpg)
+[와.. 드디어 근본 토르가 돌아왔다.. ≪어벤져스: 둠스데이≫ 2차 토르 예고편 떡밥 총정리](https://youtube.com/watch?v=9C973g8hrXQ) - 무비띵크_Movie Think (236,239회)
 
 
 ---
-⏳ 마지막 업데이트: 2025-12-30 06:34 UTC
+⏳ 마지막 업데이트: 2025-12-31 06:34 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
