@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/wQiz17AKhjM/default.jpg)
-[AIZO](https://youtube.com/watch?v=wQiz17AKhjM) - King Gnu - Topic (252,783회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/rW2HmFDGdKs/default.jpg)
+[Golden](https://youtube.com/watch?v=rW2HmFDGdKs) - HUNTR/X - Topic (703,003회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/acUIyAfieHE/default.jpg)
-[[어벤져스: 둠스데이] '엑스맨' 예고편 최초 공개](https://youtube.com/watch?v=acUIyAfieHE) - MarvelKorea (586,365회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/XLXb5Pcj1Z0/default.jpg)
+[끝내 권력을 가질 자 누구인가 | [메이드 인 코리아] 6회 예고편 | 디즈니+](https://youtube.com/watch?v=XLXb5Pcj1Z0) - Disney Plus Korea 디즈니 플러스 코리아 (101,206회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/txe8nVlzFGo/default.jpg)
-[리롤 없이 3성 비에고를 찍으면 생기는 일](https://youtube.com/watch?v=txe8nVlzFGo) - 잡상싱 (250,938회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/pMBE5-Zfjjw/default.jpg)
+[[데마시아를 위하여] 2026 시즌 오프닝](https://youtube.com/watch?v=pMBE5-Zfjjw) - LCK (1,180,956회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/3mDtvHuRptA/default.jpg)
-[LIVE CLIPㅣ바다(BADA) - 소란스런 이별](https://youtube.com/watch?v=3mDtvHuRptA) - 바다 BADA (28,026회)
+[LIVE CLIPㅣ바다(BADA) - 소란스런 이별](https://youtube.com/watch?v=3mDtvHuRptA) - 바다 BADA (99,751회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/dft47piUaws/default.jpg)
-[결국 최종 티저 예고편도 유출ㄷㄷ ≪어벤져스: 둠스데이≫ 네 번째 예고편 유출 떡밥 총정리](https://youtube.com/watch?v=dft47piUaws) - 무비띵크_Movie Think (224,670회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/acUIyAfieHE/default.jpg)
+[[어벤져스: 둠스데이] '엑스맨' 예고편 최초 공개](https://youtube.com/watch?v=acUIyAfieHE) - MarvelKorea (624,944회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-01-09 06:35 UTC
+⏳ 마지막 업데이트: 2026-01-10 06:31 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
