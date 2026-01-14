@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/l2HfBaZi-4k/default.jpg)
-[Blue](https://youtube.com/watch?v=l2HfBaZi-4k) - DxS (SEVENTEEN) - Topic (167,802회)
+[Blue](https://youtube.com/watch?v=l2HfBaZi-4k) - DxS (SEVENTEEN) - Topic (320,498회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/RVrTZc1_NWk/default.jpg)
-[원피스: 시즌 2 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=RVrTZc1_NWk) - Netflix Korea 넷플릭스 코리아 (116,066회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/Wkg430JD9Yo/default.jpg)
+[[어벤져스: 둠스데이] '와칸다 & 판타스틱 4'  예고편 최초 공개](https://youtube.com/watch?v=Wkg430JD9Yo) - MarvelKorea (238,364회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/flGaTkZ7Ryg/default.jpg)
-[원딜을 다시 위대하게](https://youtube.com/watch?v=flGaTkZ7Ryg) - 괴물쥐 유튜브 (396,413회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/Nz2ByaTCSjo/default.jpg)
+[2025 랄로 연말결산 (살짝 늦은)](https://youtube.com/watch?v=Nz2ByaTCSjo) - 랄로 (470,243회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/N9X1o0q4aIc/default.jpg)
-[도겸X승관 (SEVENTEEN) 'Blue' Official MV (Cinema Ver.)](https://youtube.com/watch?v=N9X1o0q4aIc) - HYBE LABELS (2,658,801회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/P8VVnopM610/default.jpg)
+[ALPHA DRIVE ONE 'FREAK ALARM' MV](https://youtube.com/watch?v=P8VVnopM610) - ALPHA DRIVE ONE (11,150,594회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/M8uoJlDRxZo/default.jpg)
-[와.. 닥터 둠의 충격적인 모든 정복자 캉 학살ㄷㄷ ≪어벤져스: 둠스데이≫ 공식 예고편 루머 총정리](https://youtube.com/watch?v=M8uoJlDRxZo) - 무비띵크_Movie Think (344,481회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/8cP4boKxThE/default.jpg)
+[≪어벤져스: 둠스데이≫ 와칸다 & 판타스틱4 티저 예고편 떡밥 총정리](https://youtube.com/watch?v=8cP4boKxThE) - 무비띵크_Movie Think (132,132회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-01-13 06:35 UTC
+⏳ 마지막 업데이트: 2026-01-14 06:35 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
