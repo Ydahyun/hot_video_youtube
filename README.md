@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/KRAFmgTECWw/default.jpg)
-[LIGHTSUM(라잇썸) - '아름답고도 아프구나 (상아, 초원, 주현)' LIVE CLIP](https://youtube.com/watch?v=KRAFmgTECWw) - LIGHTSUM 라잇썸 (Official YouTube Channel) (296,416회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/Q3Fn0B-fHgE/default.jpg)
+[No Way Back (feat. So!YoON!)](https://youtube.com/watch?v=Q3Fn0B-fHgE) - ENHYPEN - Topic (740,562회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/Wkg430JD9Yo/default.jpg)
-[[어벤져스: 둠스데이] '와칸다 & 판타스틱 4'  예고편 최초 공개](https://youtube.com/watch?v=Wkg430JD9Yo) - MarvelKorea (325,683회)
+[[어벤져스: 둠스데이] '와칸다 & 판타스틱 4'  예고편 최초 공개](https://youtube.com/watch?v=Wkg430JD9Yo) - MarvelKorea (345,366회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/Naqh1Su6pvY/default.jpg)
-[김민교의 패작 플레이에 결국 참지 못한 염보성 ㅋㅋㅋㅋ](https://youtube.com/watch?v=Naqh1Su6pvY) - 클리드 (267,998회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/GcLrQoUjV2I/default.jpg)
+[예술이다 예술│HLE vs T1│2026 LCK CUP│울챔스 하이라이트](https://youtube.com/watch?v=GcLrQoUjV2I) - Wolf (169,945회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/LVw93DLIE78/default.jpg)
-[n.SSign(엔싸인) - 'Funky like me (Feat. PEAK & PITCH)' MV](https://youtube.com/watch?v=LVw93DLIE78) - nSSign (258,025회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/KRAFmgTECWw/default.jpg)
+[LIGHTSUM(라잇썸) - '아름답고도 아프구나 (상아, 초원, 주현)' LIVE CLIP](https://youtube.com/watch?v=KRAFmgTECWw) - LIGHTSUM 라잇썸 (Official YouTube Channel) (353,762회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/8cP4boKxThE/default.jpg)
-[≪어벤져스: 둠스데이≫ 와칸다 & 판타스틱4 티저 예고편 떡밥 총정리](https://youtube.com/watch?v=8cP4boKxThE) - 무비띵크_Movie Think (201,731회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/9sxEZuJskvM/default.jpg)
+[[왕과 사는 남자] 공식 예고편](https://youtube.com/watch?v=9sxEZuJskvM) - 쇼박스 SHOWBOX (496,613회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-01-16 06:35 UTC
+⏳ 마지막 업데이트: 2026-01-17 06:31 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
