@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/BWfKkqo1Mk8/default.jpg)
-[EXO 엑소 'Crown' MV](https://youtube.com/watch?v=BWfKkqo1Mk8) - SMTOWN (7,433,853회)
+[EXO 엑소 'Crown' MV](https://youtube.com/watch?v=BWfKkqo1Mk8) - SMTOWN (10,914,608회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/_hxv1MvK6WI/default.jpg)
-[2025-2026 뮤지컬 데스노트 CHARACTER TRAILER Ⅳ 고은성 김준수 장민제](https://youtube.com/watch?v=_hxv1MvK6WI) - OD COMPANY (5,665회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/AZBXAYYsC18/default.jpg)
+["생존율 1%" ≪어벤져스: 둠스데이≫ 최종 티저 예고편 총정리 + 전체 팀 떡밥 분석](https://youtube.com/watch?v=AZBXAYYsC18) - 무비띵크_Movie Think (292,520회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/hDqE3Pk3cbA/default.jpg)
-[역전 드라마](https://youtube.com/watch?v=hDqE3Pk3cbA) - 괴물쥐 유튜브 (321,312회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/HPSHo89XnHQ/default.jpg)
+[스트롱 스트롱 굿 파트너](https://youtube.com/watch?v=HPSHo89XnHQ) - 랄로 (534,515회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/mbiN9853aic/default.jpg)
-[Crown](https://youtube.com/watch?v=mbiN9853aic) - EXO - Topic (317,057회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/nGG42t7pm5Y/default.jpg)
+[Back It Up](https://youtube.com/watch?v=nGG42t7pm5Y) - EXO - Topic (526,864회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/3VZGF7qGgHw/default.jpg)
-[폼 고공행진📈│T1 vs DRX│2026 LCK CUP│울챔스 하이라이트](https://youtube.com/watch?v=3VZGF7qGgHw) - Wolf (210,411회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/_hxv1MvK6WI/default.jpg)
+[2025-2026 뮤지컬 데스노트 CHARACTER TRAILER Ⅳ 고은성 김준수 장민제](https://youtube.com/watch?v=_hxv1MvK6WI) - OD COMPANY (15,751회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-01-20 06:37 UTC
+⏳ 마지막 업데이트: 2026-01-21 06:37 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
