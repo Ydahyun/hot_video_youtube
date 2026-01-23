@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/BWfKkqo1Mk8/default.jpg)
-[EXO 엑소 'Crown' MV](https://youtube.com/watch?v=BWfKkqo1Mk8) - SMTOWN (16,195,078회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/WQmzbVpCLGo/default.jpg)
+[Become](https://youtube.com/watch?v=WQmzbVpCLGo) - Hebi - Topic (50,060회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/AZBXAYYsC18/default.jpg)
-["생존율 1%" ≪어벤져스: 둠스데이≫ 최종 티저 예고편 총정리 + 전체 팀 떡밥 분석](https://youtube.com/watch?v=AZBXAYYsC18) - 무비띵크_Movie Think (363,402회)
+["생존율 1%" ≪어벤져스: 둠스데이≫ 최종 티저 예고편 총정리 + 전체 팀 떡밥 분석](https://youtube.com/watch?v=AZBXAYYsC18) - 무비띵크_Movie Think (411,153회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/4_Bad0cjm6U/default.jpg)
-[숲속의 가렌](https://youtube.com/watch?v=4_Bad0cjm6U) - PAKA (311,334회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/iCFINV8Y8PY/default.jpg)
+[≪쿼런틴 존 정식출시!!🔥≫ 인류 99.9%가 멸망한 세상, 사람인척 하는 좀비를 찾아내라.](https://youtube.com/watch?v=iCFINV8Y8PY) - 혜안 (240,793회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/mbiN9853aic/default.jpg)
-[Crown](https://youtube.com/watch?v=mbiN9853aic) - EXO - Topic (717,660회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/bnxE5Pp7iRg/default.jpg)
+[I Dream](https://youtube.com/watch?v=bnxE5Pp7iRg) - Release - Topic (15,308회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/uKOYQ1e4lv4/default.jpg)
-[[휴민트 HUMINT] 2차 예고편](https://youtube.com/watch?v=uKOYQ1e4lv4) - 잇츠뉴 It'sNEW (44,183회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/pWw-UENvdTw/default.jpg)
+[Forza Horizon 6 - Official Gameplay Teaser Trailer](https://youtube.com/watch?v=pWw-UENvdTw) - Forza (772,795회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-01-22 06:36 UTC
+⏳ 마지막 업데이트: 2026-01-23 06:35 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
