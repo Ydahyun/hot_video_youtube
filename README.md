@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/WQmzbVpCLGo/default.jpg)
-[Become](https://youtube.com/watch?v=WQmzbVpCLGo) - Hebi - Topic (50,060회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/anzBQFMJK-s/default.jpg)
+[HYPNOTIZE](https://youtube.com/watch?v=anzBQFMJK-s) - XG - Topic (156,178회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/AZBXAYYsC18/default.jpg)
-["생존율 1%" ≪어벤져스: 둠스데이≫ 최종 티저 예고편 총정리 + 전체 팀 떡밥 분석](https://youtube.com/watch?v=AZBXAYYsC18) - 무비띵크_Movie Think (411,153회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/XGcvgr27sac/default.jpg)
+[[마스터즈 오브 유니버스] 티저 예고편](https://youtube.com/watch?v=XGcvgr27sac) - 소니픽쳐스코리아 (456,342회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/iCFINV8Y8PY/default.jpg)
-[≪쿼런틴 존 정식출시!!🔥≫ 인류 99.9%가 멸망한 세상, 사람인척 하는 좀비를 찾아내라.](https://youtube.com/watch?v=iCFINV8Y8PY) - 혜안 (240,793회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/h8zYMtU06jA/default.jpg)
+[그때까지만 버티면...!!😲│T1 vs KT│2026 LCK CUP│울챔스 하이라이트](https://youtube.com/watch?v=h8zYMtU06jA) - Wolf (198,472회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/bnxE5Pp7iRg/default.jpg)
-[I Dream](https://youtube.com/watch?v=bnxE5Pp7iRg) - Release - Topic (15,308회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/WQmzbVpCLGo/default.jpg)
+[Become](https://youtube.com/watch?v=WQmzbVpCLGo) - Hebi - Topic (112,477회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/pWw-UENvdTw/default.jpg)
-[Forza Horizon 6 - Official Gameplay Teaser Trailer](https://youtube.com/watch?v=pWw-UENvdTw) - Forza (772,795회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/eaWMv7rgqwY/default.jpg)
+[파반느 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=eaWMv7rgqwY) - Netflix Korea 넷플릭스 코리아 (194,015회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-01-23 06:35 UTC
+⏳ 마지막 업데이트: 2026-01-24 06:32 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
