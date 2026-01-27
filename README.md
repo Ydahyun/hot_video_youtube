@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/TuTZCxzv0fs/default.jpg)
-[그러니까 내 말은 (Love letter)](https://youtube.com/watch?v=TuTZCxzv0fs) - TNX - Topic (53,802회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/KL7km3PxilQ/default.jpg)
+[404 (New Era)](https://youtube.com/watch?v=KL7km3PxilQ) - KiiiKiii - Topic (76,931회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/TVXjrv8GVOU/default.jpg)
-[[슈퍼 마리오 갤럭시] 요시 예고편](https://youtube.com/watch?v=TVXjrv8GVOU) - 유니버설 픽쳐스 (78,434회)
+[[슈퍼 마리오 갤럭시] 요시 예고편](https://youtube.com/watch?v=TVXjrv8GVOU) - 유니버설 픽쳐스 (297,250회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/ITLtYD1JMzA/default.jpg)
-[체제에 저항하는 남자](https://youtube.com/watch?v=ITLtYD1JMzA) - 괴물쥐 유튜브 (367,547회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/Nzn7NdgvkMM/default.jpg)
+[답답해서 내가 끈다](https://youtube.com/watch?v=Nzn7NdgvkMM) - 랄로 (603,436회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/ALrIfGjGEpc/default.jpg)
-[Mid](https://youtube.com/watch?v=ALrIfGjGEpc) - oroodays - Topic (29,896회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/zhHB4dZTChw/default.jpg)
+[KiiiKiii 키키 '404 (New Era)' MV](https://youtube.com/watch?v=zhHB4dZTChw) - STARSHIP (1,387,691회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/rZ2R_8TAKVk/default.jpg)
-[어벤져스 둠스데이 예고편은 엔드게임과 연결되어 있었습니다. 마블팬들 운동 많이된다...](https://youtube.com/watch?v=rZ2R_8TAKVk) - DOCLIP :: 두클립 (64,505회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/aPNZNcBIWNw/default.jpg)
+[레이디 두아 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=aPNZNcBIWNw) - Netflix Korea 넷플릭스 코리아 (31,040회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-01-26 06:38 UTC
+⏳ 마지막 업데이트: 2026-01-27 06:36 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
