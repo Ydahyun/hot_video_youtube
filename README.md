@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/DYgE3SGPEqk/default.jpg)
-[i-dle (아이들) 'Mono (Feat. skaiwater)' Official Music Video](https://youtube.com/watch?v=DYgE3SGPEqk) - i-dle (아이들) (6,012,450회)
+[i-dle (아이들) 'Mono (Feat. skaiwater)' Official Music Video](https://youtube.com/watch?v=DYgE3SGPEqk) - i-dle (아이들) (7,040,496회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/9Md-huAu1HE/default.jpg)
-[미스터리 수사단 시즌2 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=9Md-huAu1HE) - Netflix Korea 넷플릭스 코리아 (71,293회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/JAYxz3AmBVg/default.jpg)
+[영퍼티 아칼리](https://youtube.com/watch?v=JAYxz3AmBVg) - 랄로 (625,601회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/W2tkATC7-lU/default.jpg)
-[안녕하세요 백크입니다](https://youtube.com/watch?v=W2tkATC7-lU) - 백크 Baekk (931,112회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/nuCzHmEgcQQ/default.jpg)
+[Never Meant to Be](https://youtube.com/watch?v=nuCzHmEgcQQ) - GIRIBOY - Topic (84,401회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/zracwhm_rxU/default.jpg)
-[Sorry for Crying](https://youtube.com/watch?v=zracwhm_rxU) - ROCOBERRY - Topic (127,923회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/SAHe1CuJK7k/default.jpg)
+[범람 라이즈](https://youtube.com/watch?v=SAHe1CuJK7k) - PAKA (306,971회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/gBvUjhPy5v4/default.jpg)
-[ATEEZ(에이티즈) - 'Adrenaline' MV Trailer](https://youtube.com/watch?v=gBvUjhPy5v4) - KQ ENTERTAINMENT (141,379회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/TLmRZQgXmEk/default.jpg)
+[KiiiKiii 키키 '404 (New Era)'｜liKe KiiiKiii Performance｜라잌키키 퍼포먼스｜지유 이솔 수이 하음 키야 @KiiiKiii_starship](https://youtube.com/watch?v=TLmRZQgXmEk) - 1theK Originals - 원더케이 오리지널 (672,279회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-01-30 06:50 UTC
+⏳ 마지막 업데이트: 2026-01-31 06:39 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
