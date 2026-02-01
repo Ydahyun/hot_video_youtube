@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/DYgE3SGPEqk/default.jpg)
-[i-dle (아이들) 'Mono (Feat. skaiwater)' Official Music Video](https://youtube.com/watch?v=DYgE3SGPEqk) - i-dle (아이들) (7,040,496회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/nuCzHmEgcQQ/default.jpg)
+[Never Meant to Be](https://youtube.com/watch?v=nuCzHmEgcQQ) - GIRIBOY - Topic (151,181회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/JAYxz3AmBVg/default.jpg)
-[영퍼티 아칼리](https://youtube.com/watch?v=JAYxz3AmBVg) - 랄로 (625,601회)
+[영퍼티 아칼리](https://youtube.com/watch?v=JAYxz3AmBVg) - 랄로 (949,489회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/nuCzHmEgcQQ/default.jpg)
-[Never Meant to Be](https://youtube.com/watch?v=nuCzHmEgcQQ) - GIRIBOY - Topic (84,401회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/DYgE3SGPEqk/default.jpg)
+[i-dle (아이들) 'Mono (Feat. skaiwater)' Official Music Video](https://youtube.com/watch?v=DYgE3SGPEqk) - i-dle (아이들) (7,637,127회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/SAHe1CuJK7k/default.jpg)
-[범람 라이즈](https://youtube.com/watch?v=SAHe1CuJK7k) - PAKA (306,971회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/qNfaUOKrXmQ/default.jpg)
+[500배속 마인크래프트](https://youtube.com/watch?v=qNfaUOKrXmQ) - 우융 (548,455회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/TLmRZQgXmEk/default.jpg)
-[KiiiKiii 키키 '404 (New Era)'｜liKe KiiiKiii Performance｜라잌키키 퍼포먼스｜지유 이솔 수이 하음 키야 @KiiiKiii_starship](https://youtube.com/watch?v=TLmRZQgXmEk) - 1theK Originals - 원더케이 오리지널 (672,279회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/OSUHqAvuSRI/default.jpg)
+[Lee Know "奏（かなで）(Kanade)" Cover (원곡 : スキマスイッチ(Sukimaswitch)) | [Stray Kids : SKZ-RECORD]](https://youtube.com/watch?v=OSUHqAvuSRI) - Stray Kids (643,113회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-01-31 06:39 UTC
+⏳ 마지막 업데이트: 2026-02-01 06:50 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
