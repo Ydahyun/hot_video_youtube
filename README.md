@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/9qkpcLK422o/default.jpg)
-[IVE 아이브 'BANG BANG' MV](https://youtube.com/watch?v=9qkpcLK422o) - STARSHIP (4,134,137회)
+[IVE 아이브 'BANG BANG' MV](https://youtube.com/watch?v=9qkpcLK422o) - STARSHIP (7,115,213회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/C_nzB-xll9A/default.jpg)
-[미쳤다.. 넷플릭스 찢을 신작 나왔다..🔥 예고편 공개 직후 반응 터져버린 '화제의 중심' 등극ㄷㄷ (+ 2026 1분기 라인업)](https://youtube.com/watch?v=C_nzB-xll9A) - 정씨네 (273,756회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/s5erUUzQ2Rc/default.jpg)
+[원피스: 시즌 2 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=s5erUUzQ2Rc) - Netflix Korea 넷플릭스 코리아 (76,652회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/0tMSIU7UsPg/default.jpg)
-[일단 후반만 보내주세요](https://youtube.com/watch?v=0tMSIU7UsPg) - 랄로 (572,402회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/BHtftZopweE/default.jpg)
+[리니지 내가 9레이를 들 관상인가?](https://youtube.com/watch?v=BHtftZopweE) - 이문주 (544,782회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/IrTJnvqnXPY/default.jpg)
-[BANG BANG](https://youtube.com/watch?v=IrTJnvqnXPY) - IVE - Topic (276,904회)
+[BANG BANG](https://youtube.com/watch?v=IrTJnvqnXPY) - IVE - Topic (657,099회)
 
 **5.** ![thumbnail](https://i.ytimg.com/vi/P_9TtIX3f3Q/default.jpg)
-[[살목지] 1차 예고편](https://youtube.com/watch?v=P_9TtIX3f3Q) - 쇼박스 SHOWBOX (19,023회)
+[[살목지] 1차 예고편](https://youtube.com/watch?v=P_9TtIX3f3Q) - 쇼박스 SHOWBOX (82,194회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-02-10 07:04 UTC
+⏳ 마지막 업데이트: 2026-02-11 07:01 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
