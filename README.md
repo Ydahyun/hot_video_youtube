@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/MWHtUeY3y34/default.jpg)
-[Drinking Alone](https://youtube.com/watch?v=MWHtUeY3y34) - Sungtae (Postmen) - Topic (180,958회)
+[Drinking Alone](https://youtube.com/watch?v=MWHtUeY3y34) - Sungtae (Postmen) - Topic (268,706회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/I5gkVKl8W7o/default.jpg)
-[브리저튼 시즌 4 | 파트 2 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=I5gkVKl8W7o) - Netflix Korea 넷플릭스 코리아 (206,775회)
+[브리저튼 시즌 4 | 파트 2 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=I5gkVKl8W7o) - Netflix Korea 넷플릭스 코리아 (230,791회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/I3Y-l54rA7Y/default.jpg)
-[☀️설날 특집☀️2026년 새해 첫 혜안져스 덕몽어스!!!](https://youtube.com/watch?v=I3Y-l54rA7Y) - 혜안 (520,290회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/sqNE6ZWoGaA/default.jpg)
+[탑승좀 하겠습니다](https://youtube.com/watch?v=sqNE6ZWoGaA) - 랄로 (619,993회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/_dW6Bd5K0Z4/default.jpg)
-[CINEMA](https://youtube.com/watch?v=_dW6Bd5K0Z4) - WOODZ - Topic (563,086회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/LPL1fozVrIw/default.jpg)
+[전지우 - 'Home Sweet Home' MV](https://youtube.com/watch?v=LPL1fozVrIw) - KARD (185,068회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/lM8603lKyHA/default.jpg)
-[국산 오픈월드 대작 게임 "눈물을 마시는 새" - 최초 공개 트레일러](https://youtube.com/watch?v=lM8603lKyHA) - 시온 (287,932회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/Hw3MKYMUlA0/default.jpg)
+[≪어벤져스: 둠스데이≫ 모든 티저 예고편 몰아보기 떡밥 분석 총정리](https://youtube.com/watch?v=Hw3MKYMUlA0) - 무비띵크_Movie Think (24,569회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-02-16 07:03 UTC
+⏳ 마지막 업데이트: 2026-02-17 06:59 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
