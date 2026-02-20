@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/yfKBI5l81-A/default.jpg)
-[RIIZE 라이즈 'All of You' MV](https://youtube.com/watch?v=yfKBI5l81-A) - SMTOWN (366,399회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/aq08y9ebFQs/default.jpg)
+[요네즈 켄시&우타다 히카루 - JANE DOE 🎵"저 가수입니다🎤" by강남 (with. IVE 리즈)](https://youtube.com/watch?v=aq08y9ebFQs) - 동네친구 강나미 [Kangnami] (556,411회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/ZnS0sRSWPuc/default.jpg)
-[월간남친 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=ZnS0sRSWPuc) - Netflix Korea 넷플릭스 코리아 (96,489회)
+[월간남친 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=ZnS0sRSWPuc) - Netflix Korea 넷플릭스 코리아 (268,405회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/H7-RjSPO_dg/default.jpg)
-[2/18녹) 리니지클래식 사또 우주최초 9요방](https://youtube.com/watch?v=H7-RjSPO_dg) - 스트리머 사또 live-streamer satto (236,836회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/-_VrFzYylj4/default.jpg)
+[리니지클래식 이실로테 레이피어60자루 러쉬 내가 왜 이문주인지 오늘보여줄게](https://youtube.com/watch?v=-_VrFzYylj4) - 이문주 (327,196회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/aVJwmhuzF4w/default.jpg)
-[Flashlight](https://youtube.com/watch?v=aVJwmhuzF4w) - RIIZE - Topic (40,489회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/849QAMVWkvM/default.jpg)
+[STAY on FIRE (feat. DEAN)](https://youtube.com/watch?v=849QAMVWkvM) - Sik-K - Topic (42,840회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/3GN7DfLqUKM/default.jpg)
-[[만달로리안과 그로구] 메인 예고편](https://youtube.com/watch?v=3GN7DfLqUKM) - Star Wars Korea (129,531회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/PW22jwFNxU8/default.jpg)
+[Slay the Spire 2 - Early Access Trailer](https://youtube.com/watch?v=PW22jwFNxU8) - Mega Crit (571,338회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-02-19 07:00 UTC
+⏳ 마지막 업데이트: 2026-02-20 06:57 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
