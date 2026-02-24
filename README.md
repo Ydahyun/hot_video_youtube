@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/Q4AE3ub4nBM/default.jpg)
-[RUDE!](https://youtube.com/watch?v=Q4AE3ub4nBM) - Hearts2Hearts - Topic (1,300,537회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/1Lmy7qwmSMc/default.jpg)
+[IVE 아이브 'BLACKHOLE' MV](https://youtube.com/watch?v=1Lmy7qwmSMc) - STARSHIP (4,035,315회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/xZmN1QPwE9s/default.jpg)
-[[토이 스토리 5] 메인 예고편](https://youtube.com/watch?v=xZmN1QPwE9s) - Disney Korea (690,816회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/9ryVkW-XkwM/default.jpg)
+[새로운 스파이더맨이 왔습니다 ㄷㄷ ≪스파이더 누아르≫ 공식 예고편 떡밥 총정리](https://youtube.com/watch?v=9ryVkW-XkwM) - 무비띵크_Movie Think (137,342회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/mjUEh3hI9IE/default.jpg)
-[T1 vs DK | 2026 LCK CUP Playoffs](https://youtube.com/watch?v=mjUEh3hI9IE) - LCK Global (2,037,719회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/Cr92ET2hjno/default.jpg)
+[첫 수업에 손절당할 뻔 했습니다 [마크 하드코어 EP.11]](https://youtube.com/watch?v=Cr92ET2hjno) - 말왕TV (279,936회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/F7sGJVUrkjQ/default.jpg)
-[Hearts2Hearts 하츠투하츠 'RUDE!' MV](https://youtube.com/watch?v=F7sGJVUrkjQ) - SMTOWN (15,400,659회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/YfiJDJKt3fE/default.jpg)
+[BLACKHOLE](https://youtube.com/watch?v=YfiJDJKt3fE) - IVE - Topic (236,502회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/EN2s-IApsL8/default.jpg)
-[[리니지클래식] 9화. 러쉬의 정점 (ft.변신조종반지)](https://youtube.com/watch?v=EN2s-IApsL8) - 불도그 (341,962회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/PFt4ETh8648/default.jpg)
+[이서진의 달라달라 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=PFt4ETh8648) - Netflix Korea 넷플릭스 코리아 (40,983회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-02-23 07:05 UTC
+⏳ 마지막 업데이트: 2026-02-24 07:00 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
