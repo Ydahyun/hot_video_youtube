@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/1Lmy7qwmSMc/default.jpg)
-[IVE 아이브 'BLACKHOLE' MV](https://youtube.com/watch?v=1Lmy7qwmSMc) - STARSHIP (4,035,315회)
+[IVE 아이브 'BLACKHOLE' MV](https://youtube.com/watch?v=1Lmy7qwmSMc) - STARSHIP (4,865,105회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/9ryVkW-XkwM/default.jpg)
-[새로운 스파이더맨이 왔습니다 ㄷㄷ ≪스파이더 누아르≫ 공식 예고편 떡밥 총정리](https://youtube.com/watch?v=9ryVkW-XkwM) - 무비띵크_Movie Think (137,342회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/PFt4ETh8648/default.jpg)
+[이서진의 달라달라 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=PFt4ETh8648) - Netflix Korea 넷플릭스 코리아 (144,284회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/Cr92ET2hjno/default.jpg)
-[첫 수업에 손절당할 뻔 했습니다 [마크 하드코어 EP.11]](https://youtube.com/watch?v=Cr92ET2hjno) - 말왕TV (279,936회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/ceDXOxvvY3A/default.jpg)
+[바텀을 매번 이겨준다고](https://youtube.com/watch?v=ceDXOxvvY3A) - 랄로 (571,101회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/YfiJDJKt3fE/default.jpg)
-[BLACKHOLE](https://youtube.com/watch?v=YfiJDJKt3fE) - IVE - Topic (236,502회)
+[BLACKHOLE](https://youtube.com/watch?v=YfiJDJKt3fE) - IVE - Topic (532,444회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/PFt4ETh8648/default.jpg)
-[이서진의 달라달라 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=PFt4ETh8648) - Netflix Korea 넷플릭스 코리아 (40,983회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/9ryVkW-XkwM/default.jpg)
+[새로운 스파이더맨이 왔습니다 ㄷㄷ ≪스파이더 누아르≫ 공식 예고편 떡밥 총정리](https://youtube.com/watch?v=9ryVkW-XkwM) - 무비띵크_Movie Think (176,382회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-02-24 07:00 UTC
+⏳ 마지막 업데이트: 2026-02-25 07:02 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
