@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/2GJfWMYCWY0/default.jpg)
-[BLACKPINK - ‘GO’ M/V](https://youtube.com/watch?v=2GJfWMYCWY0) - BLACKPINK (27,956,024회)
+[BLACKPINK - ‘GO’ M/V](https://youtube.com/watch?v=2GJfWMYCWY0) - BLACKPINK (31,903,437회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/_OONVfbksxw/default.jpg)
-[공룡들 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=_OONVfbksxw) - Netflix Korea 넷플릭스 코리아 (101,302회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/vPJ2LQ0exUM/default.jpg)
+[YUNA SOLO DEBUT | 'Ice Cream' OFFICIAL TRAILER](https://youtube.com/watch?v=vPJ2LQ0exUM) - JYP Entertainment (286,581회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/nfhgRLjHxVg/default.jpg)
-[감스트 피파 본캐 2000만원 현질!! 초대박 떴습니다!!](https://youtube.com/watch?v=nfhgRLjHxVg) - 감스트GAMST (346,341회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/gGIdJk6Wv3M/default.jpg)
+[전섭최초 소울트리플요정🔴AK47 맞아볼래?☄ 리니지클래식 데포로쥬🎈동맹 간절히 구합니다.](https://youtube.com/watch?v=gGIdJk6Wv3M) - 만만 (236,571회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/dnL8tAmkZaU/default.jpg)
-[[MV] 이영지 - Robot](https://youtube.com/watch?v=dnL8tAmkZaU) - 이영지 (630,765회)
+[[MV] 이영지 - Robot](https://youtube.com/watch?v=dnL8tAmkZaU) - 이영지 (991,676회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/W8XLrV_YGxU/default.jpg)
-[그걸 반사하면?](https://youtube.com/watch?v=W8XLrV_YGxU) - 괴물쥐 유튜브 (315,313회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/_OONVfbksxw/default.jpg)
+[공룡들 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=_OONVfbksxw) - Netflix Korea 넷플릭스 코리아 (584,442회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-03-01 06:48 UTC
+⏳ 마지막 업데이트: 2026-03-02 06:58 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
