@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/flJcUGn2KsI/default.jpg)
-[염라](https://youtube.com/watch?v=flJcUGn2KsI) - Younha - Topic (125,144회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/7KpcojYwabc/default.jpg)
+[Sub Character](https://youtube.com/watch?v=7KpcojYwabc) - Younha - Topic (165,022회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/WIt8kL2omjU/default.jpg)
-[아니 '그린'  랜턴이라면서요.. DC ≪랜턴즈≫ 공식 예고편 총정리](https://youtube.com/watch?v=WIt8kL2omjU) - 무비띵크_Movie Think (140,679회)
+[아니 '그린'  랜턴이라면서요.. DC ≪랜턴즈≫ 공식 예고편 총정리](https://youtube.com/watch?v=WIt8kL2omjU) - 무비띵크_Movie Think (173,316회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/zm6rgHnNhAs/default.jpg)
-[리니지 클래식.. 서버 최초 10 레이피어, 8셋 도전...! 서버 1등 찍겠습니다](https://youtube.com/watch?v=zm6rgHnNhAs) - 겜케이 (220,908회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/MxT5MtFZtnU/default.jpg)
+[[ 불도그 LIVE 생방송 3/10 ] 리니지 마을밖을 나가보려합니다...](https://youtube.com/watch?v=MxT5MtFZtnU) - 불도그 (290,968회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/HLTQoCRBfxc/default.jpg)
-[TICK TOCK (Prod. by ZICO, Crush)](https://youtube.com/watch?v=HLTQoCRBfxc) - Release - Topic (977,225회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/y55WCDiIBSg/default.jpg)
+[I DON'T BARGAIN](https://youtube.com/watch?v=y55WCDiIBSg) - ALLDAY PROJECT - Topic (107,222회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/hVEV-ZucSQA/default.jpg)
-[엑스오, 키티 시즌3 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=hVEV-ZucSQA) - Netflix Korea 넷플릭스 코리아 (59,180회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/K4BZpoafQqA/default.jpg)
+[[슈퍼 마리오 갤럭시] 파이널 예고편](https://youtube.com/watch?v=K4BZpoafQqA) - 유니버설 픽쳐스 (223,082회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-03-10 06:51 UTC
+⏳ 마지막 업데이트: 2026-03-11 06:54 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
