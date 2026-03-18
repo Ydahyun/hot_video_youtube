@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/c5xOUluUadw/default.jpg)
-[BE:FIRST ALL DAY](https://youtube.com/watch?v=c5xOUluUadw) - BE:FIRST - Topic (186,665회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/sAGD0C8nuOk/default.jpg)
+[Alone in Goodbye](https://youtube.com/watch?v=sAGD0C8nuOk) - RYU MIN HEE - Topic (34,080회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/Exukk6JO9i0/default.jpg)
-[BTS (방탄소년단) '아리랑 (ARIRANG)' Animation Trailer: What is your love song?](https://youtube.com/watch?v=Exukk6JO9i0) - BANGTANTV (3,918,431회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/TZONHjWv5XQ/default.jpg)
+[[듄: 파트 3] 1차 예고편](https://youtube.com/watch?v=TZONHjWv5XQ) - Warner Bros. Korea (256,287회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/RX-enMsge_w/default.jpg)
-[BLG vs BFX - G2 vs TSW | 그룹 스테이지 Day 1 | 2026 퍼스트 스탠드 토너먼트](https://youtube.com/watch?v=RX-enMsge_w) - LCK (560,055회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/v96mno_zbl4/default.jpg)
+[GEN vs JDG - LYON vs LOUD | 그룹 스테이지 Day 2 | 2026 퍼스트 스탠드 토너먼트](https://youtube.com/watch?v=v96mno_zbl4) - LCK (692,410회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/-RUZUakN4nI/default.jpg)
-[Please Love Her(Please Love Him)](https://youtube.com/watch?v=-RUZUakN4nI) - Zia - Topic (39,498회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/yQgYjGOCAxQ/default.jpg)
+[RUDE! (Japanese Version)](https://youtube.com/watch?v=yQgYjGOCAxQ) - Hearts2Hearts - Topic (24,564회)
 
 **5.** ![thumbnail](https://i.ytimg.com/vi/18-LvcreY2E/default.jpg)
-[BTS: 더 리턴 | 다큐멘터리 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=18-LvcreY2E) - Netflix Korea 넷플릭스 코리아 (14,864회)
+[BTS: 더 리턴 | 다큐멘터리 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=18-LvcreY2E) - Netflix Korea 넷플릭스 코리아 (36,717회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-03-17 07:04 UTC
+⏳ 마지막 업데이트: 2026-03-18 07:02 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
