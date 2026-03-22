@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/b4iVv91Z6lY/default.jpg)
-[BTS (방탄소년단) ‘SWIM’ Official MV](https://youtube.com/watch?v=b4iVv91Z6lY) - HYBE LABELS (35,392,833회)
+[BTS (방탄소년단) ‘SWIM’ Official MV](https://youtube.com/watch?v=b4iVv91Z6lY) - HYBE LABELS (46,762,408회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/g2JyVfUHQ-0/default.jpg)
-[못 참고 또 왔습니다. ≪스파이더맨: 브랜드뉴데이≫ 티저 예고편 분석 2탄 & 떡밥 및 루머 총정리](https://youtube.com/watch?v=g2JyVfUHQ-0) - 무비띵크_Movie Think (267,635회)
+[못 참고 또 왔습니다. ≪스파이더맨: 브랜드뉴데이≫ 티저 예고편 분석 2탄 & 떡밥 및 루머 총정리](https://youtube.com/watch?v=g2JyVfUHQ-0) - 무비띵크_Movie Think (345,615회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/wrjwOU_EjXs/default.jpg)
-[초보자를 위한 '마크 완전 정복' 가이드 [마크 하드코어 EP.18]](https://youtube.com/watch?v=wrjwOU_EjXs) - 말왕TV (297,608회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/X13kI1VpzAM/default.jpg)
+[G2 vs GEN - JDG vs BLG | 준결승전 | 2026 퍼스트 스탠드 토너먼트](https://youtube.com/watch?v=X13kI1VpzAM) - LCK (1,026,148회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/RBaSiVjtKR4/default.jpg)
-[Body to Body](https://youtube.com/watch?v=RBaSiVjtKR4) - BTS - Topic (6,619,836회)
+[Body to Body](https://youtube.com/watch?v=RBaSiVjtKR4) - BTS - Topic (9,909,225회)
 
 **5.** ![thumbnail](https://i.ytimg.com/vi/1DgO-xiLfss/default.jpg)
-[[스파이더맨: 브랜드 뉴 데이] 티저 예고편](https://youtube.com/watch?v=1DgO-xiLfss) - 소니픽쳐스코리아 (2,461,331회)
+[[스파이더맨: 브랜드 뉴 데이] 티저 예고편](https://youtube.com/watch?v=1DgO-xiLfss) - 소니픽쳐스코리아 (2,941,254회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-03-21 06:44 UTC
+⏳ 마지막 업데이트: 2026-03-22 06:52 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
