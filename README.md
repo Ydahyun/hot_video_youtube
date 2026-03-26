@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/h-Y97xErGL8/default.jpg)
-[BTS (방탄소년단) 'SWIM' Official Performance Video](https://youtube.com/watch?v=h-Y97xErGL8) - HYBE LABELS (3,651,947회)
+[BTS (방탄소년단) 'SWIM' Official Performance Video](https://youtube.com/watch?v=h-Y97xErGL8) - HYBE LABELS (7,219,816회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/bZHEVbCJPBE/default.jpg)
-[범죄도시 일본판 예고편이 공개되자 일본 영화계가 발칵 뒤집어진 이유 "우린 돈만 낼게 한국이 찍어라”](https://youtube.com/watch?v=bZHEVbCJPBE) - 재미주의 (43,333회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/cdh7LWKdf-M/default.jpg)
+[Harry Potter and the Philosopher’s Stone | Official Teaser | #HBOMaxAsia](https://youtube.com/watch?v=cdh7LWKdf-M) - HBO Max Asia (233,657회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/PU9A6GHXPxA/default.jpg)
-[리메이크 쉬바나 체험기](https://youtube.com/watch?v=PU9A6GHXPxA) - PAKA (353,503회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/TdGKUBivEi4/default.jpg)
+[아니지?](https://youtube.com/watch?v=TdGKUBivEi4) - 괴물쥐 유튜브 (303,106회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/8Tyc79-M7Hg/default.jpg)
-[Bittersweet](https://youtube.com/watch?v=8Tyc79-M7Hg) - Baby DONT Cry - Topic (135,004회)
+[Bittersweet](https://youtube.com/watch?v=8Tyc79-M7Hg) - Baby DONT Cry - Topic (258,002회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/UvL5swhTLRU/default.jpg)
-[[모아나] 2차 예고편](https://youtube.com/watch?v=UvL5swhTLRU) - Disney Korea (173,516회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/yoilHfqA8PQ/default.jpg)
+[기리고 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=yoilHfqA8PQ) - Netflix Korea 넷플릭스 코리아 (37,660회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-03-25 07:02 UTC
+⏳ 마지막 업데이트: 2026-03-26 07:09 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
