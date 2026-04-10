@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/6Xa1VDLACPo/default.jpg)
-[Paradise of Rumors](https://youtube.com/watch?v=6Xa1VDLACPo) - AKMU - Topic (1,001,296회)
+[Paradise of Rumors](https://youtube.com/watch?v=6Xa1VDLACPo) - AKMU - Topic (1,550,362회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/rfMfnZPvzAY/default.jpg)
-[[악마는 프라다를 입는다 2] 메인 예고편](https://youtube.com/watch?v=rfMfnZPvzAY) - 20th Century Studios Korea (535,025회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/A3tAarrM87w/default.jpg)
+[기리고 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=A3tAarrM87w) - Netflix Korea 넷플릭스 코리아 (137,180회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/-YdLhAdsDQs/default.jpg)
-[[ 똘끼 리니지클래식 ] 혈맹운영](https://youtube.com/watch?v=-YdLhAdsDQs) - 똘끼100% (250,335회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/f1vcDQ0lEew/default.jpg)
+[영웅과 죄인](https://youtube.com/watch?v=f1vcDQ0lEew) - 괴물쥐 유튜브 (328,495회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/cfaybWG25D4/default.jpg)
-[T.O.P - "완전미쳤어! (Studio54)" MV](https://youtube.com/watch?v=cfaybWG25D4) - T.O.P (1,102,563회)
+[T.O.P - "완전미쳤어! (Studio54)" MV](https://youtube.com/watch?v=cfaybWG25D4) - T.O.P (1,885,355회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/A3tAarrM87w/default.jpg)
-[기리고 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=A3tAarrM87w) - Netflix Korea 넷플릭스 코리아 (59,860회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/rfMfnZPvzAY/default.jpg)
+[[악마는 프라다를 입는다 2] 메인 예고편](https://youtube.com/watch?v=rfMfnZPvzAY) - 20th Century Studios Korea (693,356회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-04-09 07:23 UTC
+⏳ 마지막 업데이트: 2026-04-10 07:42 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
