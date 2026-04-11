@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/6Xa1VDLACPo/default.jpg)
-[Paradise of Rumors](https://youtube.com/watch?v=6Xa1VDLACPo) - AKMU - Topic (1,550,362회)
+[Paradise of Rumors](https://youtube.com/watch?v=6Xa1VDLACPo) - AKMU - Topic (2,077,464회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/A3tAarrM87w/default.jpg)
-[기리고 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=A3tAarrM87w) - Netflix Korea 넷플릭스 코리아 (137,180회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/AjFk1cY265I/default.jpg)
+[Digital Circus Ep 9 Finale [TRAILER]](https://youtube.com/watch?v=AjFk1cY265I) - GLITCH (11,015,591회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/f1vcDQ0lEew/default.jpg)
-[영웅과 죄인](https://youtube.com/watch?v=f1vcDQ0lEew) - 괴물쥐 유튜브 (328,495회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/wHLo2TfGTVI/default.jpg)
+[시작! 마인크래프트 서버 생존기](https://youtube.com/watch?v=wHLo2TfGTVI) - 코마 (642,268회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/cfaybWG25D4/default.jpg)
-[T.O.P - "완전미쳤어! (Studio54)" MV](https://youtube.com/watch?v=cfaybWG25D4) - T.O.P (1,885,355회)
+[T.O.P - "완전미쳤어! (Studio54)" MV](https://youtube.com/watch?v=cfaybWG25D4) - T.O.P (2,544,572회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/rfMfnZPvzAY/default.jpg)
-[[악마는 프라다를 입는다 2] 메인 예고편](https://youtube.com/watch?v=rfMfnZPvzAY) - 20th Century Studios Korea (693,356회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/RMh4qPh9c3k/default.jpg)
+[드디어 다음주에 옵니다.. ≪어벤져스: 둠스데이≫ 새로운 예고편 & 떡밥 루머 총정리](https://youtube.com/watch?v=RMh4qPh9c3k) - 무비띵크_Movie Think (180,195회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-04-10 07:42 UTC
+⏳ 마지막 업데이트: 2026-04-11 07:01 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
