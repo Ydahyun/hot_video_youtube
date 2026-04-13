@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/6Xa1VDLACPo/default.jpg)
-[Paradise of Rumors](https://youtube.com/watch?v=6Xa1VDLACPo) - AKMU - Topic (2,593,176회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/Q120WlxVxdk/default.jpg)
+[NCT WISH 엔시티 위시 'Sticky' MV](https://youtube.com/watch?v=Q120WlxVxdk) - SMTOWN (585,922회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/AjFk1cY265I/default.jpg)
-[Digital Circus Ep 9 Finale [TRAILER]](https://youtube.com/watch?v=AjFk1cY265I) - GLITCH (16,024,356회)
+[Digital Circus Ep 9 Finale [TRAILER]](https://youtube.com/watch?v=AjFk1cY265I) - GLITCH (18,300,924회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/1em36cknzoI/default.jpg)
-[하드코어 드디어 종결 [마크 하드코어 EP.FIN]](https://youtube.com/watch?v=1em36cknzoI) - 말왕TV (364,229회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/9PNLGn6XQRk/default.jpg)
+[매X 렁이 만든 세상](https://youtube.com/watch?v=9PNLGn6XQRk) - 괴물쥐 유튜브 (341,587회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/o-N7lgayxPA/default.jpg)
-[귀엽기만 하면 안 되나요?](https://youtube.com/watch?v=o-N7lgayxPA) - CUTIE STREET - Topic (261,884회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/gY3dDWCUiaQ/default.jpg)
+[Wind and Town](https://youtube.com/watch?v=gY3dDWCUiaQ) - Mrs. GREEN APPLE - Topic (438,354회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/RMh4qPh9c3k/default.jpg)
-[드디어 다음주에 옵니다.. ≪어벤져스: 둠스데이≫ 새로운 예고편 & 떡밥 루머 총정리](https://youtube.com/watch?v=RMh4qPh9c3k) - 무비띵크_Movie Think (208,690회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/sXJswj0AKnk/default.jpg)
+[[ 똘끼 리니지 클래식 ] 저는 약속을 지키는 사람입니다!](https://youtube.com/watch?v=sXJswj0AKnk) - 똘끼100% (204,314회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-04-12 07:14 UTC
+⏳ 마지막 업데이트: 2026-04-13 08:04 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
