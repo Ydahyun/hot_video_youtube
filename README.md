@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/Q120WlxVxdk/default.jpg)
-[NCT WISH 엔시티 위시 'Sticky' MV](https://youtube.com/watch?v=Q120WlxVxdk) - SMTOWN (585,922회)
+[NCT WISH 엔시티 위시 'Sticky' MV](https://youtube.com/watch?v=Q120WlxVxdk) - SMTOWN (1,037,671회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/AjFk1cY265I/default.jpg)
-[Digital Circus Ep 9 Finale [TRAILER]](https://youtube.com/watch?v=AjFk1cY265I) - GLITCH (18,300,924회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/L2c8jSGVCqs/default.jpg)
+[와.. 스파이더맨 퍼니셔 조합 미쳤다.. ≪퍼니셔: 원 라스트 킬≫ 예고편 떡밥 총정리](https://youtube.com/watch?v=L2c8jSGVCqs) - 무비띵크_Movie Think (231,221회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/9PNLGn6XQRk/default.jpg)
-[매X 렁이 만든 세상](https://youtube.com/watch?v=9PNLGn6XQRk) - 괴물쥐 유튜브 (341,587회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/iCxmJJ_jSCA/default.jpg)
+[감스트 피파4 3천만원 현질! 63경이 떴습니다.. 역대급 레전드](https://youtube.com/watch?v=iCxmJJ_jSCA) - 감스트GAMST (384,075회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/gY3dDWCUiaQ/default.jpg)
-[Wind and Town](https://youtube.com/watch?v=gY3dDWCUiaQ) - Mrs. GREEN APPLE - Topic (438,354회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/XukB7ZG8CDQ/default.jpg)
+[PLAVE 'Born Savage' M/V](https://youtube.com/watch?v=XukB7ZG8CDQ) - PLAVE 플레이브 (1,078,950회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/sXJswj0AKnk/default.jpg)
-[[ 똘끼 리니지 클래식 ] 저는 약속을 지키는 사람입니다!](https://youtube.com/watch?v=sXJswj0AKnk) - 똘끼100% (204,314회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/AjFk1cY265I/default.jpg)
+[Digital Circus Ep 9 Finale [TRAILER]](https://youtube.com/watch?v=AjFk1cY265I) - GLITCH (19,655,934회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-04-13 08:04 UTC
+⏳ 마지막 업데이트: 2026-04-14 07:46 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
