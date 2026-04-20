@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/I68HZsntLvU/default.jpg)
-[처음이자마지막이길](https://youtube.com/watch?v=I68HZsntLvU) - meenoi - Topic (211,783회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/qYCB3H2gTYQ/default.jpg)
+[NCT WISH 엔시티 위시 'Sticky' Dance Practice](https://youtube.com/watch?v=qYCB3H2gTYQ) - NCT WISH (186,948회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/pBIs0umxUIA/default.jpg)
-[와.. 그냥 충격 그 자체.. ≪어벤져스: 둠스데이≫ 공식 예고편 유출 떡밥 총정리](https://youtube.com/watch?v=pBIs0umxUIA) - 무비띵크_Movie Think (404,397회)
+[와.. 그냥 충격 그 자체.. ≪어벤져스: 둠스데이≫ 공식 예고편 유출 떡밥 총정리](https://youtube.com/watch?v=pBIs0umxUIA) - 무비띵크_Movie Think (453,745회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/I6PS4fb5JMA/default.jpg)
-[⚠️1년만에 역대급으로 돌아왔습니다! [혜안져스 양세찬게임3]](https://youtube.com/watch?v=I6PS4fb5JMA) - 혜안 (216,823회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/dFJf5qsARYo/default.jpg)
+[오만하게 하는 게임](https://youtube.com/watch?v=dFJf5qsARYo) - 괴물쥐 유튜브 (343,097회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/2gtZTsK6q7w/default.jpg)
-[GDM ㅣ우디 (Woody) '두 사람 (Two of us)' OFFICIAL MV : WISH+ EP. 03 [KOR/ENG]](https://youtube.com/watch?v=2gtZTsK6q7w) - 김상우디 [Woody Official] (194,490회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/EiHLut1GrvM/default.jpg)
+[AKMU - '봄 색깔 (Spring Colors)' M/V](https://youtube.com/watch?v=EiHLut1GrvM) - AKMU (163,155회)
 
 **5.** ![thumbnail](https://i.ytimg.com/vi/unlmioNHylo/default.jpg)
-[[스트리트 파이터] 1차 예고편](https://youtube.com/watch?v=unlmioNHylo) - ParamountKR (235,588회)
+[[스트리트 파이터] 1차 예고편](https://youtube.com/watch?v=unlmioNHylo) - ParamountKR (333,508회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-04-19 07:20 UTC
+⏳ 마지막 업데이트: 2026-04-20 08:07 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
