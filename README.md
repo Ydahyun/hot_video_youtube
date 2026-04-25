@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/WmOwzwSaUxI/default.jpg)
-[현서 (HYUN SEO) X 박다혜 - 미안해서 미안해 (2026)](https://youtube.com/watch?v=WmOwzwSaUxI) - 현서 (HYUN SEO) (140,644회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/a2grcJdfXmY/default.jpg)
+[LE SSERAFIM (르세라핌) 'CELEBRATION' OFFICIAL MV](https://youtube.com/watch?v=a2grcJdfXmY) - HYBE LABELS (2,123,553회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/ba135OBAFfo/default.jpg)
-[춘리 캐스팅.. 이거 맞아요? ≪스트리트 파이터≫ 실사화 공식 예고편 떡밥 총정리](https://youtube.com/watch?v=ba135OBAFfo) - 무비띵크_Movie Think (182,756회)
+[춘리 캐스팅.. 이거 맞아요? ≪스트리트 파이터≫ 실사화 공식 예고편 떡밥 총정리](https://youtube.com/watch?v=ba135OBAFfo) - 무비띵크_Movie Think (281,171회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/l7JBwbtDxko/default.jpg)
-[고추기름 들라고](https://youtube.com/watch?v=l7JBwbtDxko) - 랄로 (357,164회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/fviB_SN-7HQ/default.jpg)
+[최강의 침략자](https://youtube.com/watch?v=fviB_SN-7HQ) - 괴물쥐 유튜브 (273,557회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/t4KISo_lBR4/default.jpg)
-[새빛 - 지고 피다 (Official Visualizer)](https://youtube.com/watch?v=t4KISo_lBR4) - 새빛 (Saebit) (50,781회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/7WuO_XaXsCY/default.jpg)
+[CELEBRATION](https://youtube.com/watch?v=7WuO_XaXsCY) - LE SSERAFIM - Topic (320,246회)
 
 **5.** ![thumbnail](https://i.ytimg.com/vi/prnWwCfVlec/default.jpg)
-[원더풀스 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=prnWwCfVlec) - Netflix Korea 넷플릭스 코리아 (163,762회)
+[원더풀스 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=prnWwCfVlec) - Netflix Korea 넷플릭스 코리아 (238,022회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-04-24 08:04 UTC
+⏳ 마지막 업데이트: 2026-04-25 07:17 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
