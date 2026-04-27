@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/7WuO_XaXsCY/default.jpg)
-[CELEBRATION](https://youtube.com/watch?v=7WuO_XaXsCY) - LE SSERAFIM - Topic (591,056회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/yuH4OnvoADU/default.jpg)
+[Leave Me, Don′t Go](https://youtube.com/watch?v=yuH4OnvoADU) - gitae - Topic (95,057회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/ba135OBAFfo/default.jpg)
-[춘리 캐스팅.. 이거 맞아요? ≪스트리트 파이터≫ 실사화 공식 예고편 떡밥 총정리](https://youtube.com/watch?v=ba135OBAFfo) - 무비띵크_Movie Think (341,603회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/kRT_G4nEoH8/default.jpg)
+[특공대를 변기에 넣고서 내려](https://youtube.com/watch?v=kRT_G4nEoH8) - 괴물쥐 유튜브 (334,122회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/ZikunQmtcyQ/default.jpg)
-[감스트 한국 미리보는 북중미 월드컵!!](https://youtube.com/watch?v=ZikunQmtcyQ) - 감스트GAMST (383,961회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/p4ahGSFTY-c/default.jpg)
+[aespa 에스파 'LEMONADE' Complæxity Trailer](https://youtube.com/watch?v=p4ahGSFTY-c) - aespa (781,594회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/a2grcJdfXmY/default.jpg)
-[LE SSERAFIM (르세라핌) 'CELEBRATION' OFFICIAL MV](https://youtube.com/watch?v=a2grcJdfXmY) - HYBE LABELS (3,106,867회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/kzMI9nZT8n0/default.jpg)
+[티원 케리아 재계약 현장 반응](https://youtube.com/watch?v=kzMI9nZT8n0) - 라니프 (191,081회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/prnWwCfVlec/default.jpg)
-[원더풀스 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=prnWwCfVlec) - Netflix Korea 넷플릭스 코리아 (315,939회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/zpEcTuch36g/default.jpg)
+[EVERGLOW](https://youtube.com/watch?v=zpEcTuch36g) - WOODZ - Topic (169,009회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-04-26 07:39 UTC
+⏳ 마지막 업데이트: 2026-04-27 08:26 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
