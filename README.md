@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/yuH4OnvoADU/default.jpg)
-[Leave Me, Don′t Go](https://youtube.com/watch?v=yuH4OnvoADU) - gitae - Topic (95,057회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/uXgk1YLRIN0/default.jpg)
+[CEREMONY](https://youtube.com/watch?v=uXgk1YLRIN0) - QWER - Topic (189,972회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/kRT_G4nEoH8/default.jpg)
-[특공대를 변기에 넣고서 내려](https://youtube.com/watch?v=kRT_G4nEoH8) - 괴물쥐 유튜브 (334,122회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/WTihwP1SjcI/default.jpg)
+[사연 있는 증강](https://youtube.com/watch?v=WTihwP1SjcI) - 괴물쥐 유튜브 (296,339회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/p4ahGSFTY-c/default.jpg)
-[aespa 에스파 'LEMONADE' Complæxity Trailer](https://youtube.com/watch?v=p4ahGSFTY-c) - aespa (781,594회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/yuH4OnvoADU/default.jpg)
+[Leave Me, Don′t Go](https://youtube.com/watch?v=yuH4OnvoADU) - gitae - Topic (221,285회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/kzMI9nZT8n0/default.jpg)
-[티원 케리아 재계약 현장 반응](https://youtube.com/watch?v=kzMI9nZT8n0) - 라니프 (191,081회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/cIErdpwu1To/default.jpg)
+[어디까지 올라가나요](https://youtube.com/watch?v=cIErdpwu1To) - PAKA (303,475회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/zpEcTuch36g/default.jpg)
-[EVERGLOW](https://youtube.com/watch?v=zpEcTuch36g) - WOODZ - Topic (169,009회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/MiO16KlMPaU/default.jpg)
+[TWS (투어스) '널 따라가 (You, You)' Official MV](https://youtube.com/watch?v=MiO16KlMPaU) - HYBE LABELS (1,042,350회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-04-27 08:26 UTC
+⏳ 마지막 업데이트: 2026-04-28 08:25 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
