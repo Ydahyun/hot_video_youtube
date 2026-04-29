@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/uXgk1YLRIN0/default.jpg)
-[CEREMONY](https://youtube.com/watch?v=uXgk1YLRIN0) - QWER - Topic (189,972회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/-SEKt_0pdHM/default.jpg)
+[NMIXX(엔믹스) “Crescendo” M/V](https://youtube.com/watch?v=-SEKt_0pdHM) - JYP Entertainment (1,113,849회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/WTihwP1SjcI/default.jpg)
-[사연 있는 증강](https://youtube.com/watch?v=WTihwP1SjcI) - 괴물쥐 유튜브 (296,339회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/H4_xJxJqwKs/default.jpg)
+[전세계가 경악해버린 공포의 장소.. A24 ≪백룸≫ 공식 예고편 총정리](https://youtube.com/watch?v=H4_xJxJqwKs) - 무비띵크_Movie Think (64,407회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/yuH4OnvoADU/default.jpg)
-[Leave Me, Don′t Go](https://youtube.com/watch?v=yuH4OnvoADU) - gitae - Topic (221,285회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/aCrwJoQofZ8/default.jpg)
+["넌 리신 할거면 돈 내고 해라" 세계 최초 유료로 리신을 플레이하는 이상호..?!【클상도 시즌4 Ep.07】](https://youtube.com/watch?v=aCrwJoQofZ8) - 이상호 (244,572회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/cIErdpwu1To/default.jpg)
-[어디까지 올라가나요](https://youtube.com/watch?v=cIErdpwu1To) - PAKA (303,475회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/uXgk1YLRIN0/default.jpg)
+[CEREMONY](https://youtube.com/watch?v=uXgk1YLRIN0) - QWER - Topic (363,112회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/MiO16KlMPaU/default.jpg)
-[TWS (투어스) '널 따라가 (You, You)' Official MV](https://youtube.com/watch?v=MiO16KlMPaU) - HYBE LABELS (1,042,350회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/3M_UD4K_yEQ/default.jpg)
+[나뭇잎 마을 제드 (롤토체스)](https://youtube.com/watch?v=3M_UD4K_yEQ) - PAKA (213,553회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-04-28 08:25 UTC
+⏳ 마지막 업데이트: 2026-04-29 08:20 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
