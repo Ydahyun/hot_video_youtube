@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/mMr52FVf6qk/default.jpg)
-[[MV] LUCY - 전체관람가 / ENG sub](https://youtube.com/watch?v=mMr52FVf6qk) - LUCY ISLAND (814,500회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/bMhDJ0S0OBA/default.jpg)
+[ILLIT (아일릿) ‘It’s Me’ Official MV](https://youtube.com/watch?v=bMhDJ0S0OBA) - HYBE LABELS (5,079,885회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/_tZ7jDSI8a4/default.jpg)
-[원더풀스 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=_tZ7jDSI8a4) - Netflix Korea 넷플릭스 코리아 (39,200회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/SJPu1spHqfk/default.jpg)
+[RESIDENT EVIL – Official Teaser Trailer (4K)](https://youtube.com/watch?v=SJPu1spHqfk) - Sony Pictures Entertainment (2,462,568회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/z9NFuKtXigI/default.jpg)
-[마지막 한판 남은 최대 위기 상황, 결국 리신을 꺼낸 이상호](https://youtube.com/watch?v=z9NFuKtXigI) - 클리드 (136,020회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/XRs4H27YycY/default.jpg)
+[옛날 메이플 해적 드가자](https://youtube.com/watch?v=XRs4H27YycY) - 괴물쥐 유튜브 (399,857회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/-SEKt_0pdHM/default.jpg)
-[NMIXX(엔믹스) “Crescendo” M/V](https://youtube.com/watch?v=-SEKt_0pdHM) - JYP Entertainment (1,579,235회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/XDzGoMtSqZA/default.jpg)
+[It's Me](https://youtube.com/watch?v=XDzGoMtSqZA) - ILLIT - Topic (504,671회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/H4_xJxJqwKs/default.jpg)
-[전세계가 경악해버린 공포의 장소.. A24 ≪백룸≫ 공식 예고편 총정리](https://youtube.com/watch?v=H4_xJxJqwKs) - 무비띵크_Movie Think (92,953회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/_tZ7jDSI8a4/default.jpg)
+[원더풀스 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=_tZ7jDSI8a4) - Netflix Korea 넷플릭스 코리아 (96,679회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-04-30 08:22 UTC
+⏳ 마지막 업데이트: 2026-05-01 08:11 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
