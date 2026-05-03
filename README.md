@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/XDzGoMtSqZA/default.jpg)
-[It's Me](https://youtube.com/watch?v=XDzGoMtSqZA) - ILLIT - Topic (1,012,488회)
+[It's Me](https://youtube.com/watch?v=XDzGoMtSqZA) - ILLIT - Topic (1,440,494회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/SJPu1spHqfk/default.jpg)
-[RESIDENT EVIL – Official Teaser Trailer (4K)](https://youtube.com/watch?v=SJPu1spHqfk) - Sony Pictures Entertainment (3,122,396회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/oz4lbrNZnK0/default.jpg)
+[오늘 한번 죽어보자](https://youtube.com/watch?v=oz4lbrNZnK0) - 괴물쥐 유튜브 (419,871회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/QE9lQzksCrU/default.jpg)
-[🎁어린이날 특집🎁 혜안져스 친구들~ 덕몽어스 할래??](https://youtube.com/watch?v=QE9lQzksCrU) - 혜안 (442,496회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/bMhDJ0S0OBA/default.jpg)
+[ILLIT (아일릿) ‘It’s Me’ Official MV](https://youtube.com/watch?v=bMhDJ0S0OBA) - HYBE LABELS (9,971,372회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/bMhDJ0S0OBA/default.jpg)
-[ILLIT (아일릿) ‘It’s Me’ Official MV](https://youtube.com/watch?v=bMhDJ0S0OBA) - HYBE LABELS (8,744,053회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/QE9lQzksCrU/default.jpg)
+[🎁어린이날 특집🎁 혜안져스 친구들~ 덕몽어스 할래??](https://youtube.com/watch?v=QE9lQzksCrU) - 혜안 (717,582회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/_tZ7jDSI8a4/default.jpg)
-[원더풀스 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=_tZ7jDSI8a4) - Netflix Korea 넷플릭스 코리아 (135,658회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/mMr52FVf6qk/default.jpg)
+[[MV] LUCY - 전체관람가 / ENG sub](https://youtube.com/watch?v=mMr52FVf6qk) - LUCY ISLAND (2,372,876회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-05-02 07:44 UTC
+⏳ 마지막 업데이트: 2026-05-03 08:01 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
