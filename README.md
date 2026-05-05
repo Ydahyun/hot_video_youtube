@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/XDzGoMtSqZA/default.jpg)
-[It's Me](https://youtube.com/watch?v=XDzGoMtSqZA) - ILLIT - Topic (2,050,957회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/x3eqqoZPV_E/default.jpg)
+[BABYMONSTER - '춤 (CHOOM)' M/V](https://youtube.com/watch?v=x3eqqoZPV_E) - BABYMONSTER (11,758,187회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/mgFQqUTvqvE/default.jpg)
-[QUINTESSENCE TRAILER](https://youtube.com/watch?v=mgFQqUTvqvE) - TAEYANG (242,651회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/5pTrdLjS7cA/default.jpg)
+[와.. 드디어 그들이 돌아온다.. 레전드 좀비물 ≪레지던트 이블≫ 리부트 공식 예고편 리뷰](https://youtube.com/watch?v=5pTrdLjS7cA) - 무비띵크_Movie Think (118,001회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/l6SVl3-X4AQ/default.jpg)
-[롤체 대회 = 합법 도박장](https://youtube.com/watch?v=l6SVl3-X4AQ) - 잡상싱 (295,479회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/VktGyNHp74U/default.jpg)
+[해적왕의 무기를 찾아서](https://youtube.com/watch?v=VktGyNHp74U) - 괴물쥐 유튜브 (437,175회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/bMhDJ0S0OBA/default.jpg)
-[ILLIT (아일릿) ‘It’s Me’ Official MV](https://youtube.com/watch?v=bMhDJ0S0OBA) - HYBE LABELS (11,107,633회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/kRpaqR5sbf0/default.jpg)
+[CORTIS (코르티스) 'TNT' Official MV](https://youtube.com/watch?v=kRpaqR5sbf0) - HYBE LABELS (2,280,526회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/oz4lbrNZnK0/default.jpg)
-[오늘 한번 죽어보자](https://youtube.com/watch?v=oz4lbrNZnK0) - 괴물쥐 유튜브 (551,717회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/B4eyflYKrx0/default.jpg)
+[[오디세이] 2차 예고편](https://youtube.com/watch?v=B4eyflYKrx0) - 유니버설 픽쳐스 (7,604회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-05-04 08:29 UTC
+⏳ 마지막 업데이트: 2026-05-05 08:09 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
