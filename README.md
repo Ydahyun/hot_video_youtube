@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/x3eqqoZPV_E/default.jpg)
-[BABYMONSTER - '춤 (CHOOM)' M/V](https://youtube.com/watch?v=x3eqqoZPV_E) - BABYMONSTER (20,738,167회)
+[BABYMONSTER - '춤 (CHOOM)' M/V](https://youtube.com/watch?v=x3eqqoZPV_E) - BABYMONSTER (29,523,675회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/B4eyflYKrx0/default.jpg)
-[[오디세이] 2차 예고편](https://youtube.com/watch?v=B4eyflYKrx0) - 유니버설 픽쳐스 (353,285회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/PEYhkgG9ZHE/default.jpg)
+["와씨.. 개미쳤음💥" ≪어벤져스: 둠스데이≫ 예고편 직관 후기](https://youtube.com/watch?v=PEYhkgG9ZHE) - 기묘한 케이지 (97,717회)
 
 **3.** ![thumbnail](https://i.ytimg.com/vi/vsRmYHGQRCs/default.jpg)
-[제갈 티모](https://youtube.com/watch?v=vsRmYHGQRCs) - PAKA (301,846회)
+[제갈 티모](https://youtube.com/watch?v=vsRmYHGQRCs) - PAKA (371,752회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/DBOyG7y_FQg/default.jpg)
-[REDRED](https://youtube.com/watch?v=DBOyG7y_FQg) - CORTIS - Topic (517,760회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/yAHHXCKYW90/default.jpg)
+[Stuck (Feat. Yerin Baek)](https://youtube.com/watch?v=yAHHXCKYW90) - Coogie - Topic (41,880회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/5pTrdLjS7cA/default.jpg)
-[와.. 드디어 그들이 돌아온다.. 레전드 좀비물 ≪레지던트 이블≫ 리부트 공식 예고편 리뷰](https://youtube.com/watch?v=5pTrdLjS7cA) - 무비띵크_Movie Think (156,988회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/w8_6jiTGqmw/default.jpg)
+[참교육 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=w8_6jiTGqmw) - Netflix Korea 넷플릭스 코리아 (77,330회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-05-06 08:26 UTC
+⏳ 마지막 업데이트: 2026-05-07 08:34 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
