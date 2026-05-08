@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/x3eqqoZPV_E/default.jpg)
-[BABYMONSTER - '춤 (CHOOM)' M/V](https://youtube.com/watch?v=x3eqqoZPV_E) - BABYMONSTER (29,523,675회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/yAHHXCKYW90/default.jpg)
+[Stuck (Feat. Yerin Baek)](https://youtube.com/watch?v=yAHHXCKYW90) - Coogie - Topic (103,885회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/PEYhkgG9ZHE/default.jpg)
-["와씨.. 개미쳤음💥" ≪어벤져스: 둠스데이≫ 예고편 직관 후기](https://youtube.com/watch?v=PEYhkgG9ZHE) - 기묘한 케이지 (97,717회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/w8_6jiTGqmw/default.jpg)
+[참교육 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=w8_6jiTGqmw) - Netflix Korea 넷플릭스 코리아 (333,696회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/vsRmYHGQRCs/default.jpg)
-[제갈 티모](https://youtube.com/watch?v=vsRmYHGQRCs) - PAKA (371,752회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/CI4IeaxjXVk/default.jpg)
+[오빠 품이 좋은 트리스타나](https://youtube.com/watch?v=CI4IeaxjXVk) - 괴물쥐 유튜브 (271,392회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/yAHHXCKYW90/default.jpg)
-[Stuck (Feat. Yerin Baek)](https://youtube.com/watch?v=yAHHXCKYW90) - Coogie - Topic (41,880회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/lOpdrEgmYzY/default.jpg)
+[ILLIT (아일릿) 'It’s Me’ Official MV (Performance ver.)](https://youtube.com/watch?v=lOpdrEgmYzY) - HYBE LABELS (1,451,591회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/w8_6jiTGqmw/default.jpg)
-[참교육 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=w8_6jiTGqmw) - Netflix Korea 넷플릭스 코리아 (77,330회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/rNO9razuPK4/default.jpg)
+[와 미친.. 이건 진짜 안 볼 수가 없다.. ≪오디세이≫ 2차 예고편 떡밥 분석 총정리](https://youtube.com/watch?v=rNO9razuPK4) - 무비띵크_Movie Think (60,337회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-05-07 08:34 UTC
+⏳ 마지막 업데이트: 2026-05-08 07:42 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
