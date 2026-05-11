@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/08g-oAALjFE/default.jpg)
-[Rest Stop](https://youtube.com/watch?v=08g-oAALjFE) - Pateko - Topic (120,394회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/WxGWMI2B7r8/default.jpg)
+[BOYNEXTDOOR (보이넥스트도어) '똑똑똑' Official MV](https://youtube.com/watch?v=WxGWMI2B7r8) - HYBE LABELS (1,492,415회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/T1fl-g5ym-0/default.jpg)
-["분석하려고.. 신화 공부했습니다💥" 놀란 신작 ≪오디세이≫ 2차 예고편 나노분석 (+신과 괴물들, 톰 홀랜드, 놀란이 이 영화를 만든 이유)](https://youtube.com/watch?v=T1fl-g5ym-0) - 기묘한 케이지 (44,883회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/AftHLRU3_ls/default.jpg)
+[진짜 큰 거 왔다.. ≪호프≫ 선공개 예고편 속 UFO 떡밥 & 나노 분석 총정리](https://youtube.com/watch?v=AftHLRU3_ls) - 무비띵크_Movie Think (56,123회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/UZrXcJfCGIk/default.jpg)
-[도전하는 자가 zl작을 얻는다](https://youtube.com/watch?v=UZrXcJfCGIk) - 괴물쥐 유튜브 (462,887회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/JKddx421x_I/default.jpg)
+[괴물쥐의 역작](https://youtube.com/watch?v=JKddx421x_I) - 괴물쥐 유튜브 (479,046회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/vviU2vsSe5M/default.jpg)
-[If You Were My World](https://youtube.com/watch?v=vviU2vsSe5M) - SAM KIM - Topic (147,860회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/ZVP9W2IOMBw/default.jpg)
+[소문의 낙원 Paradise of Rumors](https://youtube.com/watch?v=ZVP9W2IOMBw) - 7SETION - Topic (64,344회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/FJ7uhPAAno8/default.jpg)
-[[군체] 공식 예고편](https://youtube.com/watch?v=FJ7uhPAAno8) - 쇼박스 SHOWBOX (350,932회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/zAI1f8FuMc0/default.jpg)
+[올여름 웃음 차트 올킬 [와일드 씽] 메인 예고편](https://youtube.com/watch?v=zAI1f8FuMc0) - 롯데엔터테인먼트 (96,871회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-05-10 08:07 UTC
+⏳ 마지막 업데이트: 2026-05-11 09:39 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
