@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/hGqYdubpcCM/default.jpg)
-[Heavy Serenade](https://youtube.com/watch?v=hGqYdubpcCM) - NMIXX - Topic (1,477,918회)
+[Heavy Serenade](https://youtube.com/watch?v=hGqYdubpcCM) - NMIXX - Topic (1,944,818회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/AftHLRU3_ls/default.jpg)
-[진짜 큰 거 왔다.. ≪호프≫ 선공개 예고편 속 UFO 떡밥 & 나노 분석 총정리](https://youtube.com/watch?v=AftHLRU3_ls) - 무비띵크_Movie Think (247,701회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/mPQK8TG80II/default.jpg)
+[호러무비 [짱구는 못말려: 아미고] 예고편](https://youtube.com/watch?v=mPQK8TG80II) - 고뚜기 (178,606회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/Q7hR6Iib6SU/default.jpg)
-[똘끼 리니지클래식 싸울아비장검](https://youtube.com/watch?v=Q7hR6Iib6SU) - 똘끼100% (409,327회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/ho3ROUI-ryc/default.jpg)
+[옛날메이플(플래닛) : 최강 지작 전섭급 템들 싹 다 큐브해보자! 스펙업 후 미친 딜까지 ㄷㄷ [팡이요,  메이플스토리:플래닛]](https://youtube.com/watch?v=ho3ROUI-ryc) - 팡이요 (304,502회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/ZAsxW7bkK-A/default.jpg)
-[WDA (Whole Different Animal) (feat. G-DRAGON)](https://youtube.com/watch?v=ZAsxW7bkK-A) - aespa - Topic (1,732,926회)
+[WDA (Whole Different Animal) (feat. G-DRAGON)](https://youtube.com/watch?v=ZAsxW7bkK-A) - aespa - Topic (2,238,515회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/zAI1f8FuMc0/default.jpg)
-[올여름 웃음 차트 올킬 [와일드 씽] 메인 예고편](https://youtube.com/watch?v=zAI1f8FuMc0) - 롯데엔터테인먼트 (368,737회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/xy4M41JVyTI/default.jpg)
+[나도 알아, 내가 변한 거 | [골드랜드] 7-8회 예고편 | 디즈니+](https://youtube.com/watch?v=xy4M41JVyTI) - Disney Plus Korea 디즈니 플러스 코리아 (12,636회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-05-14 08:37 UTC
+⏳ 마지막 업데이트: 2026-05-15 08:48 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
