@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/V1Lr-_AxeR8/default.jpg)
-[LE SSERAFIM (르세라핌) 'BOOMPALA' OFFICIAL MV](https://youtube.com/watch?v=V1Lr-_AxeR8) - HYBE LABELS (3,891,732회)
+[LE SSERAFIM (르세라핌) 'BOOMPALA' OFFICIAL MV](https://youtube.com/watch?v=V1Lr-_AxeR8) - HYBE LABELS (5,959,148회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/yhTI_6oASdA/default.jpg)
-[남편들 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=yhTI_6oASdA) - Netflix Korea 넷플릭스 코리아 (192,789회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/VspR2SPzGBM/default.jpg)
+["인간이 진짜 괴물이었다?" 🔥내 눈으로 무조건 확인한다 《호프》 예상 줄거리 총정리 + 예고편 분석](https://youtube.com/watch?v=VspR2SPzGBM) - 씨네포유 cine4u (50,480회)
 
 **3.** ![thumbnail](https://i.ytimg.com/vi/ZC8hkOnxyXo/default.jpg)
-[랭 어게인](https://youtube.com/watch?v=ZC8hkOnxyXo) - 랄로 (442,625회)
+[랭 어게인](https://youtube.com/watch?v=ZC8hkOnxyXo) - 랄로 (631,917회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/Gy32XOFT2ww/default.jpg)
-[BOOMPALA](https://youtube.com/watch?v=Gy32XOFT2ww) - LE SSERAFIM - Topic (482,769회)
+[BOOMPALA](https://youtube.com/watch?v=Gy32XOFT2ww) - LE SSERAFIM - Topic (762,974회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/ODnHr2Emnf0/default.jpg)
-[[호프] 인터내셔널 예고편](https://youtube.com/watch?v=ODnHr2Emnf0) - 플러스엠 엔터테인먼트 (1,977,994회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/yhTI_6oASdA/default.jpg)
+[남편들 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=yhTI_6oASdA) - Netflix Korea 넷플릭스 코리아 (249,252회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-05-23 08:19 UTC
+⏳ 마지막 업데이트: 2026-05-24 08:29 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
