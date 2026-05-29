@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/5xJFMN1KQko/default.jpg)
-[As If](https://youtube.com/watch?v=5xJFMN1KQko) - Jung Seung Hwan - Topic (224,161회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/83C3TZ4Zm_o/default.jpg)
+[aespa 에스파 'LEMONADE' MV](https://youtube.com/watch?v=83C3TZ4Zm_o) - SMTOWN (2,917,038회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/yqUtq_UzVu8/default.jpg)
-[《킬러들의 쇼핑몰 시즌 2》 첫 예고 떴다..💥 '시즌1' 이후 쇼핑몰 대표가 된 "정지안"과 살아돌아온 "정진만" vs 글로벌 세력 "바빌론"과의 전쟁ㄷㄷ (+이후 후속작)](https://youtube.com/watch?v=yqUtq_UzVu8) - 매드무비 : MadMovie (364,116회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/UGmJwustpcg/default.jpg)
+[모던 워페어 4 | 공개트레일러](https://youtube.com/watch?v=UGmJwustpcg) - 콜 오브 듀티 (198,014회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/ZpwVp8tdTFY/default.jpg)
-[건실하게 해 건실하게](https://youtube.com/watch?v=ZpwVp8tdTFY) - 랄로 (490,144회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/0cTPX2T6BaU/default.jpg)
+[기억이 돌아온 남자](https://youtube.com/watch?v=0cTPX2T6BaU) - 괴물쥐 유튜브 (399,220회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/KtqdCWf7Ia8/default.jpg)
-[can't love](https://youtube.com/watch?v=KtqdCWf7Ia8) - can’t be blue - Topic (140,577회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/SlQR9iu09bQ/default.jpg)
+[SON TUNG M-TP x TYGA | COME MY WAY | OFFICIAL MUSIC VIDEO](https://youtube.com/watch?v=SlQR9iu09bQ) - Sơn Tùng M-TP Official (11,765,347회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/2ET-9QsnqsM/default.jpg)
-[[디스클로저 데이] 파이널 예고편](https://youtube.com/watch?v=2ET-9QsnqsM) - 유니버설 픽쳐스 (224,648회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/H95Se7B2yyY/default.jpg)
+[한국 배경 콜 오브 듀티 신작. "콜 오브 듀티: 모던 워페어 사" - 최초 공개 트레일러](https://youtube.com/watch?v=H95Se7B2yyY) - 시온 (211,546회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-05-28 10:01 UTC
+⏳ 마지막 업데이트: 2026-05-29 09:54 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
