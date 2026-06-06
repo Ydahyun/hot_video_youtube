@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/6SxtAskLd3E/default.jpg)
-[LEMONADE](https://youtube.com/watch?v=6SxtAskLd3E) - aespa - Topic (482,653회)
+[LEMONADE](https://youtube.com/watch?v=6SxtAskLd3E) - aespa - Topic (631,130회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/lxFBpaAA_EU/default.jpg)
-[사람 무는 개 제압하기](https://youtube.com/watch?v=lxFBpaAA_EU) - 괴물쥐 유튜브 (390,795회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/rVOzlcUPe7Q/default.jpg)
+[몬스터헌터 와일즈 어센던스 - 발표 트레일러](https://youtube.com/watch?v=rVOzlcUPe7Q) - 캡콤아시아 (57,457회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/ZZRcStcyalM/default.jpg)
-[RESCENE (리센느) 'LOVE ATTACK' Dance Practice (갸루 ver.)](https://youtube.com/watch?v=ZZRcStcyalM) - RESCENE (402,240회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/YwD6jwqd_j0/default.jpg)
+[감정없는 사이코패스](https://youtube.com/watch?v=YwD6jwqd_j0) - 랄로 (556,597회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/1HKBE6j3n-4/default.jpg)
-[리니지클래식 똘끼 오렌 업데이트 볼게요! 생제풀림 신규모집!   { 쏠 오후8시 3차 선점 }](https://youtube.com/watch?v=1HKBE6j3n-4) - 똘끼100% (304,433회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/4fOvCwmIOtw/default.jpg)
+[4 Flowers](https://youtube.com/watch?v=4fOvCwmIOtw) - MAMAMOO - Topic (315,625회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/4fOvCwmIOtw/default.jpg)
-[4 Flowers](https://youtube.com/watch?v=4fOvCwmIOtw) - MAMAMOO - Topic (167,080회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/MpeuI5116PE/default.jpg)
+[STELLAR CHEEKS IS BACK!! Stellar Blade Blood Rain Reveal Trailer Summer Game Fest 2026 LIVE REACTION](https://youtube.com/watch?v=MpeuI5116PE) - Michael Angelo (16,032회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-06-05 09:50 UTC
+⏳ 마지막 업데이트: 2026-06-06 08:33 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
