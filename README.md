@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/zGsj0fDHB_s/default.jpg)
-[BOYNEXTDOOR (보이넥스트도어) 'VIRAL' Official MV](https://youtube.com/watch?v=zGsj0fDHB_s) - HYBE LABELS (2,103,874회)
+[BOYNEXTDOOR (보이넥스트도어) 'VIRAL' Official MV](https://youtube.com/watch?v=zGsj0fDHB_s) - HYBE LABELS (5,274,907회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/IWmlauMQnGA/default.jpg)
-[와.. 결국 메인 예고편 유출ㄷㄷ ≪스파이더맨: 브랜드뉴데이≫ 메인 예고편 유출 & 떡밥 총정리](https://youtube.com/watch?v=IWmlauMQnGA) - 무비띵크_Movie Think (260,128회)
+[와.. 결국 메인 예고편 유출ㄷㄷ ≪스파이더맨: 브랜드뉴데이≫ 메인 예고편 유출 & 떡밥 총정리](https://youtube.com/watch?v=IWmlauMQnGA) - 무비띵크_Movie Think (306,978회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/MXxJUEJUSjA/default.jpg)
-[기인vs제우스 이후 최고의 탑 대결..](https://youtube.com/watch?v=MXxJUEJUSjA) - 튜브김민교 (179,696회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/4wxGqV0c_3A/default.jpg)
+[레전드 게임 수준 발생](https://youtube.com/watch?v=4wxGqV0c_3A) - 괴물쥐 유튜브 (335,262회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/LKMCTq3ZfFk/default.jpg)
-[VIRAL](https://youtube.com/watch?v=LKMCTq3ZfFk) - BOYNEXTDOOR - Topic (200,662회)
+[VIRAL](https://youtube.com/watch?v=LKMCTq3ZfFk) - BOYNEXTDOOR - Topic (386,650회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/wrdkAIreor4/default.jpg)
-[Hearts2Hearts 하츠투하츠 Trailer : The LemonTang Syndrome](https://youtube.com/watch?v=wrdkAIreor4) - Hearts2Hearts (949,083회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/udZgObzu__o/default.jpg)
+[[웨일폴: 고래에 먹힌 남자] 티저 예고편](https://youtube.com/watch?v=udZgObzu__o) - 20th Century Studios Korea (46,110회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-06-09 09:43 UTC
+⏳ 마지막 업데이트: 2026-06-10 10:00 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
