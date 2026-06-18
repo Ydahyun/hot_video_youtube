@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/HDGCTtuW-Yo/default.jpg)
-[RIIZE 라이즈 'Do your dance' MV](https://youtube.com/watch?v=HDGCTtuW-Yo) - SMTOWN (1,805,217회)
+[RIIZE 라이즈 'Do your dance' MV](https://youtube.com/watch?v=HDGCTtuW-Yo) - SMTOWN (4,485,614회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/Th-z5DyWdzE/default.jpg)
-[킬러들의 쇼핑몰 시즌2 | 티저 예고편 | 디즈니+](https://youtube.com/watch?v=Th-z5DyWdzE) - Disney Plus Korea 디즈니 플러스 코리아 (168,623회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/dosbhD_1LIo/default.jpg)
+[[스파이더맨: 브랜드 뉴 데이] 메인 예고편](https://youtube.com/watch?v=dosbhD_1LIo) - 소니픽쳐스코리아 (729,361회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/KkLhex4egvo/default.jpg)
-[중간계 저명보 감독님과 옥어게인 【중간계 EP.1】](https://youtube.com/watch?v=KkLhex4egvo) - 튜브김민교 (201,588회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/KoJrRPMDpVE/default.jpg)
+[똘끼 솔 인챈트 오늘 12시 대망의 오픈! 린델1 서버 오픈런 갑니다         #리니지클래식#로드나인](https://youtube.com/watch?v=KoJrRPMDpVE) - 똘끼100% (215,399회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/proAJg4sVhM/default.jpg)
-[Do your dance](https://youtube.com/watch?v=proAJg4sVhM) - RIIZE - Topic (280,373회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/Z0bL5RgmjwU/default.jpg)
+[I Can](https://youtube.com/watch?v=Z0bL5RgmjwU) - Isaac Hong - Topic (118,672회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/nvnm3RMW278/default.jpg)
-[김부장 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=nvnm3RMW278) - Netflix Korea 넷플릭스 코리아 (398,249회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/SV7EDrgTmPw/default.jpg)
+[진짜 떴습니다. ≪스파이더맨: 브랜드뉴데이≫ 메인 예고편 리뷰 & 떡밥 나노 분석 총정리](https://youtube.com/watch?v=SV7EDrgTmPw) - 무비띵크_Movie Think (258,718회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-06-17 10:56 UTC
+⏳ 마지막 업데이트: 2026-06-18 10:20 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
