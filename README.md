@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/BEPSc8q6Bd8/default.jpg)
-[Lemon Tang](https://youtube.com/watch?v=BEPSc8q6Bd8) - Hearts2Hearts - Topic (1,902,287회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/AtA2V44z0nU/default.jpg)
+[[Official M/V] cosmosy ‘Paradise ~ I need you ~’](https://youtube.com/watch?v=AtA2V44z0nU) - cosmosy_yt (248,012회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/BEAwG7QWWiQ/default.jpg)
-[국내 독점 예고편 공개ㄷㄷ ≪스파이더맨: 브랜드뉴데이≫ 분석 및 떡밥 총정리](https://youtube.com/watch?v=BEAwG7QWWiQ) - 무비띵크_Movie Think (355,426회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/reEcxh7vB2o/default.jpg)
+[[3회 예고] 소지섭×최대훈×윤경호, 본격적으로 힘 합쳐 서수민 찾기 시작♨](https://youtube.com/watch?v=reEcxh7vB2o) - SBS 스브스 Drama (50,100회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/ufO06HrxvKg/default.jpg)
-[그림 숨바꼭질에서 협동을 하기 시작한 유저들](https://youtube.com/watch?v=ufO06HrxvKg) - 우주하마 (558,338회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/mIbZwBGThms/default.jpg)
+[그림 숨바꼭질 걍 대놓고 숨기 고수들](https://youtube.com/watch?v=mIbZwBGThms) - 우주하마 (196,352회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/UxOBbJPvh4Y/default.jpg)
-[RUN IT](https://youtube.com/watch?v=UxOBbJPvh4Y) - Stray Kids - Topic (1,410,294회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/ZaLSkvvzwro/default.jpg)
+[Shiny Star (2026 ver.)](https://youtube.com/watch?v=ZaLSkvvzwro) - Ha Yea Song - Topic (141,432회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/Psx6qJawATY/default.jpg)
-[[눈동자] 메인 예고편](https://youtube.com/watch?v=Psx6qJawATY) - 바이포엠스튜디오 BY4M STUDIO (177,879회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/abdFKANHhAY/default.jpg)
+[[2회 예고] "그럼 나는 무법 중년 해야겠다" 딸의 실종 소식에 봉인 해제된 소지섭👊 그리고 그를 쫓기 시작한 의문의 세력? | 김부장 | SBS](https://youtube.com/watch?v=abdFKANHhAY) - SBS  (54,312회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-06-27 08:35 UTC
+⏳ 마지막 업데이트: 2026-06-28 08:51 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
