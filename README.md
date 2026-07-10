@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/qZlu2j2SiBA/default.jpg)
-[RESCENE (리센느) 'Pretty Girl' Special Video](https://youtube.com/watch?v=qZlu2j2SiBA) - RESCENE (2,190,891회)
+[RESCENE (리센느) 'Pretty Girl' Special Video](https://youtube.com/watch?v=qZlu2j2SiBA) - RESCENE (2,925,315회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/oOfV91n0GB8/default.jpg)
-[타짜 시리즈 대망의 피날레 [타짜: 벨제붑의 노래] 라이벌 예고편 (clean ver.)](https://youtube.com/watch?v=oOfV91n0GB8) - CJ ENM Movie (167,996회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/ztqZZO-lLsE/default.jpg)
+[[호프] 북미 예고편](https://youtube.com/watch?v=ztqZZO-lLsE) - 플러스엠 엔터테인먼트 (188,197회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/n8TK7dLaTIo/default.jpg)
-[LYON vs TSW - G2 vs T1 | 브래킷 스테이지 패자조 2라운드 | MSI 2026](https://youtube.com/watch?v=n8TK7dLaTIo) - LCK (2,551,053회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/o3r5Gmr93g0/default.jpg)
+[BLG vs HLE | 브래킷 스테이지 승자조 최종전 | MSI 2026](https://youtube.com/watch?v=o3r5Gmr93g0) - LCK (1,771,519회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/6yFx1gpIYYM/default.jpg)
-[Become More Beautiful](https://youtube.com/watch?v=6yFx1gpIYYM) - So Soo Bin - Topic (93,118회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/cgJAmkE_j7U/default.jpg)
+[You and I](https://youtube.com/watch?v=cgJAmkE_j7U) - HANRORO - Topic (137,181회)
 
 **5.** ![thumbnail](https://i.ytimg.com/vi/4FbqUGE8bSQ/default.jpg)
-[드디어 큰 거 왔다.. ≪타짜4: 벨제붑의 노래≫ 공식 예고편 나노 분석 & 떡밥 총정리](https://youtube.com/watch?v=4FbqUGE8bSQ) - 무비띵크_Movie Think (155,985회)
+[드디어 큰 거 왔다.. ≪타짜4: 벨제붑의 노래≫ 공식 예고편 나노 분석 & 떡밥 총정리](https://youtube.com/watch?v=4FbqUGE8bSQ) - 무비띵크_Movie Think (411,325회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-07-09 09:39 UTC
+⏳ 마지막 업데이트: 2026-07-10 09:34 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
