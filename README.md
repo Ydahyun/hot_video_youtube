@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/qZlu2j2SiBA/default.jpg)
-[RESCENE (리센느) 'Pretty Girl' Special Video](https://youtube.com/watch?v=qZlu2j2SiBA) - RESCENE (8,195,914회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/YVjcmz9sBIs/default.jpg)
+[Pretty Girl](https://youtube.com/watch?v=YVjcmz9sBIs) - RESCENE - Topic (1,415,354회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/ztqZZO-lLsE/default.jpg)
-[[호프] 북미 예고편](https://youtube.com/watch?v=ztqZZO-lLsE) - 플러스엠 엔터테인먼트 (310,463회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/CkeFV03nAus/default.jpg)
+[[김부장 7화 예고] 김부장, 주강찬의 '이것'까지 해체하고 완전 몰락시킨다](https://youtube.com/watch?v=CkeFV03nAus) - 드라마 온앤온 (265,139회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/oM5QRAQbT5s/default.jpg)
-[진짜 소름 끼쳤습니다..혜안져스 "메챠 카멜레온" 레전드ㅋㅋㅋㅋㅋ🤣](https://youtube.com/watch?v=oM5QRAQbT5s) - 혜안 (552,850회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/hqdvaZkReXo/default.jpg)
+[LYON vs HLE | 브래킷 스테이지 패자조 최종전 | MSI 2026](https://youtube.com/watch?v=hqdvaZkReXo) - LCK (1,735,321회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/cgJAmkE_j7U/default.jpg)
-[You and I](https://youtube.com/watch?v=cgJAmkE_j7U) - HANRORO - Topic (214,634회)
+[You and I](https://youtube.com/watch?v=cgJAmkE_j7U) - HANRORO - Topic (276,513회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/IZU4XT8MThA/default.jpg)
-[[6회 예고] "민지야 아빠 왔다" 소지섭X최대훈X윤경호, 서수민 구하기 위해 특임국과 교전까지!? #김부장 #SBSCatch](https://youtube.com/watch?v=IZU4XT8MThA) - SBS Catch (53,851회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/DFaCPpKX3uM/default.jpg)
+[예고편 하나로 나락을 가고 있는 전세계 원탑 영화 감독](https://youtube.com/watch?v=DFaCPpKX3uM) - 세상요정 밋돌세 (77,782회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-07-11 07:55 UTC
+⏳ 마지막 업데이트: 2026-07-12 08:17 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
