@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/Ot1wUyuE3Vo/default.jpg)
-[idntt 아이덴티티 ‘Kids Return’ Official MV](https://youtube.com/watch?v=Ot1wUyuE3Vo) - idntt (2,413,765회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/Q2OhwjFoUn0/default.jpg)
+[to the Sea (2026)](https://youtube.com/watch?v=Q2OhwjFoUn0) - Ha Yea Song - Topic (52,991회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/mfl7dRT-5jU/default.jpg)
-[[디거] 2차 예고편](https://youtube.com/watch?v=mfl7dRT-5jU) - Warner Bros. Korea (93,347회)
+[[디거] 2차 예고편](https://youtube.com/watch?v=mfl7dRT-5jU) - Warner Bros. Korea (112,194회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/p0grJGd6Frs/default.jpg)
-[노인 출현](https://youtube.com/watch?v=p0grJGd6Frs) - 랄로 (702,951회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/SnRvPkzWzhg/default.jpg)
+[3% 확률로 초전설 잡아버린 씩씩맨 [마크 코블몬 EP.03]](https://youtube.com/watch?v=SnRvPkzWzhg) - 말왕TV (284,834회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/Q0OzS0cKuwc/default.jpg)
-[Walk through the rain](https://youtube.com/watch?v=Q0OzS0cKuwc) - LEE YEJOON - Topic (354,950회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/eyAEyOsj2y4/default.jpg)
+[Forever July](https://youtube.com/watch?v=eyAEyOsj2y4) - SUNMI - Topic (66,183회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/Bp0ciNu2Oco/default.jpg)
-[와.. 《김부장》 7화 선공개..🔥 드디어 1대1로 붙게 된 김부장 vs 주강찬의 최종 싸움ㄷㄷ 7화 예고편 떡밥 총정리!!](https://youtube.com/watch?v=Bp0ciNu2Oco) - 매드무비 : MadMovie (105,220회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/mrzr7fzcgow/default.jpg)
+[쥐라스라면?](https://youtube.com/watch?v=mrzr7fzcgow) - 괴물쥐 유튜브 (291,820회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-07-15 08:09 UTC
+⏳ 마지막 업데이트: 2026-07-16 08:12 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
