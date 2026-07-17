@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/Q2OhwjFoUn0/default.jpg)
-[to the Sea (2026)](https://youtube.com/watch?v=Q2OhwjFoUn0) - Ha Yea Song - Topic (52,991회)
+[to the Sea (2026)](https://youtube.com/watch?v=Q2OhwjFoUn0) - Ha Yea Song - Topic (112,070회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/mfl7dRT-5jU/default.jpg)
-[[디거] 2차 예고편](https://youtube.com/watch?v=mfl7dRT-5jU) - Warner Bros. Korea (112,194회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/S2XGH9Mz0Fw/default.jpg)
+[라꼬숟과 정통 원딜](https://youtube.com/watch?v=S2XGH9Mz0Fw) - 괴물쥐 유튜브 (302,211회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/SnRvPkzWzhg/default.jpg)
-[3% 확률로 초전설 잡아버린 씩씩맨 [마크 코블몬 EP.03]](https://youtube.com/watch?v=SnRvPkzWzhg) - 말왕TV (284,834회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/5ZLMJyoJIsk/default.jpg)
+[BTS (방탄소년단) ‘NORMAL’ Official Teaser](https://youtube.com/watch?v=5ZLMJyoJIsk) - HYBE LABELS (3,576,387회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/eyAEyOsj2y4/default.jpg)
-[Forever July](https://youtube.com/watch?v=eyAEyOsj2y4) - SUNMI - Topic (66,183회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/Yomnm2bSz6w/default.jpg)
+[멸망전 3년째 별점 테러 당하고 있는 비운의 정글러..](https://youtube.com/watch?v=Yomnm2bSz6w) - 튜브김민교 (183,529회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/mrzr7fzcgow/default.jpg)
-[쥐라스라면?](https://youtube.com/watch?v=mrzr7fzcgow) - 괴물쥐 유튜브 (291,820회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/GnSaLQTrvt0/default.jpg)
+[화사 (HWASA) - ‘Good Goodbye’ at 싸이흠뻑쇼 SUMMERSWAG 2026](https://youtube.com/watch?v=GnSaLQTrvt0) - HWASA (1,197,273회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-07-16 08:12 UTC
+⏳ 마지막 업데이트: 2026-07-17 08:09 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
