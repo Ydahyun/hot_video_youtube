@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/AFpImN9O4bY/default.jpg)
-[송하예 '바다 가자 (2026)' Official M/V](https://youtube.com/watch?v=AFpImN9O4bY) - 하예일기장 (266,848회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/VNLUaTxDs_4/default.jpg)
+[Brainwash](https://youtube.com/watch?v=VNLUaTxDs_4) - HEEDAE - Topic (125,154회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/8hCj0Auu2Bw/default.jpg)
-[[ 김부장 8화 예고]남파 간첩 김부장 머리에 겨눠진 총구! 사설 복수극 펼치는 주강찬을 박살 낼 강국철의 사이다 통수 반전 예측#최대훈 #윤경호 #SBS금토드라마](https://youtube.com/watch?v=8hCj0Auu2Bw) - Dramatic Drama (77,936회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/OaBBO6e51tE/default.jpg)
+[[ 김부장 9화 예고]토사구팽당한 김부장과 리응령의 최후! 김부장에게 총구겨눈 주강찬을 들이받을 최종 조력자의 정체#최대훈 #윤경호 #SBS금토드라마](https://youtube.com/watch?v=OaBBO6e51tE) - Dramatic Drama (128,029회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/OBy0fi86A8g/default.jpg)
-[지하철이 생긴 마인크래프트 서버 생존기](https://youtube.com/watch?v=OBy0fi86A8g) - 코마 (561,883회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/aK5wqLPg8aE/default.jpg)
+[MZ 원딜](https://youtube.com/watch?v=aK5wqLPg8aE) - 괴물쥐 유튜브 (350,328회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/uV-PoNLiFCI/default.jpg)
-[산들 Sandeul - 뭐라할까 What to say Official M/V](https://youtube.com/watch?v=uV-PoNLiFCI) - GENIE MUSIC (52,341회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/GEk4jHwfFTA/default.jpg)
+[BTS (방탄소년단) ‘NORMAL’ Official MV](https://youtube.com/watch?v=GEk4jHwfFTA) - HYBE LABELS (990,222회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/VdztlbJM4Ao/default.jpg)
-[[ 김부장 8회 예고 ] 다 속았다! 가짜 송환! 북한으로 보내진 진짜이유!](https://youtube.com/watch?v=VdztlbJM4Ao) - 일상톡톡 (12,926회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/sD61ZG10TlQ/default.jpg)
+[아파트 4회 예고편 - 편을 좀 만들어야 하지 않을까요?](https://youtube.com/watch?v=sD61ZG10TlQ) - JTBC Drama (12,809회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-07-18 07:49 UTC
+⏳ 마지막 업데이트: 2026-07-19 08:18 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
