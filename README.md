@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/1PVUTUFxq8g/default.jpg)
-[Less than a Lover](https://youtube.com/watch?v=1PVUTUFxq8g) - JENNIE - Topic (359,486회)
+[Less than a Lover](https://youtube.com/watch?v=1PVUTUFxq8g) - JENNIE - Topic (589,962회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/kiKC6m6qJGo/default.jpg)
-[실시간으로 난리난 스티브의 정체.. ≪어벤져스: 둠스데이≫ 공식 티저 예고편 떡밥 분석 2탄 총정리](https://youtube.com/watch?v=kiKC6m6qJGo) - 무비띵크_Movie Think (411,819회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/1OnA9aS5E5g/default.jpg)
+[≪어벤져스: 둠스데이≫ 코믹콘 예고편 유출 + 2028년 마블 신작 고스트 라이더 + 블랙팬서 3 떡밥 분석 총정리](https://youtube.com/watch?v=1OnA9aS5E5g) - 무비띵크_Movie Think (52,716회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/gj9Wea8rdJ4/default.jpg)
-[리니지 클래식 켄라우헬 고생하면서 싸워주시는 분들게 감사의 말씀올립니다](https://youtube.com/watch?v=gj9Wea8rdJ4) - 이문주 (374,230회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/qML5Or_29F4/default.jpg)
+[각성한 이상호를 상대로 분노한 클리드의 반격 시작 【멸망전 승자전 #2】](https://youtube.com/watch?v=qML5Or_29F4) - 튜브김민교 (302,877회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/vOfyxPRunFM/default.jpg)
-[Animal](https://youtube.com/watch?v=vOfyxPRunFM) - KATSEYE - Topic (2,185,380회)
+[Animal](https://youtube.com/watch?v=vOfyxPRunFM) - KATSEYE - Topic (3,558,802회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/b58pNFqwpRg/default.jpg)
-[[최종회 예고] "너 돕는 거 아니야 임마" 간첩 주강찬 잡고 대한민국 국민 구하러 처들어온 강국철ㅋㅋ 김부장 사망설의 진실까지! 엔딩 미쳤다.. [김부장]](https://youtube.com/watch?v=b58pNFqwpRg) - 고비디오 (65,632회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/_5GRXsaDDJE/default.jpg)
+[류승룡 느와르 영화 《비광》 떴다..🔥 국내 미공개 예고편부터 톰 크루즈, 신병4, 스파이더맨 신작까지 존잼만 엄선..!](https://youtube.com/watch?v=_5GRXsaDDJE) - 엘플릭스 [LPLIX] (121,780회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-07-25 08:05 UTC
+⏳ 마지막 업데이트: 2026-07-26 08:25 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
