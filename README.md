@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/g16sDYTn8j0/default.jpg)
-[NO BATIDÃO](https://youtube.com/watch?v=g16sDYTn8j0) - slxughter - Topic (2,321,059회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/8W64YPnRu1Y/default.jpg)
+[MOTION (feat. Juicy J)](https://youtube.com/watch?v=8W64YPnRu1Y) - CORTIS - Topic (644,761회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/L_TE-YfFSWo/default.jpg)
-[[쥬만지: 오픈 월드] 티저 예고편](https://youtube.com/watch?v=L_TE-YfFSWo) - 소니픽쳐스코리아 (473,588회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/UjreUuD-CAM/default.jpg)
+[죽는 게 무섭지 않아요? | [킬러들의 쇼핑몰 시즌2] 5-6회 예고편 | 디즈니+](https://youtube.com/watch?v=UjreUuD-CAM) - Disney Plus Korea 디즈니 플러스 코리아 (298,428회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/KRqmdRa_KLc/default.jpg)
-[케~넨](https://youtube.com/watch?v=KRqmdRa_KLc) - 괴물쥐 유튜브 (321,341회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/pRXEgfmcHbs/default.jpg)
+[롤 클래식 체험기](https://youtube.com/watch?v=pRXEgfmcHbs) - PAKA (374,207회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/KgIsVeN4g0E/default.jpg)
-[if i’m with you](https://youtube.com/watch?v=KgIsVeN4g0E) - george - Topic (134,428회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/TLqgvD9_TR8/default.jpg)
+[Feathers](https://youtube.com/watch?v=TLqgvD9_TR8) - Redoor - Topic (64,547회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/lNaSdnz2I8g/default.jpg)
-[Namit Malhotra’s Ramayana- Hindi Trailer | Nitesh Tiwari | Ranbir, Yash, Hans Zimmer, A.R.Rahman](https://youtube.com/watch?v=lNaSdnz2I8g) - World Of Ramayana (24,726,130회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/_gJQREv6PVI/default.jpg)
+[들쥐 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=_gJQREv6PVI) - Netflix Korea 넷플릭스 코리아 (268,808회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-07-31 08:48 UTC
+⏳ 마지막 업데이트: 2026-08-01 08:20 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
