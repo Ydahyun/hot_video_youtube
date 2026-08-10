@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/pIaOtqgSZzo/default.jpg)
-[courage](https://youtube.com/watch?v=pIaOtqgSZzo) - wave to earth - Topic (211,437회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/R30DHQSos8I/default.jpg)
+[Serenade (KARINA & WINTER)](https://youtube.com/watch?v=R30DHQSos8I) - aespa - Topic (404,482회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/8H1HZjmqocA/default.jpg)
-[≪스파이더맨: 브랜드뉴데이≫ 모든 스포일러 & 떡밥 분석 몰아보기](https://youtube.com/watch?v=8H1HZjmqocA) - 무비띵크_Movie Think (41,310회)
+[≪스파이더맨: 브랜드뉴데이≫ 모든 스포일러 & 떡밥 분석 몰아보기](https://youtube.com/watch?v=8H1HZjmqocA) - 무비띵크_Movie Think (219,836회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/ikYxXg1LBbo/default.jpg)
-[😱혜안져스 노움강도단 잡으려고 총까지 꺼낸 할아버지 ㄷㄷㄷ😱](https://youtube.com/watch?v=ikYxXg1LBbo) - 혜안 (323,020회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/yYGiPaSerVc/default.jpg)
+[매튜렁이 낳은 아이](https://youtube.com/watch?v=yYGiPaSerVc) - 랄로 (505,068회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/18Bzq14SmTM/default.jpg)
-[Velvet Vibe Alignment](https://youtube.com/watch?v=18Bzq14SmTM) - NOYA - Topic (167,708회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/hl7_dxuytRQ/default.jpg)
+[ICONIC HEART](https://youtube.com/watch?v=hl7_dxuytRQ) - Hearts2Hearts - Topic (37,777회)
 
 **5.** ![thumbnail](https://i.ytimg.com/vi/GqCh4lcO5m4/default.jpg)
-[정진만 건드리지 마 | [킬러들의 쇼핑몰 시즌2] 7-8회 예고편 | 디즈니+](https://youtube.com/watch?v=GqCh4lcO5m4) - Disney Plus Korea 디즈니 플러스 코리아 (338,907회)
+[정진만 건드리지 마 | [킬러들의 쇼핑몰 시즌2] 7-8회 예고편 | 디즈니+](https://youtube.com/watch?v=GqCh4lcO5m4) - Disney Plus Korea 디즈니 플러스 코리아 (369,312회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-08-09 06:55 UTC
+⏳ 마지막 업데이트: 2026-08-10 07:40 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
