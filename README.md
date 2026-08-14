@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/cQPXraDIvS4/default.jpg)
-[Pop Off Pop Off](https://youtube.com/watch?v=cQPXraDIvS4) - KiiiKiii - Topic (474,085회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/wlUvFCbMXms/default.jpg)
+[STUCK!](https://youtube.com/watch?v=wlUvFCbMXms) - pH-1 - Topic (103,731회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/T0pBKOLOKLM/default.jpg)
-[「침향 외전」공식 예고편 | Trailer Modern AU Spin-off | AI BL Drama [CHIMHYANG: Scent of the Needle]](https://youtube.com/watch?v=T0pBKOLOKLM) - Late Blue Night (57,046회)
+[「침향 외전」공식 예고편 | Trailer Modern AU Spin-off | AI BL Drama [CHIMHYANG: Scent of the Needle]](https://youtube.com/watch?v=T0pBKOLOKLM) - Late Blue Night (80,637회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/b5fJHVhOvVs/default.jpg)
-[무한다이노 오우너 [마크 코블몬 EP.05]](https://youtube.com/watch?v=b5fJHVhOvVs) - 말왕TV (327,207회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/XK5By_s9mvg/default.jpg)
+[금빛 섬광](https://youtube.com/watch?v=XK5By_s9mvg) - 괴물쥐 유튜브 (270,323회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/UsbRoaH6y-Q/default.jpg)
-[KiiiKiii 키키 'Pop Off Pop Off' MV](https://youtube.com/watch?v=UsbRoaH6y-Q) - STARSHIP (2,383,486회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/E30TvxRbZJs/default.jpg)
+[AxMxP (에이엠피) - 나를 만나야 할 10가지 이유 MV](https://youtube.com/watch?v=E30TvxRbZJs) - AxMxP (917,547회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/8H1HZjmqocA/default.jpg)
-[≪스파이더맨: 브랜드뉴데이≫ 모든 스포일러 & 떡밥 분석 몰아보기](https://youtube.com/watch?v=8H1HZjmqocA) - 무비띵크_Movie Think (288,490회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/zXcxXddFEP0/default.jpg)
+[들쥐 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=zXcxXddFEP0) - Netflix Korea 넷플릭스 코리아 (55,289회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-08-13 07:25 UTC
+⏳ 마지막 업데이트: 2026-08-14 07:23 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
