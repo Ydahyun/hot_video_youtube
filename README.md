@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/L8ZnXgbyUuc/default.jpg)
-[BIGBANG - ‘BiiiG’ M/V](https://youtube.com/watch?v=L8ZnXgbyUuc) - BIGBANG (4,621,860회)
+[BIGBANG - ‘BiiiG’ M/V](https://youtube.com/watch?v=L8ZnXgbyUuc) - BIGBANG (6,578,464회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/QqcjHD22WSM/default.jpg)
-[과연 둠이 토니 스타크일까? ≪어벤져스: 둠스데이≫ 공식 예고편 떡밥 분석 2탄 총정리](https://youtube.com/watch?v=QqcjHD22WSM) - 무비띵크_Movie Think (367,731회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/740gIc6vWSE/default.jpg)
+[지옥의 악마와 거래한 닥터둠.. ≪어벤져스: 둠스데이≫ 공식 예고편 떡밥 분석 총정리 3탄](https://youtube.com/watch?v=740gIc6vWSE) - 무비띵크_Movie Think (250,850회)
 
 **3.** ![thumbnail](https://i.ytimg.com/vi/JH2LR-_iOA4/default.jpg)
-[맨유 버렸습니다..](https://youtube.com/watch?v=JH2LR-_iOA4) - 이상호 (589,361회)
+[맨유 버렸습니다..](https://youtube.com/watch?v=JH2LR-_iOA4) - 이상호 (639,638회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/LlFB4Tk49kI/default.jpg)
-[Blue Lagoon (Korean Ver.)](https://youtube.com/watch?v=LlFB4Tk49kI) - LEE SUHYUN - Topic (224,919회)
+[Blue Lagoon (Korean Ver.)](https://youtube.com/watch?v=LlFB4Tk49kI) - LEE SUHYUN - Topic (355,698회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/Bk6DeEedYGs/default.jpg)
-[[어벤져스: 둠스데이] '둠의 심판' 예고편](https://youtube.com/watch?v=Bk6DeEedYGs) - MarvelKorea (2,704,333회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/oi2QgPH61JM/default.jpg)
+[Black Myth: Zhong Kui – 15 Minutes Gameplay Trailer](https://youtube.com/watch?v=oi2QgPH61JM) - Black Myth (1,877,265회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-08-20 06:43 UTC
+⏳ 마지막 업데이트: 2026-08-21 06:45 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
