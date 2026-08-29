@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/LNk-BX38FzQ/default.jpg)
-[HEAVEN](https://youtube.com/watch?v=LNk-BX38FzQ) - JENNIE - Topic (157,177회)
+[HEAVEN](https://youtube.com/watch?v=LNk-BX38FzQ) - JENNIE - Topic (312,423회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/CDhtpYWNEuk/default.jpg)
-[재혼 황후 | 티저 예고편 | 디즈니+](https://youtube.com/watch?v=CDhtpYWNEuk) - Disney Plus Korea 디즈니 플러스 코리아 (1,303,461회)
+[재혼 황후 | 티저 예고편 | 디즈니+](https://youtube.com/watch?v=CDhtpYWNEuk) - Disney Plus Korea 디즈니 플러스 코리아 (1,457,951회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/XsYf1QRr8D0/default.jpg)
-[결국 다시 돌아온 잉글랜드 이상호.. 즐라탄 빼고 새 삶 시작 ㅋㅋㅋㅋ](https://youtube.com/watch?v=XsYf1QRr8D0) - 이상호 (648,111회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/7xJm7I_FBkw/default.jpg)
+[700억 레알의 첫 걸음..발푸어 서민 레알 마드리드](https://youtube.com/watch?v=7xJm7I_FBkw) - 튜브김민교 (571,523회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/Gk8F8waA0tM/default.jpg)
-[송하예 '행복한 나를 (2026ver.)' Official MV](https://youtube.com/watch?v=Gk8F8waA0tM) - 하예일기장 (179,066회)
+[송하예 '행복한 나를 (2026ver.)' Official MV](https://youtube.com/watch?v=Gk8F8waA0tM) - 하예일기장 (275,449회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/L-dswC-fTFg/default.jpg)
-[와.. 결국 유출됐습니다.. ≪스파이더맨: 비욘드 더 유니버스≫ 4분 40초 유출 예고편 떡밥 총정리](https://youtube.com/watch?v=L-dswC-fTFg) - 무비띵크_Movie Think (485,260회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/W1kDOqqWNiw/default.jpg)
+[가능한 사랑 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=W1kDOqqWNiw) - Netflix Korea 넷플릭스 코리아 (854,199회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-08-28 18:15 UTC
+⏳ 마지막 업데이트: 2026-08-29 12:23 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
