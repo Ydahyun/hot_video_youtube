@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/oAwzFFEYm38/default.jpg)
-[Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video](https://youtube.com/watch?v=oAwzFFEYm38) - SMTOWN (4,123,774회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/EIc13cn7tWo/default.jpg)
+[Nostalgia](https://youtube.com/watch?v=EIc13cn7tWo) - BIG Naughty - Topic (568,570회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/0VY2Cz80lNs/default.jpg)
-[메이드 인 코리아 시즌2 | 캐릭터 예고편 | 디즈니+](https://youtube.com/watch?v=0VY2Cz80lNs) - Disney Plus Korea 디즈니 플러스 코리아 (436,216회)
+[메이드 인 코리아 시즌2 | 캐릭터 예고편 | 디즈니+](https://youtube.com/watch?v=0VY2Cz80lNs) - Disney Plus Korea 디즈니 플러스 코리아 (944,196회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/6ThZY2diLfA/default.jpg)
-[더 강력해진 서버 골결 1위 해리케인 영입..이상호의 케인은 감동이 있다!](https://youtube.com/watch?v=6ThZY2diLfA) - 이상호 (980,922회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/KFYYAw9F1FE/default.jpg)
+[뚫고 싶은 남자와 막고 싶은 남자의 혈투..](https://youtube.com/watch?v=KFYYAw9F1FE) - 이상호 (729,832회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/T_N_bbH6sPQ/default.jpg)
-[Nostalgia (Band ver.)](https://youtube.com/watch?v=T_N_bbH6sPQ) - BIG Naughty - Topic (156,500회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/orMeGkf79Ow/default.jpg)
+[Shelter](https://youtube.com/watch?v=orMeGkf79Ow) - Kim Gyeol - Topic (94,388회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/IHFZE-S0J-E/default.jpg)
-[[부활남: 더 레드] 메인 예고편](https://youtube.com/watch?v=IHFZE-S0J-E) - 롯데엔터테인먼트 (116,466회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/TA8SHjQjo94/default.jpg)
+[[스트리트 파이터] 2차 예고편](https://youtube.com/watch?v=TA8SHjQjo94) - ParamountKR (168,894회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-09-01 11:11 UTC
+⏳ 마지막 업데이트: 2026-09-02 10:45 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
