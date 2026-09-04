@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/oAwzFFEYm38/default.jpg)
-[Girls' Generation-HRS 소녀시대-효리수 'Skibidi' Performance Video](https://youtube.com/watch?v=oAwzFFEYm38) - SMTOWN (6,485,914회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/sf02ugzPFE4/default.jpg)
+[JISOO - CLICK (Official MV)](https://youtube.com/watch?v=sf02ugzPFE4) - JISOO (3,042,331회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/0VY2Cz80lNs/default.jpg)
-[메이드 인 코리아 시즌2 | 캐릭터 예고편 | 디즈니+](https://youtube.com/watch?v=0VY2Cz80lNs) - Disney Plus Korea 디즈니 플러스 코리아 (1,568,990회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/CXcFvUGYB2o/default.jpg)
+[몬스터헌터 와일즈 어센던스 - 1st 트레일러](https://youtube.com/watch?v=CXcFvUGYB2o) - 캡콤아시아 (175,687회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/KFYYAw9F1FE/default.jpg)
-[뚫고 싶은 남자와 막고 싶은 남자의 혈투..](https://youtube.com/watch?v=KFYYAw9F1FE) - 이상호 (844,597회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/M1JHeFf10Ns/default.jpg)
+[이상호 피파 인생 최초 슈퍼 챔피언스 찍었습니다..](https://youtube.com/watch?v=M1JHeFf10Ns) - 이상호 (807,122회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/EIc13cn7tWo/default.jpg)
-[Nostalgia](https://youtube.com/watch?v=EIc13cn7tWo) - BIG Naughty - Topic (790,887회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/FyS5dAywkEo/default.jpg)
+[LISA - SaWaDiKa (Official Music Video)](https://youtube.com/watch?v=FyS5dAywkEo) - LISAOfficialVEVO (31,882,654회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/dsSgOEcLuL8/default.jpg)
-[[어벤져스: 엔드게임 앙코르] 인피니티 비전 소개 영상](https://youtube.com/watch?v=dsSgOEcLuL8) - MarvelKorea (217,381회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/HaCtG1F_hfE/default.jpg)
+[Crimson Desert Enhanced: Charting the Unknown | Official DLC Reveal Trailer](https://youtube.com/watch?v=HaCtG1F_hfE) - Crimson Desert (621,135회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-09-03 10:45 UTC
+⏳ 마지막 업데이트: 2026-09-04 10:43 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
