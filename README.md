@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/sf02ugzPFE4/default.jpg)
-[JISOO - CLICK (Official MV)](https://youtube.com/watch?v=sf02ugzPFE4) - JISOO (3,042,331회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/6ytdGqMxxrI/default.jpg)
+[anime](https://youtube.com/watch?v=6ytdGqMxxrI) - Tablo - Topic (279,123회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/CXcFvUGYB2o/default.jpg)
-[몬스터헌터 와일즈 어센던스 - 1st 트레일러](https://youtube.com/watch?v=CXcFvUGYB2o) - 캡콤아시아 (175,687회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/HaCtG1F_hfE/default.jpg)
+[Crimson Desert Enhanced: Charting the Unknown | Official DLC Reveal Trailer](https://youtube.com/watch?v=HaCtG1F_hfE) - Crimson Desert (692,820회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/M1JHeFf10Ns/default.jpg)
-[이상호 피파 인생 최초 슈퍼 챔피언스 찍었습니다..](https://youtube.com/watch?v=M1JHeFf10Ns) - 이상호 (807,122회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/EiBODDDXxeI/default.jpg)
+[감스트 음바페11카 영입! 속력 172 ㄷㄷ + 2000만원 현질! fc온라인](https://youtube.com/watch?v=EiBODDDXxeI) - 감스트GAMST (844,239회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/FyS5dAywkEo/default.jpg)
-[LISA - SaWaDiKa (Official Music Video)](https://youtube.com/watch?v=FyS5dAywkEo) - LISAOfficialVEVO (31,882,654회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/jLCo8597v_g/default.jpg)
+[CLICK](https://youtube.com/watch?v=jLCo8597v_g) - JISOO - Topic (911,137회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/HaCtG1F_hfE/default.jpg)
-[Crimson Desert Enhanced: Charting the Unknown | Official DLC Reveal Trailer](https://youtube.com/watch?v=HaCtG1F_hfE) - Crimson Desert (621,135회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/LHUzFnq70b8/default.jpg)
+[NBA 2K27 | NVIDIA DLSS 5 Launch Trailer](https://youtube.com/watch?v=LHUzFnq70b8) - NVIDIA GeForce (166,146회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-09-04 10:43 UTC
+⏳ 마지막 업데이트: 2026-09-05 10:02 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
