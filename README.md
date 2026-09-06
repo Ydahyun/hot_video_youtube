@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/6ytdGqMxxrI/default.jpg)
-[anime](https://youtube.com/watch?v=6ytdGqMxxrI) - Tablo - Topic (279,123회)
+[anime](https://youtube.com/watch?v=6ytdGqMxxrI) - Tablo - Topic (494,745회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/HaCtG1F_hfE/default.jpg)
-[Crimson Desert Enhanced: Charting the Unknown | Official DLC Reveal Trailer](https://youtube.com/watch?v=HaCtG1F_hfE) - Crimson Desert (692,820회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/Mm2dQsE5eTg/default.jpg)
+[2026년 발롱도르 후보 1순위 그의 이름 누구~?!](https://youtube.com/watch?v=Mm2dQsE5eTg) - 이상호 (658,535회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/EiBODDDXxeI/default.jpg)
-[감스트 음바페11카 영입! 속력 172 ㄷㄷ + 2000만원 현질! fc온라인](https://youtube.com/watch?v=EiBODDDXxeI) - 감스트GAMST (844,239회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/jLCo8597v_g/default.jpg)
+[CLICK](https://youtube.com/watch?v=jLCo8597v_g) - JISOO - Topic (1,416,652회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/jLCo8597v_g/default.jpg)
-[CLICK](https://youtube.com/watch?v=jLCo8597v_g) - JISOO - Topic (911,137회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/Z8oxLVD3zJM/default.jpg)
+[직원들이 노조를 만들었습니다 [50vs50 마크 전쟁]](https://youtube.com/watch?v=Z8oxLVD3zJM) - 말왕TV (467,558회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/LHUzFnq70b8/default.jpg)
-[NBA 2K27 | NVIDIA DLSS 5 Launch Trailer](https://youtube.com/watch?v=LHUzFnq70b8) - NVIDIA GeForce (166,146회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/FyS5dAywkEo/default.jpg)
+[LISA - SaWaDiKa (Official Music Video)](https://youtube.com/watch?v=FyS5dAywkEo) - LISAOfficialVEVO (109,848,132회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-09-05 10:02 UTC
+⏳ 마지막 업데이트: 2026-09-06 10:22 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
