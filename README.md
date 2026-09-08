@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/6ytdGqMxxrI/default.jpg)
-[anime](https://youtube.com/watch?v=6ytdGqMxxrI) - Tablo - Topic (656,104회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/6KckN5hZl80/default.jpg)
+[[MV] Lim Young Woong(임영웅) _ ToTo(또또)](https://youtube.com/watch?v=6KckN5hZl80) - 1theK (원더케이) (210,483회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/SJINVxSPdNc/default.jpg)
-[1000만원 현질 후 벌어진 500억 토츠 음바페 사기 사건..](https://youtube.com/watch?v=SJINVxSPdNc) - 튜브김민교 (674,177회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/siNk-uYGQ1c/default.jpg)
+[스캔들 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=siNk-uYGQ1c) - Netflix Korea 넷플릭스 코리아 (310,127회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/B2jTp3H0JS4/default.jpg)
-[Know you, Feel you](https://youtube.com/watch?v=B2jTp3H0JS4) - So Soo Bin - Topic (58,980회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/U7R9JZ_ehb4/default.jpg)
+["해리케인 이상하다고!!" 클리드 롤에선 못 이기지만 피파에서 개팰게요 ㅋㅋㅋㅋ](https://youtube.com/watch?v=U7R9JZ_ehb4) - 이상호 (635,664회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/tQ4atWo-rpE/default.jpg)
-[T1 vs DK | 2026 Wooribank LCK Playoffs Lower Bracket Round 3](https://youtube.com/watch?v=tQ4atWo-rpE) - LCK Global (2,158,430회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/0EwRAjF7aRg/default.jpg)
+[나를 잊지 말아요](https://youtube.com/watch?v=0EwRAjF7aRg) - Shin Ye Young - Topic (113,285회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/xstuwBzZRBo/default.jpg)
-[자야되는데](https://youtube.com/watch?v=xstuwBzZRBo) - Chan - Topic (50,188회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/o512WZnU-0U/default.jpg)
+[지나갑니다](https://youtube.com/watch?v=o512WZnU-0U) - PAKA (460,815회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-09-07 11:43 UTC
+⏳ 마지막 업데이트: 2026-09-08 10:42 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
