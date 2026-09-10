@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/PEpWLTge234/default.jpg)
-[Please Be Happy](https://youtube.com/watch?v=PEpWLTge234) - Lim Young Woong - Topic (222,812회)
+[Please Be Happy](https://youtube.com/watch?v=PEpWLTge234) - Lim Young Woong - Topic (393,401회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/siNk-uYGQ1c/default.jpg)
-[스캔들 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=siNk-uYGQ1c) - Netflix Korea 넷플릭스 코리아 (519,043회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/fksdxa-ylzE/default.jpg)
+[나를 충전해줘 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=fksdxa-ylzE) - Netflix Korea 넷플릭스 코리아 (286,874회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/mz31Z7FM2hU/default.jpg)
-[[아이온2] 2연속 퍼클 도전! 성역4 퍼클런 갑니다!!! . 비탄의설원](https://youtube.com/watch?v=mz31Z7FM2hU) - 전하TV (132,625회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/SQ7tpUm0zkc/default.jpg)
+[사기의 아픔을 딛고 드디어 진짜 음바페 영입](https://youtube.com/watch?v=SQ7tpUm0zkc) - 튜브김민교 (543,974회)
 
 **4.** ![thumbnail](https://i.ytimg.com/vi/svHUxtHIljw/default.jpg)
-[Guitarist](https://youtube.com/watch?v=svHUxtHIljw) - D.O. - Topic (294,745회)
+[Guitarist](https://youtube.com/watch?v=svHUxtHIljw) - D.O. - Topic (523,198회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/biZr_CLFN8k/default.jpg)
-[당신 지금까지 패작이었지? 【뜨교 마스터 달리기7】](https://youtube.com/watch?v=biZr_CLFN8k) - 튜브김민교 (438,480회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/6iPsMGipDsM/default.jpg)
+[[디거] 파이널 예고편](https://youtube.com/watch?v=6iPsMGipDsM) - Warner Bros. Korea (75,905회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-09-09 10:51 UTC
+⏳ 마지막 업데이트: 2026-09-10 10:45 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
