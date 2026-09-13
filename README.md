@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/IHIt9S2DWcQ/default.jpg)
-[Dear my crazy soulmate](https://youtube.com/watch?v=IHIt9S2DWcQ) - IU - Topic (1,430,849회)
+[Dear my crazy soulmate](https://youtube.com/watch?v=IHIt9S2DWcQ) - IU - Topic (1,960,966회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/NiUP1Pg14RQ/default.jpg)
-[리뷰3000개 전부 극찬!! 혜안져스 목숨걸고 하는 생존게임(※40분 순삭)](https://youtube.com/watch?v=NiUP1Pg14RQ) - 혜안 (532,749회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/LRAxVSfwK4g/default.jpg)
+['디아블로 5' - 최초 공개 티저 트레일러 (4K, 한국어 자막)](https://youtube.com/watch?v=LRAxVSfwK4g) - 인벤 (32,028회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/JJx_WQXOeK0/default.jpg)
-[꿈꾸던 어른이 되었나요?](https://youtube.com/watch?v=JJx_WQXOeK0) - meomuru - Topic (173,042회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/IxxAR8l1CE0/default.jpg)
+[모먼트 10카 커플 문신으로 영원을 약속한 두 사람..](https://youtube.com/watch?v=IxxAR8l1CE0) - 튜브김민교 (308,415회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/rCHln-ke9bw/default.jpg)
-[아저씨가 잠시 빌려갈게](https://youtube.com/watch?v=rCHln-ke9bw) - 랄로 (1,137,227회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/JJx_WQXOeK0/default.jpg)
+[꿈꾸던 어른이 되었나요?](https://youtube.com/watch?v=JJx_WQXOeK0) - meomuru - Topic (333,887회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/xplsbbSxkEg/default.jpg)
-[Sparkle](https://youtube.com/watch?v=xplsbbSxkEg) - Release - Topic (68,239회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/omLatXVqF-E/default.jpg)
+[스타크래프트 신작 트레일러 영상 공개, 흑운장의 첫 반응은?](https://youtube.com/watch?v=omLatXVqF-E) - 흑운장TV (56,858회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-09-12 10:11 UTC
+⏳ 마지막 업데이트: 2026-09-13 11:11 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
