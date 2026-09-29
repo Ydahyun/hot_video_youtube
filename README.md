@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/lQ-w9M447w0/default.jpg)
-[ALLDAY PROJECT - ‘CRASH’ M/V](https://youtube.com/watch?v=lQ-w9M447w0) - THEBLACKLABEL (475,857회)
+[ALLDAY PROJECT - ‘CRASH’ M/V](https://youtube.com/watch?v=lQ-w9M447w0) - THEBLACKLABEL (7,257,147회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/C-NKIKiQCNE/default.jpg)
-[와.. 진짜 개미쳤습니다.. ≪어벤져스: 엔드게임 앙코르≫ 쿠키 영상 3개 & 모든 떡밥 스포일러 총정리](https://youtube.com/watch?v=C-NKIKiQCNE) - 무비띵크_Movie Think (2,756,942회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/7NrRo_WyJ2A/default.jpg)
+[나를 충전해줘 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=7NrRo_WyJ2A) - Netflix Korea 넷플릭스 코리아 (103,307회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/a4VfqAgVgMs/default.jpg)
-[역주행](https://youtube.com/watch?v=a4VfqAgVgMs) - PAKA (510,429회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/Hbo-084aB2w/default.jpg)
+[돈 버리는 게임 *심약자 시청 금지..*](https://youtube.com/watch?v=Hbo-084aB2w) - 동수칸TV (427,917회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/WI4__7z_dJw/default.jpg)
-[BOYNEXTDOOR (보이넥스트도어) 'ANIMAL' Official MV](https://youtube.com/watch?v=WI4__7z_dJw) - HYBE LABELS (357,983회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/-JInUb_G6Jc/default.jpg)
+[CRASH](https://youtube.com/watch?v=-JInUb_G6Jc) - ALLDAY PROJECT - Topic (195,698회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/7NrRo_WyJ2A/default.jpg)
-[나를 충전해줘 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=7NrRo_WyJ2A) - Netflix Korea 넷플릭스 코리아 (59,340회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/UKI1B-GSbkU/default.jpg)
+[개가 된 이유](https://youtube.com/watch?v=UKI1B-GSbkU) - 뜨뜨뜨뜨 (341,115회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-09-28 13:04 UTC
+⏳ 마지막 업데이트: 2026-09-29 12:14 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
