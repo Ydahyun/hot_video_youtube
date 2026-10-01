@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/lQ-w9M447w0/default.jpg)
-[ALLDAY PROJECT - ‘CRASH’ M/V](https://youtube.com/watch?v=lQ-w9M447w0) - THEBLACKLABEL (11,238,538회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/-JInUb_G6Jc/default.jpg)
+[CRASH](https://youtube.com/watch?v=-JInUb_G6Jc) - ALLDAY PROJECT - Topic (743,722회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/h47Vd8BuITA/default.jpg)
-[100일의 거짓말 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=h47Vd8BuITA) - Netflix Korea 넷플릭스 코리아 (122,009회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/vTPZxufbdUs/default.jpg)
+[[폭설] 1차 예고편 | 김윤석 X 구교환 11월 극장 개봉!](https://youtube.com/watch?v=vTPZxufbdUs) - 쇼박스 SHOWBOX (653,089회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/kbG6sOAmVto/default.jpg)
-[슈퍼 AI 플루토 마저도 당황하게 만든 알파고 김성현의 신의 한 수, 과연 그 전략은?](https://youtube.com/watch?v=kbG6sOAmVto) - [ALTUBE] 김성현TV (579,304회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/wjiTQ4DbTYM/default.jpg)
+[정글 장난감](https://youtube.com/watch?v=wjiTQ4DbTYM) - PAKA (451,985회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/-JInUb_G6Jc/default.jpg)
-[CRASH](https://youtube.com/watch?v=-JInUb_G6Jc) - ALLDAY PROJECT - Topic (444,628회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/-wGXnDzPovw/default.jpg)
+[임영웅 [Baila] Live Clip. @2026 IMHERO 10 : THE STADIUM CONCERT 2](https://youtube.com/watch?v=-wGXnDzPovw) - 임영웅 (169,114회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/OlmuIckOX0c/default.jpg)
-[The Witcher 3: Wild Hunt — Remastered | Official Launch Trailer](https://youtube.com/watch?v=OlmuIckOX0c) - The Witcher (2,871,760회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/kucWTDH7bX4/default.jpg)
+[꿀알바 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=kucWTDH7bX4) - Netflix Korea 넷플릭스 코리아 (562,695회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-09-30 12:00 UTC
+⏳ 마지막 업데이트: 2026-10-01 12:33 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
