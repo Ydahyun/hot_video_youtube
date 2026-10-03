@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/C8j3hMJIeFg/default.jpg)
-[Call Me](https://youtube.com/watch?v=C8j3hMJIeFg) - CHANGMO - Topic (141,838회)
+[Call Me](https://youtube.com/watch?v=C8j3hMJIeFg) - CHANGMO - Topic (252,982회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/kucWTDH7bX4/default.jpg)
-[꿀알바 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=kucWTDH7bX4) - Netflix Korea 넷플릭스 코리아 (1,007,759회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/_uC7fyA37Ts/default.jpg)
+[[비전퀘스트] 메인 예고편](https://youtube.com/watch?v=_uC7fyA37Ts) - MarvelKorea (578,268회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/7_Vs2kbuRDE/default.jpg)
-[떼쓰기 메타](https://youtube.com/watch?v=7_Vs2kbuRDE) - 괴물쥐 유튜브 (502,482회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/buWwYQwLWKQ/default.jpg)
+[드디어 환산 1위 다시 탈환했습니다 [팡이요,  메이플스토리]](https://youtube.com/watch?v=buWwYQwLWKQ) - 팡이요 (388,384회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/-wGXnDzPovw/default.jpg)
-[임영웅 [Baila] Live Clip. @2026 IMHERO 10 : THE STADIUM CONCERT 2](https://youtube.com/watch?v=-wGXnDzPovw) - 임영웅 (321,758회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/VDxg_Shr_4U/default.jpg)
+[Dime Girl](https://youtube.com/watch?v=VDxg_Shr_4U) - Release - Topic (103,787회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/vTPZxufbdUs/default.jpg)
-[[폭설] 1차 예고편 | 김윤석 X 구교환 11월 극장 개봉!](https://youtube.com/watch?v=vTPZxufbdUs) - 쇼박스 SHOWBOX (1,063,734회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/kucWTDH7bX4/default.jpg)
+[꿀알바 | 공식 티저 예고편 | 넷플릭스](https://youtube.com/watch?v=kucWTDH7bX4) - Netflix Korea 넷플릭스 코리아 (1,332,696회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-10-02 11:58 UTC
+⏳ 마지막 업데이트: 2026-10-03 11:11 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
