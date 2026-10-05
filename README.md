@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/C8j3hMJIeFg/default.jpg)
-[Call Me](https://youtube.com/watch?v=C8j3hMJIeFg) - CHANGMO - Topic (376,687회)
+[Call Me](https://youtube.com/watch?v=C8j3hMJIeFg) - CHANGMO - Topic (468,793회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/_uC7fyA37Ts/default.jpg)
-[[비전퀘스트] 메인 예고편](https://youtube.com/watch?v=_uC7fyA37Ts) - MarvelKorea (897,932회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/_prDFd4mgVk/default.jpg)
+[사람 미치게 하는 노인](https://youtube.com/watch?v=_prDFd4mgVk) - 괴물쥐 유튜브 (558,906회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/l1XWcbS8mhU/default.jpg)
-[끝날때까지 예측 불가능한 넥서스 피1 사건ㅋㅋㅋㅋㅋ](https://youtube.com/watch?v=l1XWcbS8mhU) - 튜브김민교 (515,764회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/VDxg_Shr_4U/default.jpg)
+[Dime Girl](https://youtube.com/watch?v=VDxg_Shr_4U) - Release - Topic (185,940회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/VDxg_Shr_4U/default.jpg)
-[Dime Girl](https://youtube.com/watch?v=VDxg_Shr_4U) - Release - Topic (143,811회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/pywxif8NAUo/default.jpg)
+["현 클리드는 LCK에서 먹힐까?" 실제 프로들과 멸망전 했습니다 ㄷㄷ](https://youtube.com/watch?v=pywxif8NAUo) - 클리드 (378,194회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/MYAQbRcpAI8/default.jpg)
-[[포핸즈|최종화 예고]죄책감의 고리를 끊는 마지막 한 수! 낙원상가 창고에서 완성될 '포핸즈'의 소름 돋는 반전 결말 #tvN #포핸즈#송강 #이준영](https://youtube.com/watch?v=MYAQbRcpAI8) - Dramatic Drama (20,847회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/3UqfwnJlAKc/default.jpg)
+[Rendezvous](https://youtube.com/watch?v=3UqfwnJlAKc) - Mili - Topic (129,587회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-10-04 11:51 UTC
+⏳ 마지막 업데이트: 2026-10-05 13:46 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
