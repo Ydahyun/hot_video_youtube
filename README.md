@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/C8j3hMJIeFg/default.jpg)
-[Call Me](https://youtube.com/watch?v=C8j3hMJIeFg) - CHANGMO - Topic (468,793회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/IfRNyaUgEC8/default.jpg)
+[OK](https://youtube.com/watch?v=IfRNyaUgEC8) - Kim Gyeol - Topic (282,696회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/_prDFd4mgVk/default.jpg)
-[사람 미치게 하는 노인](https://youtube.com/watch?v=_prDFd4mgVk) - 괴물쥐 유튜브 (558,906회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/W2zvgtCTDdU/default.jpg)
+[예고편 4천만 뷰 터진 일본판 우영우, 전세계가 발칵 뒤집어진 이유](https://youtube.com/watch?v=W2zvgtCTDdU) - 이상하TV (36,302회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/VDxg_Shr_4U/default.jpg)
-[Dime Girl](https://youtube.com/watch?v=VDxg_Shr_4U) - Release - Topic (185,940회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/ICETZPwgu-Q/default.jpg)
+[더욱 풍성하게 돌아온 그 ㅅㄲ들의 하드코어 좀보이드 [좀비원정대 리벤지 1화]](https://youtube.com/watch?v=ICETZPwgu-Q) - 동수칸TV (629,400회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/pywxif8NAUo/default.jpg)
-["현 클리드는 LCK에서 먹힐까?" 실제 프로들과 멸망전 했습니다 ㄷㄷ](https://youtube.com/watch?v=pywxif8NAUo) - 클리드 (378,194회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/iUNLe0iD9P8/default.jpg)
+[ICONIC HEART (Korean Version)](https://youtube.com/watch?v=iUNLe0iD9P8) - Hearts2Hearts - Topic (136,746회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/3UqfwnJlAKc/default.jpg)
-[Rendezvous](https://youtube.com/watch?v=3UqfwnJlAKc) - Mili - Topic (129,587회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/gR0BUG7lxeA/default.jpg)
+[[킬러랭킹 살모사편] 나의 자존심 예고편](https://youtube.com/watch?v=gR0BUG7lxeA) - 고순호 (47,335회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-10-05 13:46 UTC
+⏳ 마지막 업데이트: 2026-10-06 12:51 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
