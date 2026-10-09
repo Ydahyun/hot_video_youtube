@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/R4kmk4CDVHM/default.jpg)
-[CRY OUT LOUD](https://youtube.com/watch?v=R4kmk4CDVHM) - Roy Kim - Topic (404,575회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/JqdlzX5zFzg/default.jpg)
+[Still](https://youtube.com/watch?v=JqdlzX5zFzg) - N.Flying - Topic (198,031회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/uhiQFGuniyo/default.jpg)
-[와.. 뒤지게 재밌겠다.. ≪비전퀘스트≫ 메인 예고편 리뷰 & 떡밥 총정리](https://youtube.com/watch?v=uhiQFGuniyo) - 무비띵크_Movie Think (181,778회)
+[와.. 뒤지게 재밌겠다.. ≪비전퀘스트≫ 메인 예고편 리뷰 & 떡밥 총정리](https://youtube.com/watch?v=uhiQFGuniyo) - 무비띵크_Movie Think (500,642회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/Orh_Ab7OGNk/default.jpg)
-[나 어떡해](https://youtube.com/watch?v=Orh_Ab7OGNk) - 괴물쥐 유튜브 (491,034회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/mlFxxNsExJc/default.jpg)
+[Know My Name ft. True Damage (Official Music Video) | League of Legends Worlds 2026 Anthem](https://youtube.com/watch?v=mlFxxNsExJc) - League of Legends (4,105,836회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/gOcj3W_KKlI/default.jpg)
-[Call It Love](https://youtube.com/watch?v=gOcj3W_KKlI) - KIM JAE HWAN - Topic (62,704회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/R4kmk4CDVHM/default.jpg)
+[CRY OUT LOUD](https://youtube.com/watch?v=R4kmk4CDVHM) - Roy Kim - Topic (570,041회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/tx3tyTI3NW0/default.jpg)
-['역대급 재능' 반다이크 톱으로 슈챔 찍어버린 김민교](https://youtube.com/watch?v=tx3tyTI3NW0) - 튜브김민교 (511,049회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/HJ_KfofUpIM/default.jpg)
+[The Boxer | Special Promo Trailer | Crunchyroll](https://youtube.com/watch?v=HJ_KfofUpIM) - Crunchyroll (634,012회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-10-08 12:54 UTC
+⏳ 마지막 업데이트: 2026-10-09 12:40 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
