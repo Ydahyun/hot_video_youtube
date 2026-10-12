@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/MAIWvlrymlE/default.jpg)
-[Recharge Me](https://youtube.com/watch?v=MAIWvlrymlE) - WENDY - Topic (133,230회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/TBmE7m0yEwY/default.jpg)
+[PLAVE 'Star Trace' M/V](https://youtube.com/watch?v=TBmE7m0yEwY) - PLAVE 플레이브 (204,740회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/uhiQFGuniyo/default.jpg)
-[와.. 뒤지게 재밌겠다.. ≪비전퀘스트≫ 메인 예고편 리뷰 & 떡밥 총정리](https://youtube.com/watch?v=uhiQFGuniyo) - 무비띵크_Movie Think (672,913회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/CBbZm0Xhs7c/default.jpg)
+[Tekken 8 Yujiro Reveal Trailer | EVO France 2026](https://youtube.com/watch?v=CBbZm0Xhs7c) - GamersPrey (1,124,351회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/mlFxxNsExJc/default.jpg)
-[Know My Name ft. True Damage (Official Music Video) | League of Legends Worlds 2026 Anthem](https://youtube.com/watch?v=mlFxxNsExJc) - League of Legends (14,600,695회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/L3RpIEKxqas/default.jpg)
+[응수 전문가](https://youtube.com/watch?v=L3RpIEKxqas) - PAKA (232,830회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/JqdlzX5zFzg/default.jpg)
-[Still](https://youtube.com/watch?v=JqdlzX5zFzg) - N.Flying - Topic (400,255회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/xIlFjHHUfI0/default.jpg)
+[NCT WISH 엔시티 위시 'I SPY' MV](https://youtube.com/watch?v=xIlFjHHUfI0) - SMTOWN (519,250회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/QMPNd0dsRhk/default.jpg)
-[미스터리 수사반2 [사건파일: 허가받지 못한 종결사건 재수사 上]](https://youtube.com/watch?v=QMPNd0dsRhk) - 잠뜰 TV (884,210회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/_5vf07Yn57s/default.jpg)
+[쉬어가는 타입  : 강철타입 하트골드【포켓몬 모든타입 깨기】#1](https://youtube.com/watch?v=_5vf07Yn57s) - 근가놈 (225,242회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-10-11 12:12 UTC
+⏳ 마지막 업데이트: 2026-10-12 14:34 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
