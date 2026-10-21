@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/rsNhWkC4neE/default.jpg)
-[IVE 아이브 'Looks Can Kill' MV](https://youtube.com/watch?v=rsNhWkC4neE) - STARSHIP (5,671,738회)
+[IVE 아이브 'Looks Can Kill' MV](https://youtube.com/watch?v=rsNhWkC4neE) - STARSHIP (9,029,026회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/vDWt01ul5F0/default.jpg)
-[잼민이 기강 잡기](https://youtube.com/watch?v=vDWt01ul5F0) - 김재원의 즐거운 세상 (683,911회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/UFMBTPqJ5Hk/default.jpg)
+[[폭설] 메인 예고편 | 모든 건 눈 때문이었다](https://youtube.com/watch?v=UFMBTPqJ5Hk) - 쇼박스 SHOWBOX (164,638회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/roHWN9fL2SM/default.jpg)
-[NMIXX(엔믹스) “긴 소원(Birthday Wish)” M/V](https://youtube.com/watch?v=roHWN9fL2SM) - JYP Entertainment (5,953,248회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/iKxYSh49qL0/default.jpg)
+[현 시각 공포 게임 1위](https://youtube.com/watch?v=iKxYSh49qL0) - 김재원의 즐거운 세상 (752,939회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/T3VAWNzb8k0/default.jpg)
-[김민교 입딜에 멘탈 터져서 또 샷건 친 임유진ㅋㅋㅋㅋ](https://youtube.com/watch?v=T3VAWNzb8k0) - 튜브김민교 (605,687회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/jHQF6OeLlB4/default.jpg)
+[임영웅 '부디 행복해질 것' Official M/V](https://youtube.com/watch?v=jHQF6OeLlB4) - 임영웅 (397,711회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/zmD9Stm174k/default.jpg)
-[긴 소원 (Birthday Wish)](https://youtube.com/watch?v=zmD9Stm174k) - NMIXX - Topic (293,479회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/_J7PWd3A2PY/default.jpg)
+[가능한 사랑 | 파이널 예고편 | 넷플릭스](https://youtube.com/watch?v=_J7PWd3A2PY) - Netflix Korea 넷플릭스 코리아 (87,847회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-10-20 10:59 UTC
+⏳ 마지막 업데이트: 2026-10-21 11:16 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
