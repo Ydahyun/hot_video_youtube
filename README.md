@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/qsqvJpOgrWw/default.jpg)
-[You’re Under Arrest](https://youtube.com/watch?v=qsqvJpOgrWw) - ILLIT - Topic (1,805,033회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/HlT6mxxt6Ek/default.jpg)
+[ADDICTED](https://youtube.com/watch?v=HlT6mxxt6Ek) - JISOO - Topic (268,027회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/_9F2bDoimVM/default.jpg)
-[[듄: 파트 3] 3차 예고편](https://youtube.com/watch?v=_9F2bDoimVM) - Warner Bros. Korea (1,107,155회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/Nvc6fH7oCsA/default.jpg)
+["예상을 깨부순다..💥" 《듄: 파트 3》 파이널 예고편 나노분석, 숨겨진 떡밥 총정리!](https://youtube.com/watch?v=Nvc6fH7oCsA) - 기묘한 케이지 (211,319회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/Rh5fPTL8zPk/default.jpg)
-[스위스 스테이지 Day 5 | 2026 월드 챔피언십](https://youtube.com/watch?v=Rh5fPTL8zPk) - LCK (1,722,570회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/TLpqYyxg4H8/default.jpg)
+[스위스 스테이지 Day 6 | 2026 월드 챔피언십](https://youtube.com/watch?v=TLpqYyxg4H8) - LCK (1,805,563회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/EFbS6gS5b1w/default.jpg)
-[Our Days in Bloom](https://youtube.com/watch?v=EFbS6gS5b1w) - Sunjin - Topic (133,047회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/v3XAAzPOWyg/default.jpg)
+[Drunk (Feat. Coogie)](https://youtube.com/watch?v=v3XAAzPOWyg) - BE'O - Topic (85,018회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/o6tHnRtkxBY/default.jpg)
-[데블스 플랜: 데드 어게인 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=o6tHnRtkxBY) - Netflix Korea 넷플릭스 코리아 (665,028회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/_9F2bDoimVM/default.jpg)
+[[듄: 파트 3] 3차 예고편](https://youtube.com/watch?v=_9F2bDoimVM) - Warner Bros. Korea (1,484,410회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-10-29 12:23 UTC
+⏳ 마지막 업데이트: 2026-10-30 12:14 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
