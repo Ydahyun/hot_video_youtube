@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/rodFpxo7wkE/default.jpg)
-[With](https://youtube.com/watch?v=rodFpxo7wkE) - RESCENE - Topic (1,315,797회)
+[With](https://youtube.com/watch?v=rodFpxo7wkE) - RESCENE - Topic (2,233,568회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/IhxP6Yr3_LQ/default.jpg)
-[TES vs IG | 녹아웃 스테이지 8강 Day1 | 2026 월드 챔피언십](https://youtube.com/watch?v=IhxP6Yr3_LQ) - LCK (2,550,190회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/KR4FSCGPtLM/default.jpg)
+[푸른길 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=KR4FSCGPtLM) - Netflix Korea 넷플릭스 코리아 (225,156회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/KccAOdiy4SU/default.jpg)
-[Call My Name](https://youtube.com/watch?v=KccAOdiy4SU) - TWS - Topic (275,684회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/OLEqrXMScuY/default.jpg)
+[GEN vs LYON | 녹아웃 스테이지 8강 Day2 | 2026 월드 챔피언십](https://youtube.com/watch?v=OLEqrXMScuY) - LCK (1,802,818회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/ItrnMJpQxmc/default.jpg)
-[DCB 베컴 13카 강화 성공! 충격적인 스탯으로 베컴이 돌아왔습니다..](https://youtube.com/watch?v=ItrnMJpQxmc) - 이상호 (760,964회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/9soFGyRwvcM/default.jpg)
+[triple](https://youtube.com/watch?v=9soFGyRwvcM) - GIRIBOY - Topic (114,753회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/9soFGyRwvcM/default.jpg)
-[triple](https://youtube.com/watch?v=9soFGyRwvcM) - GIRIBOY - Topic (23,612회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/Ej97lubBViM/default.jpg)
+[[슬픈 열대] 메인 예고편](https://youtube.com/watch?v=Ej97lubBViM) - 마인드마크 (81,689회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-11-04 13:51 UTC
+⏳ 마지막 업데이트: 2026-11-05 14:05 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
