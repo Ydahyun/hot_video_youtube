@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/rodFpxo7wkE/default.jpg)
-[With](https://youtube.com/watch?v=rodFpxo7wkE) - RESCENE - Topic (2,233,568회)
+[With](https://youtube.com/watch?v=rodFpxo7wkE) - RESCENE - Topic (2,874,493회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/KR4FSCGPtLM/default.jpg)
-[푸른길 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=KR4FSCGPtLM) - Netflix Korea 넷플릭스 코리아 (225,156회)
+[푸른길 | 공식 예고편 | 넷플릭스](https://youtube.com/watch?v=KR4FSCGPtLM) - Netflix Korea 넷플릭스 코리아 (480,776회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/OLEqrXMScuY/default.jpg)
-[GEN vs LYON | 녹아웃 스테이지 8강 Day2 | 2026 월드 챔피언십](https://youtube.com/watch?v=OLEqrXMScuY) - LCK (1,802,818회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/vePKTpsyWOU/default.jpg)
+[DK vs BLG | 녹아웃 스테이지 8강 Day3 | 2026 월드 챔피언십](https://youtube.com/watch?v=vePKTpsyWOU) - LCK (1,859,933회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/9soFGyRwvcM/default.jpg)
-[triple](https://youtube.com/watch?v=9soFGyRwvcM) - GIRIBOY - Topic (114,753회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/vA5S5FsVz-c/default.jpg)
+[Question Mark](https://youtube.com/watch?v=vA5S5FsVz-c) - HANRORO - Topic (121,140회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/Ej97lubBViM/default.jpg)
-[[슬픈 열대] 메인 예고편](https://youtube.com/watch?v=Ej97lubBViM) - 마인드마크 (81,689회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/gSWocBKJCE0/default.jpg)
+[임영웅 영화 예고편 공개! 팬들 댓글에 감동 폭발…세 번째 영화 흥행 신기록 세울까?](https://youtube.com/watch?v=gSWocBKJCE0) - 젊은할배 59TV (3,469회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-11-05 14:05 UTC
+⏳ 마지막 업데이트: 2026-11-06 13:48 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
