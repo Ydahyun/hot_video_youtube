@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/rodFpxo7wkE/default.jpg)
-[With](https://youtube.com/watch?v=rodFpxo7wkE) - RESCENE - Topic (4,131,589회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/y-klhPVFblg/default.jpg)
+[ISEGYE IDOL (이세계아이돌) ‘REBELS’ Official MV](https://youtube.com/watch?v=y-klhPVFblg) - ISEGYE IDOL (172,619회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/9-dgMb2EPKo/default.jpg)
-[GEN vs IG | 녹아웃 스테이지 4강 Day5 | 2026 월드 챔피언십](https://youtube.com/watch?v=9-dgMb2EPKo) - LCK (2,242,986회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/Pb045QBIHEU/default.jpg)
+[임영웅 영화 예매 첫날 21.4%, CGV 전체 영화 중 1위 차지했습니다](https://youtube.com/watch?v=Pb045QBIHEU) - 젊은할배 59TV (16,290회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/nd3hpJ4oMpU/default.jpg)
-[back number - 히로인 [ヒロイン] 🎵"저 가수 입니다🎤" by 강남](https://youtube.com/watch?v=nd3hpJ4oMpU) - 동네친구 강나미 [Kangnami] (1,833,940회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/mNk51Z-okD4/default.jpg)
+[T1 vs BLG | 녹아웃 스테이지 4강 Day6 | 2026 월드 챔피언십](https://youtube.com/watch?v=mNk51Z-okD4) - LCK (4,349,358회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/_tFYEhMN_a0/default.jpg)
-[소개팅 나가서 1위 했습니다](https://youtube.com/watch?v=_tFYEhMN_a0) - 김재원의 즐거운 세상 (473,364회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/wG7pnZttup8/default.jpg)
+[NCT DREAM 엔시티 드림 'Boogie Woogie' MV](https://youtube.com/watch?v=wG7pnZttup8) - SMTOWN (1,222,429회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/vA5S5FsVz-c/default.jpg)
-[Question Mark](https://youtube.com/watch?v=vA5S5FsVz-c) - HANRORO - Topic (236,559회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/XSSCREq27ZQ/default.jpg)
+[TOMORROW X TOGETHER WORLD TOUR 'STEAL THE WIND' Official Trailer](https://youtube.com/watch?v=XSSCREq27ZQ) - HYBE LABELS (69,467회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-11-08 12:50 UTC
+⏳ 마지막 업데이트: 2026-11-09 15:22 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
