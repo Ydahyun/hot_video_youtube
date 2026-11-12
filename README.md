@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/roPmnx9Pglw/default.jpg)
-[화](https://youtube.com/watch?v=roPmnx9Pglw) - Panda Gomm - Topic (149,403회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/v_71o1VU28o/default.jpg)
+[Crush (크러쉬) - 삐그덕 Live with 조이 (JOY)](https://youtube.com/watch?v=v_71o1VU28o) - Crush (1,639,858회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/mNk51Z-okD4/default.jpg)
-[T1 vs BLG | 녹아웃 스테이지 4강 Day6 | 2026 월드 챔피언십](https://youtube.com/watch?v=mNk51Z-okD4) - LCK (4,394,252회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/3Dv6YPfzog8/default.jpg)
+[Maple Now | 김창섭 디렉터 (26.11.12)](https://youtube.com/watch?v=3Dv6YPfzog8) - 메이플스토리 (230,258회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/g9S18fcpNSQ/default.jpg)
-[Night Stage](https://youtube.com/watch?v=g9S18fcpNSQ) - Release - Topic (193,122회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/fV4uM0b3vmE/default.jpg)
+[Darling](https://youtube.com/watch?v=fV4uM0b3vmE) - D.O. - Topic (255,352회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/kGCx5En_f8g/default.jpg)
-[모든 세트 도란 라인전 완패, 중국상대 첫 패 l T1 vs BLG 롤드컵 리뷰](https://youtube.com/watch?v=kGCx5En_f8g) - 정글선생 진 영준 (1,322,654회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/UeoXn3Fqs1Y/default.jpg)
+[물렁뿌직](https://youtube.com/watch?v=UeoXn3Fqs1Y) - 괴물쥐 유튜브 (584,237회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/Ij3t8d5-bvM/default.jpg)
-[Sleepless Night(2026)](https://youtube.com/watch?v=Ij3t8d5-bvM) - iHwak - Topic (206,377회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/roPmnx9Pglw/default.jpg)
+[화](https://youtube.com/watch?v=roPmnx9Pglw) - Panda Gomm - Topic (232,887회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-11-11 13:39 UTC
+⏳ 마지막 업데이트: 2026-11-12 14:43 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
