@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/5JkTq9rOYI8/default.jpg)
-[Angel Bite](https://youtube.com/watch?v=5JkTq9rOYI8) - TOMORROW BY TOGETHER - Topic (350,760회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/6POlUfjBIB4/default.jpg)
+[Sakuranbo](https://youtube.com/watch?v=6POlUfjBIB4) - YENA - Topic (168,300회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/WqQgO06emHU/default.jpg)
-[인내심이 바닥나버렸습니다... ≪어벤져스: 둠스데이≫ 메인 예고편 공개 임박 & 루머 총정리](https://youtube.com/watch?v=WqQgO06emHU) - 무비띵크_Movie Think (352,157회)
+[인내심이 바닥나버렸습니다... ≪어벤져스: 둠스데이≫ 메인 예고편 공개 임박 & 루머 총정리](https://youtube.com/watch?v=WqQgO06emHU) - 무비띵크_Movie Think (478,251회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/qQ4QqT20Ibs/default.jpg)
-[GEN vs BLG | 결승전 | 2026 월드 챔피언십](https://youtube.com/watch?v=qQ4QqT20Ibs) - LCK (4,646,862회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/J63EuowbQZ8/default.jpg)
+[마지막 타입 : 비행타입 하트골드【포켓몬 모든타입 깨기】#1](https://youtube.com/watch?v=J63EuowbQZ8) - 근가놈 (475,030회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/M9G4guYg-i8/default.jpg)
-[TXT (투모로우바이투게더) 'Angel Bite' Official MV](https://youtube.com/watch?v=M9G4guYg-i8) - HYBE LABELS (7,873,593회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/5JkTq9rOYI8/default.jpg)
+[Angel Bite](https://youtube.com/watch?v=5JkTq9rOYI8) - TOMORROW BY TOGETHER - Topic (549,116회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/8mTw_XhJHvk/default.jpg)
-[[유 캔 씨 에브리씽] 메인 예고편](https://youtube.com/watch?v=8mTw_XhJHvk) - 소니픽쳐스코리아 (97,821회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/cBHXKJiXFJs/default.jpg)
+[더 커진 판, 더 독해진 가족 [가족계획 시즌2] 티저 예고편](https://youtube.com/watch?v=cBHXKJiXFJs) - 쿠팡플레이 Coupang Play (485,670회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-11-17 15:34 UTC
+⏳ 마지막 업데이트: 2026-11-18 15:11 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
