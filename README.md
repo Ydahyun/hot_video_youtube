@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/IQI2qaqHFlg/default.jpg)
-[GiiiRIP](https://youtube.com/watch?v=IQI2qaqHFlg) - BIGBANG - Topic (1,005,314회)
+[GiiiRIP](https://youtube.com/watch?v=IQI2qaqHFlg) - BIGBANG - Topic (2,092,164회)
 
 **2.** ![thumbnail](https://i.ytimg.com/vi/pVFdva-Ifns/default.jpg)
-[추성훈 vs 크리스 리벤 [Official Trailer]](https://youtube.com/watch?v=pVFdva-Ifns) - 블랙컴뱃 (616,016회)
+[추성훈 vs 크리스 리벤 [Official Trailer]](https://youtube.com/watch?v=pVFdva-Ifns) - 블랙컴뱃 (817,537회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/wkg8kL5nx_4/default.jpg)
-[제우스 호소인](https://youtube.com/watch?v=wkg8kL5nx_4) - 괴물쥐 유튜브 (643,673회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/zHLQ0iITbdk/default.jpg)
+[드디어 시작된 멸망전!! 우승 팀 짜보겠습니다｜멸망전EP.01](https://youtube.com/watch?v=zHLQ0iITbdk) - 저라뎃 JUSTLIKETHAT (279,070회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/LOLXD85SThc/default.jpg)
-[Do you know (2026 Version)](https://youtube.com/watch?v=LOLXD85SThc) - SOMEDAY - Topic (499,967회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/XKYp0bYquv4/default.jpg)
+[난 못해 (Feat. 이병철)](https://youtube.com/watch?v=XKYp0bYquv4) - Private Story - Topic (392,065회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/WqQgO06emHU/default.jpg)
-[인내심이 바닥나버렸습니다... ≪어벤져스: 둠스데이≫ 메인 예고편 공개 임박 & 루머 총정리](https://youtube.com/watch?v=WqQgO06emHU) - 무비띵크_Movie Think (516,070회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/T37qFqm9lvM/default.jpg)
+[와...모두가 속았습니다...≪혜안져스 마인크래프트 크라임씬≫](https://youtube.com/watch?v=T37qFqm9lvM) - 혜안 (475,307회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-11-20 14:58 UTC
+⏳ 마지막 업데이트: 2026-11-21 14:17 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
