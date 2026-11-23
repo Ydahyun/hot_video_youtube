@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/IQI2qaqHFlg/default.jpg)
-[GiiiRIP](https://youtube.com/watch?v=IQI2qaqHFlg) - BIGBANG - Topic (2,857,993회)
+[GiiiRIP](https://youtube.com/watch?v=IQI2qaqHFlg) - BIGBANG - Topic (3,870,597회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/pVFdva-Ifns/default.jpg)
-[추성훈 vs 크리스 리벤 [Official Trailer]](https://youtube.com/watch?v=pVFdva-Ifns) - 블랙컴뱃 (1,078,754회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/NKJyM8z8qFo/default.jpg)
+[[단독] 심형래 '디워', AI 입고 재개봉 한다...예고편 최초 공개 / YTN star](https://youtube.com/watch?v=NKJyM8z8qFo) - YTN star (18,365회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/izlRpHOlgFE/default.jpg)
-[≪무기 강화하는 게임≫ 드디어...전설의 검 강화성공!!!!!!!](https://youtube.com/watch?v=izlRpHOlgFE) - 혜안 (1,208,516회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/u201uSiHiko/default.jpg)
+[멸망전 팀 결정 마지막날 클리드에게 선수들 다 뺏긴 맵교ㅋㅋㅋ](https://youtube.com/watch?v=u201uSiHiko) - 튜브김민교 (435,199회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/XKYp0bYquv4/default.jpg)
-[난 못해 (Feat. 이병철)](https://youtube.com/watch?v=XKYp0bYquv4) - Private Story - Topic (572,868회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/eZ_slVaJ9lo/default.jpg)
+[Please Be Happy](https://youtube.com/watch?v=eZ_slVaJ9lo) - Roy Kim - Topic (161,169회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/AqxpOxdPBz8/default.jpg)
-[OFF THE RECORD | 예고편 TRAILER | I'll Win Over the Commander | Fantasy Romance](https://youtube.com/watch?v=AqxpOxdPBz8) - 문베일 스튜디오 Moonveil Studio (38,541회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/-RKmRsz6Jys/default.jpg)
+[*23,426*개의 벽돌을 직접 만들고 설치해 피라미드를 만드는 게임](https://youtube.com/watch?v=-RKmRsz6Jys) - YouTube지누 (285,692회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-11-22 14:09 UTC
+⏳ 마지막 업데이트: 2026-11-23 17:30 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
