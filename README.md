@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/IQI2qaqHFlg/default.jpg)
-[GiiiRIP](https://youtube.com/watch?v=IQI2qaqHFlg) - BIGBANG - Topic (3,870,597회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/5e5Q-_ZdEK4/default.jpg)
+[Irony of Love](https://youtube.com/watch?v=5e5Q-_ZdEK4) - Yiya - Topic (196,080회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/NKJyM8z8qFo/default.jpg)
-[[단독] 심형래 '디워', AI 입고 재개봉 한다...예고편 최초 공개 / YTN star](https://youtube.com/watch?v=NKJyM8z8qFo) - YTN star (18,365회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/Oae1ZnQ15gQ/default.jpg)
+[[어벤져스: 둠스데이] 메인 예고편](https://youtube.com/watch?v=Oae1ZnQ15gQ) - MarvelKorea (3,396,562회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/u201uSiHiko/default.jpg)
-[멸망전 팀 결정 마지막날 클리드에게 선수들 다 뺏긴 맵교ㅋㅋㅋ](https://youtube.com/watch?v=u201uSiHiko) - 튜브김민교 (435,199회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/6h40zNOPiy8/default.jpg)
+["그럼 나가" 하루 만에 터져버린 팀..?｜멸망전 EP.05](https://youtube.com/watch?v=6h40zNOPiy8) - 저라뎃 JUSTLIKETHAT (355,412회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/eZ_slVaJ9lo/default.jpg)
-[Please Be Happy](https://youtube.com/watch?v=eZ_slVaJ9lo) - Roy Kim - Topic (161,169회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/IQI2qaqHFlg/default.jpg)
+[GiiiRIP](https://youtube.com/watch?v=IQI2qaqHFlg) - BIGBANG - Topic (4,720,426회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/-RKmRsz6Jys/default.jpg)
-[*23,426*개의 벽돌을 직접 만들고 설치해 피라미드를 만드는 게임](https://youtube.com/watch?v=-RKmRsz6Jys) - YouTube지누 (285,692회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/8lp4WukqcT4/default.jpg)
+[드디어 떴습니다. ≪어벤져스: 둠스데이≫ 메인 예고편 나노 분석 & 떡밥 총정리](https://youtube.com/watch?v=8lp4WukqcT4) - 무비띵크_Movie Think (1,230,567회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-11-23 17:30 UTC
+⏳ 마지막 업데이트: 2026-11-24 17:02 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
