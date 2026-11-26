@@ -6,22 +6,22 @@
 
 
 **1.** ![thumbnail](https://i.ytimg.com/vi/cS7xovz4DH0/default.jpg)
-[Like You](https://youtube.com/watch?v=cS7xovz4DH0) - Yim Siwan - Topic (122,015회)
+[Like You](https://youtube.com/watch?v=cS7xovz4DH0) - Yim Siwan - Topic (187,517회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/Oae1ZnQ15gQ/default.jpg)
-[[어벤져스: 둠스데이] 메인 예고편](https://youtube.com/watch?v=Oae1ZnQ15gQ) - MarvelKorea (4,556,668회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/6OtftMffaD4/default.jpg)
+[와.. 충격의 레전드 등장.. ≪어벤져스: 둠스데이≫ 메인 예고편 나노 분석 2탄 & 떡밥 총정리](https://youtube.com/watch?v=6OtftMffaD4) - 무비띵크_Movie Think (1,283,770회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/gfVF1LRvluY/default.jpg)
-[Welcome Back Home, Zeus](https://youtube.com/watch?v=gfVF1LRvluY) - T1 (1,473,156회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/32KECPoRi2U/default.jpg)
+[랄부](https://youtube.com/watch?v=32KECPoRi2U) - 랄로 (1,095,387회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/5e5Q-_ZdEK4/default.jpg)
-[Irony of Love](https://youtube.com/watch?v=5e5Q-_ZdEK4) - YIYA - Topic (286,265회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/c12fD7gMMHg/default.jpg)
+[IWALY (Remain in Love)](https://youtube.com/watch?v=c12fD7gMMHg) - izna - Topic (134,361회)
 
-**5.** ![thumbnail](https://i.ytimg.com/vi/6OtftMffaD4/default.jpg)
-[와.. 충격의 레전드 등장.. ≪어벤져스: 둠스데이≫ 메인 예고편 나노 분석 2탄 & 떡밥 총정리](https://youtube.com/watch?v=6OtftMffaD4) - 무비띵크_Movie Think (792,030회)
+**5.** ![thumbnail](https://i.ytimg.com/vi/Oae1ZnQ15gQ/default.jpg)
+[[어벤져스: 둠스데이] 메인 예고편](https://youtube.com/watch?v=Oae1ZnQ15gQ) - MarvelKorea (5,302,118회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-11-25 16:52 UTC
+⏳ 마지막 업데이트: 2026-11-26 16:29 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
