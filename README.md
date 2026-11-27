@@ -5,23 +5,23 @@
 ![gold](https://media.tenor.com/your-gif-id.gif)
 
 
-**1.** ![thumbnail](https://i.ytimg.com/vi/cS7xovz4DH0/default.jpg)
-[Like You](https://youtube.com/watch?v=cS7xovz4DH0) - Yim Siwan - Topic (187,517회)
+**1.** ![thumbnail](https://i.ytimg.com/vi/Dp2xVG6YHf0/default.jpg)
+[있어도 그만 없어도 그만](https://youtube.com/watch?v=Dp2xVG6YHf0) - MEOMURU - Topic (124,445회)
 
-**2.** ![thumbnail](https://i.ytimg.com/vi/6OtftMffaD4/default.jpg)
-[와.. 충격의 레전드 등장.. ≪어벤져스: 둠스데이≫ 메인 예고편 나노 분석 2탄 & 떡밥 총정리](https://youtube.com/watch?v=6OtftMffaD4) - 무비띵크_Movie Think (1,283,770회)
+**2.** ![thumbnail](https://i.ytimg.com/vi/lw5QpAdo3WI/default.jpg)
+[아니 마블 진짜 미치셨어요..? ≪어벤져스: 둠스데이≫ 메인 예고편 나노 분석 3탄 & 떡밥 총정리](https://youtube.com/watch?v=lw5QpAdo3WI) - 무비띵크_Movie Think (1,203,349회)
 
-**3.** ![thumbnail](https://i.ytimg.com/vi/32KECPoRi2U/default.jpg)
-[랄부](https://youtube.com/watch?v=32KECPoRi2U) - 랄로 (1,095,387회)
+**3.** ![thumbnail](https://i.ytimg.com/vi/3ynhPDuk5qA/default.jpg)
+[천하제일 바텀대회 | 멸망전 EP.7](https://youtube.com/watch?v=3ynhPDuk5qA) - 클리드 (287,996회)
 
-**4.** ![thumbnail](https://i.ytimg.com/vi/c12fD7gMMHg/default.jpg)
-[IWALY (Remain in Love)](https://youtube.com/watch?v=c12fD7gMMHg) - izna - Topic (134,361회)
+**4.** ![thumbnail](https://i.ytimg.com/vi/4Di16_aaq0s/default.jpg)
+[Winter](https://youtube.com/watch?v=4Di16_aaq0s) - Epitone Project - Topic (53,433회)
 
 **5.** ![thumbnail](https://i.ytimg.com/vi/Oae1ZnQ15gQ/default.jpg)
-[[어벤져스: 둠스데이] 메인 예고편](https://youtube.com/watch?v=Oae1ZnQ15gQ) - MarvelKorea (5,302,118회)
+[[어벤져스: 둠스데이] 메인 예고편](https://youtube.com/watch?v=Oae1ZnQ15gQ) - MarvelKorea (5,872,815회)
 
 
 ---
-⏳ 마지막 업데이트: 2026-11-26 16:29 UTC
+⏳ 마지막 업데이트: 2026-11-27 16:14 UTC
 
 Powered by [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) · 자동화 봇
